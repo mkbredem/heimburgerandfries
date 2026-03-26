@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Home Page</title>
+
+  <style>
+    body {
+      font-family: Arial, Helvetica, sans-serif;
+    }
+    table {
+      width: 80%;
+    }
+    select {
+      width: 100%;
+    }
+  </style>
+
+  <script>
+    function go(selectName) {
+      const select = document.forms['recipeForm'][selectName];
+      const url = select.value;
+      if (url) {
+        window.location.href = url;
+      }
+    }
+  </script>
+</head>
+
+<body>
+<center>
+
+<form name="recipeForm">
+
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td colspan="2" align="center">
+      <a href="Page%201%20and%202.htm">
+        <img src="Images/Cookbook%20Cover.jpg" width="378" height="567" alt="Cookbook Cover">
+      </a>
+    </td>
+  </tr>
+
+  <!-- APPETIZERS -->
+  <tr>
+    <td><button type="button" onclick="go('appetizer')">Go!</button></td>
+    <td>
+      <select name="appetizer">
+        <option value="">--- APPETIZERS & BEVERAGES ---</option>
+        <option value="http://www.heimburgerandfries.com/Images/Appetizers, Beverages and Party Foods - Aloha Dip.jpg">Aloha Dip</option>
+        <option value="http://www.heimburgerandfries.com/Images/Appetizers, Beverages and Party Foods - Cheese Ball.jpg">Cheese Ball</option>
+        <option value="http://www.heimburgerandfries.com/Images/Appetizers, Beverages and Party Foods - Spinach Dip.jpg">Spinach Dip</option>
+      </select>
+    </td>
+  </tr>
+
+  <!-- BREADS -->
+  <tr>
+    <td><button type="button" onclick="go('breads')">Go!</button></td>
+    <td>
+      <select name="breads">
+        <option value="">--- BREADS ---</option>
+        <option value="http://www.heimburgerandfries.com/Images/Breads, Preserves, Jellies and Pickles - Banana-Blueberry Bread.jpg">Banana Blueberry Bread</option>
+        <option value="http://www.heimburgerandfries.com/Images/Breads, Preserves, Jellies and Pickles - Pumpkin Bread.jpg">Pumpkin Bread</option>
+      </select>
+    </td>
+  </tr>
+
+  <!-- CAKES -->
+  <tr>
+    <td><button type="button" onclick="go('cakes')">Go!</button></td>
+    <td>
+      <select name="cakes">
+        <option value="">--- CAKES ---</option>
+        <option value="http://www.heimburgerandfries.com/Images/Cakes, Frostings and Fillings - Carrot Cake.jpg">Carrot Cake</option>
+        <option value="http://www.heimburgerandfries.com/Images/Cakes, Frostings and Fillings - Red Velvet Cake.jpg">Red Velvet Cake</option>
+      </select>
+    </td>
+  </tr>
+
+  <!-- COOKIES -->
+  <tr>
+    <td><button type="button" onclick="go('cookies')">Go!</button></td>
+    <td>
+      <select name="cookies">
+        <option value="">--- COOKIES & PIES ---</option>
+        <option value="http://www.heimburgerandfries.com/Images/Pies, Cookies, Candies and Pastries - Brownies.jpg">Brownies</option>
+        <option value="http://www.heimburgerandfries.com/Images/Pies, Cookies, Candies and Pastries - Sugar Cookie Cut-outs.jpg">Sugar Cookies</option>
+      </select>
+    </td>
+  </tr>
+
+</table>
+
+</form>
+
+</center>
+</body>
+</html>

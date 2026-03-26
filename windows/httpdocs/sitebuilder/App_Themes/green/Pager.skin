@@ -1,0 +1,18 @@
+<SiteBuilder:PagerControl 
+	runat="server"
+	ShowPageSizeLinks="false" PageNumberStyle-CssClass="mod-pager-a">
+	<LayoutTemplate>
+		<table cellpadding="0" cellspacing="0" border="0" width="100%" class="mod-pager" style="margin: 10px 0;">
+			<tr>
+				<td style="padding: 5px 10px;">$TotalInfo$</td>
+				<td align="right" style="padding: 5px 10px;">
+					<asp:LinkButton ID="FirstButton" CssClass="mod-pager-a" runat="server" />&nbsp;
+					<asp:LinkButton ID="PreviousButton" CssClass="mod-pager-a" runat="server" />&nbsp;
+					<asp:PlaceHolder ID="PagesContainer" runat="server" />&nbsp;
+					<asp:LinkButton ID="NextButton" CssClass="mod-pager-a" runat="server" />&nbsp;
+					<asp:LinkButton ID="LastButton" CssClass="mod-pager-a" runat="server" />
+				</td>
+			</tr>
+		</table>
+	</LayoutTemplate>
+</SiteBuilder:PagerControl>

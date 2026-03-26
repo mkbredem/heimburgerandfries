@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<siteMap>
+  <siteMapNode>
+    <siteMapNode title="Home" id="default" description="" keywords="" version="3" url="page1.aspx" />
+    <siteMapNode title="Flash Intro" id="FlashIntro" description="The flash intro will replace static content on the home page of your site." keywords="" moduleType="SWsoft.SiteBuilder.Modules.FlashIntro.FlashIntro, SiteBuilder.Modules.FlashIntro, Version=3.2.215.19973, Culture=neutral, PublicKeyToken=null" version="1" ObjectId="1" ColorSchemaId="1" HeaderText="" BodyText="" FlashPrefix="" FlashId="Default" FlashName="default" url="FlashIntro/FlashIntro.aspx" />
+    <siteMapNode title="Guestbook" id="Guestbook" description="Guestbook module lets your visitors write comments for your site." keywords="" moduleType="SWsoft.SiteBuilder.Modules.Guestbook.GuestbookModule, SiteBuilder.Modules.Guestbook, Version=3.2.215.19993, Culture=neutral, PublicKeyToken=null" version="1" GUID="914d3cda-f3ef-49db-9860-2d08a0a50de1" url="Guestbook/Guestbook.aspx?id=914d3cda-f3ef-49db-9860-2d08a0a50de1" />
+    <siteMapNode provider="ImageGallery" />
+  </siteMapNode>
+</siteMap>

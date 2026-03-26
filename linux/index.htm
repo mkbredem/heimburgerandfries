@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Home Page</title>
+
+<style>
+  body { font-family: Arial, Helvetica, sans-serif; }
+  table { width: 80%; margin: auto; }
+  select { width: 100%; }
+  button { cursor: pointer; }
+</style>
+
+<script>
+  function go(name) {
+    const s = document.forms.recipeForm[name];
+    if (s && s.value) window.location.href = s.value;
+  }
+</script>
+</head>
+
+<body>
+<center>
+
+<form name="recipeForm">
+<table border="0" cellspacing="0" cellpadding="4">
+
+<tr>
+<td colspan="2" align="center">
+<a href="Page%201%20and%202.htm">
+<img src="Images/Cookbook%20Cover.jpg" width="378" height="567" alt="Cookbook Cover">
+</a>
+</td>
+</tr>
+
+<!-- APPETIZERS & BEVERAGES -->
+<tr><td><button type="button" onclick="go('appetizer')">Go!</button></td>
+<td><select name="appetizer">
+<option value="">---------------- APPETIZERS ----------------
+<option value="Images/Appetizers, Beverages and Party Foods - Aloha Dip.jpg">Aloha Dip
+<option value="Images/Appetizers, Beverages and Party Foods - Caso.jpg">Caso
+<option value="Images/Appetizers, Beverages and Party Foods - Cheese Ball.jpg">Cheese Ball
+<option value="Images/Appetizers, Beverages and Party Foods - Chilli Dip.jpg">Chilli Dip
+<option value="Images/Appetizers, Beverages and Party Foods - Fruit Dip.jpg">Fruit Dip
+<option value="Images/Appetizers, Beverages and Party Foods - Garden Vegetable Dip.jpg">Garden Vegetable Dip
+<option value="Images/Appetizers, Beverages and Party Foods - Oyster Cracker Snacks.jpg">Oyster Cracker Snacks
+<option value="Images/Appetizers, Beverages and Party Foods - Pizza Rounds.jpg">Pizza Rounds
+<option value="Images/Appetizers, Beverages and Party Foods - Shrimp Spread.jpg">Shrimp Spread
+<option value="Images/Appetizers, Beverages and Party Foods - Spincach Dip.jpg">Spinach Dip
+<option value="Images/Appetizers, Beverages and Party Foods - Stuffed Mushrooms.jpg">Stuffed Mushrooms
+<option value="Images/Appetizers, Beverages and Party Foods - Taco Dip.jpg">Taco Dip
+<option value="">---------------- BEVERAGES ----------------
+<option value="Images/Appetizers, Beverages and Party Foods - Friendship Tea (Spiced Tea).jpg">Friendship Tea
+<option value="Images/Appetizers, Beverages and Party Foods - Hot Chocolate.jpg">Hot Chocolate
+<option value="Images/Appetizers, Beverages and Party Foods - Rainbow Punch.jpg">Rainbow Punch
+</select></td></tr>
+
+<!-- BREADS -->
+<tr><td><button type="button" onclick="go('breads')">Go!</button></td>
+<td><select name="breads">
+<option value="">---------------- BREADS ----------------
+<option value="Images/Breads, Preserves, Jellies and Pickles - Apricot Bread.jpg">Apricot Bread
+<option value="Images/Breads, Preserves, Jellies and Pickles - Banana Cake Muffins.jpg">Banana Cake Muffins
+<option value="Images/Breads, Preserves, Jellies and Pickles - Banana-Blueberry Bread.jpg">Banana-Blueberry Bread
+<option value="Images/Breads, Preserves, Jellies and Pickles - Christmas Fruit Bread.jpg">Christmas Fruit Bread
+<option value="Images/Breads, Preserves, Jellies and Pickles - Cinnamon Rolls.jpg">Cinnamon Rolls
+<option value="Images/Breads, Preserves, Jellies and Pickles - Coffe Cake.jpg">Coffee Cake
+<option value="Images/Breads, Preserves, Jellies and Pickles - Corn Bread.jpg">Corn Bread
+<option value="Images/Breads, Preserves, Jellies and Pickles - Cracked Wheat Bread.jpg">Cracked Wheat Bread
+<option value="Images/Breads, Preserves, Jellies and Pickles - Cranberry Bread.jpg">Cranberry Bread
+<option value="Images/Breads, Preserves, Jellies and Pickles - Fruit Cake Confections.jpg">Fruit Cake Confections
+<option value="Images/Breads, Preserves, Jellies and Pickles - Gooey Butter Coffee Cake.jpg">Gooey Butter Coffee Cake
+<option value="Images/Breads, Preserves, Jellies and Pickles - Grandma's Icing.jpg">Grandma's Icing
+<option value="Images/Breads, Preserves, Jellies and Pickles - Honey Mustard.jpg">Honey Mustard
+<option value="Images/Breads, Preserves, Jellies and Pickles - Lemon Tea Bread.jpg">Lemon Tea Bread
+<option value="Images/Breads, Preserves, Jellies and Pickles - Lemonberry Poppyseed Bread.jpg">Lemonberry Poppyseed Bread
+<option value="Images/Breads, Preserves, Jellies and Pickles - Nut Bread.jpg">Nut Bread
+<option value="Images/Breads, Preserves, Jellies and Pickles - Pumpkin Bread.jpg">Pumpkin Bread
+<option value="Images/Breads, Preserves, Jellies and Pickles - Strawbery Jam (Freezer).jpg">Strawberry Jam (Freezer)
+<option value="Images/Breads, Preserves, Jellies and Pickles - Straberry Jam (Freezer) 2.jpg">Strawberry Jam (Freezer) 2
+<option value="Images/Breads, Preserves, Jellies and Pickles - Strawberry Tea.jpg">Strawberry Tea
+</select></td></tr>
+
+<!-- CAKES -->
+<tr><td><button type="button" onclick="go('cakes')">Go!</button></td>
+<td><select name="cakes">
+<option value="">---------------- CAKES ----------------
+<option value="Images/Cakes, Frostings and Fillings - Apple Upside-down Cake.jpg">Apple Upside-down Cake
+<option value="Images/Cakes, Frostings and Fillings - Apple Updside-down Cake 2.jpg">Apple Upside-down Cake 2
+<option value="Images/Cakes, Frostings and Fillings - Carrot Cake.jpg">Carrot Cake
+<option value="Images/Cakes, Frostings and Fillings - Chocolate Pudding Cake.jpg">Chocolate Pudding Cake
+<option value="Images/Cakes, Frostings and Fillings - Date Nut Bars.jpg">Date Nut Bars
+<option value="Images/Cakes, Frostings and Fillings - Dirt Cake.jpg">Dirt Cake
+<option value="Images/Cakes, Frostings and Fillings - Key Lime Cake.jpg">Key Lime Cake
+<option value="Images/Cakes, Frostings and Fillings - Lemon Angel Cake.jpg">Lemon Angel Cake
+<option value="Images/Cakes, Frostings and Fillings - Lemon Cake and Glaze.jpg">Lemon Cake and Glaze
+<option value="Images/Cakes, Frostings and Fillings - Red Velvet Cake.jpg">Red Velvet Cake
+<option value="Images/Cakes, Frostings and Fillings - Red Velvet Frosting.jpg">Red Velvet Frosting
+<option value="Images/Cakes, Frostings and Fillings - Strawberry Cake.jpg">Strawberry Cake
+<option value="Images/Cakes, Frostings and Fillings - Turtle Cake.jpg">Turtle Cake
+<option value="Images/Cakes, Frostings and Fillings - Wacky Cake.jpg">Wacky Cake
+</select></td></tr>
+
+<tr><td><button type="button" onclick="go('cookies')">Go!</button></td>
+<td><select name="cookies">
+<option value="">---------------- COOKIES ----------------
+<option value="Images/Pies, Cookies, Candies and Pastries - Antia's Delight.jpg">Anita's Delight
+<option value="Images/Pies, Cookies, Candies and Pastries - Apple Crisp.jpg">Apple Crisp
+<option value="Images/Pies, Cookies, Candies and Pastries - Brownies.jpg">Brownies
+<option value="Images/Pies, Cookies, Candies and Pastries - Caramel Corn.jpg">Caramel Corn
+<option value="Images/Pies, Cookies, Candies and Pastries - Cherry Cheese Tarts.jpg">Cherry Cheese Tarts
+<option value="Images/Pies, Cookies, Candies and Pastries - Chocolate Fondue.jpg">Chocolate Fondue
+<option value="Images/Pies, Cookies, Candies and Pastries - Chocolate Fudge.jpg">Chocolate Fudge
+<option value="Images/Pies, Cookies, Candies and Pastries - Cream Caramels.jpg">Cream Caramels
+<option value="Images/Pies, Cookies, Candies and Pastries - Dishpan Cookies.jpg">Dishpan Cookies
+<option value="Images/Pies, Cookies, Candies and Pastries - Grandma's Sugar Cookies.jpg">Grandma's Sugar Cookies
+<option value="Images/Pies, Cookies, Candies and Pastries - Grasshopper Pie.jpg">Grasshopper Pie
+<option value="Images/Pies, Cookies, Candies and Pastries - Hershey Bar Pie.jpg">Hershey Bar Pie
+<option value="Images/Pies, Cookies, Candies and Pastries - Ice Cream Crunch.jpg">Ice Cream Crunch
+<option value="Images/Pies, Cookies, Candies and Pastries - Maloasses Cookies.jpg">Molasses Cookies
+<option value="Images/Pies, Cookies, Candies and Pastries - Oatmeal Crispers.jpg">Oatmeal Crispers
+<option value="Images/Pies, Cookies, Candies and Pastries - Peach Cobbler.jpg">Peach Cobbler
+<option value="Images/Pies, Cookies, Candies and Pastries - Peach Pie.jpg">Peach Pie
+<option value="Images/Pies, Cookies, Candies and Pastries - Peanut Butter Cookies.jpg">Peanut Butter Cookies
+<option value="Images/Pies, Cookies, Candies and Pastries - Peanutbutter Balls.jpg">Peanut Butter Balls
+<option value="Images/Pies, Cookies, Candies and Pastries - Peanutbutter Fudge.jpg">Peanut Butter Fudge
+<option value="Images/Pies, Cookies, Candies and Pastries - Pumpkin Pie.jpg">Pumpkin Pie
+<option value="Images/Pies, Cookies, Candies and Pastries - Puppy Chow.jpg">Puppy Chow
+<option value="Images/Pies, Cookies, Candies and Pastries - Strawberry Pie.jpg">Strawberry Pie
+<option value="Images/Pies, Cookies, Candies and Pastries - Sugar Cookie Cut-outs.jpg">Sugar Cookie Cut-outs
+</select></td></tr>
+
+<tr><td><button type="button" onclick="go('desserts')">Go!</button></td>
+<td><select name="desserts">
+<option value="">---------------- DESSERTS ----------------
+<option value="Images/Desserts, Fruits and Ices - Apple Crunch Pudding.jpg">Apple Crunch Pudding
+<option value="Images/Desserts, Fruits and Ices - Apple Dumplings.jpg">Apple Dumplings
+<option value="Images/Desserts, Fruits and Ices - Applesauce.jpg">Applesauce
+<option value="Images/Desserts, Fruits and Ices - Boiled Custard.jpg">Boiled Custard
+<option value="Images/Desserts, Fruits and Ices - Homemade Ice Cream.jpg">Homemade Ice Cream
+<option value="Images/Desserts, Fruits and Ices - Peanut Roll.jpg">Peanut Roll
+<option value="Images/Desserts, Fruits and Ices - Rice Pudding.jpg">Rice Pudding
+<option value="Images/Desserts, Fruits and Ices - Turtle Cheesecake.jpg">Turtle Cheesecake
+</select></td></tr>
+
+<tr><td><button type="button" onclick="go('meats')">Go!</button></td>
+<td><select name="meats">
+<option value="">---------------- MEATS ----------------
+<option value="Images/Meats, Gravies and Meat Sauces - Beef and Cabbage.jpg">Beef and Cabbage
+<option value="Images/Meats, Gravies and Meat Sauces - Chicken Stir Fry.jpg">Chicken Stir Fry
+<option value="Images/Meats, Gravies and Meat Sauces - Chop Suey.jpg">Chop Suey
+<option value="Images/Meats, Gravies and Meat Sauces - Emmy's Hamburger.jpg">Emmy's Hamburger
+<option value="Images/Meats, Gravies and Meat Sauces - Flank Steak.jpg">Flank Steak
+<option value="Images/Meats, Gravies and Meat Sauces - French Dipped Sandwich.jpg">French Dipped Sandwich
+<option value="Images/Meats, Gravies and Meat Sauces - Goulash.jpg">Goulash
+<option value="Images/Meats, Gravies and Meat Sauces - Hamburger Casserole.jpg">Hamburger Casserole
+<option value="Images/Meats, Gravies and Meat Sauces - Mac's Sloppy Joes.jpg">Mac's Sloppy Joes
+<option value="Images/Meats, Gravies and Meat Sauces - Meatloaf.jpg">Meatloaf
+<option value="Images/Meats, Gravies and Meat Sauces - Pizza Spaghetti Pie.jpg">Pizza Spaghetti Pie
+<option value="Images/Meats, Gravies and Meat Sauces - Shis-Kabob.jpg">Shish-Kabob
+<option value="Images/Meats, Gravies and Meat Sauces - Spaghetti Pie.jpg">Spaghetti Pie
+<option value="Images/Meats, Gravies and Meat Sauces - Stir Fry Beef.jpg">Stir Fry Beef
+<option value="Images/Meats, Gravies and Meat Sauces - Veal Scallopini.jpg">Veal Scallopini
+<option value="Images/Meats, Gravies and Meat Sauces Sloppy Joes.jpg">Sloppy Joes
+<option value="Images/Meats, Gravies and Meat Sauces -Stew.jpg">Stew
+<option value="Images/Meats, Gravies and Meat Sauces -Stuffed Peppers.jpg">Stuffed Peppers
+</select></td></tr>
+
+<tr><td><button type="button" onclick="go('pasta')">Go!</button></td>
+<td><select name="pasta">
+<option value="">---------------- PASTA / GRAINS ----------------
+<option value="Images/Pasta and Grains - Campbells Chicken and Brocolli Alfredo.jpg">Campbell's Chicken & Broccoli Alfredo
+<option value="Images/Pasta and Grains - Chicken and Dumplings.jpg">Chicken and Dumplings
+<option value="Images/Pasta and Grains - Chicken and Noodles.jpg">Chicken and Noodles
+<option value="Images/Pasta and Grains - Chicken Rice Casserole.jpg">Chicken Rice Casserole
+<option value="Images/Pasta and Grains - Homemade Noodles.jpg">Homemade Noodles
+<option value="Images/Pasta and Grains - Italian Pasta Stir Fry.jpg">Italian Pasta Stir Fry
+<option value="Images/Pasta and Grains - japanese Fried Rice.jpg">Japanese Fried Rice
+<option value="Images/Pasta and Grains - Lasagna.jpg">Lasagna
+<option value="Images/Pasta and Grains - Macaroni and Cheese.jpg">Macaroni and Cheese
+<option value="Images/Pasta and Grains - Pasta Salad.jpg">Pasta Salad
+<option value="Images/Pasta and Grains - Rice Casserole.jpg">Rice Casserole
+<option value="Images/Pasta and Grains - Spaghetti Sauce.jpg">Spaghetti Sauce
+<option value="Images/Pasta and Grains - Spanish Beef Rice.jpg">Spanish Beef Rice
+<option value="Images/Pasta and Grains - Stuffed Shells.jpg">Stuffed Shells
+</select></td></tr>
+
+<tr>
+<td><button type="button" onclick="go('pie')">Go!</button></td>
+<td>
+<select name="pie">
+<option value="">---------------- PIES & CANDIES ----------------
+<option value="Images/Pies, Cookies, Candies and Pastries - Antia's Delight.jpg">Antia's Delight
+<option value="Images/Pies, Cookies, Candies and Pastries - Apple Crisp.jpg">Apple Crisp
+<option value="Images/Pies, Cookies, Candies and Pastries - Brownies.jpg">Brownies
+<option value="Images/Pies, Cookies, Candies and Pastries - Caramel Corn.jpg">Caramel Corn
+<option value="Images/Pies, Cookies, Candies and Pastries - Cherry Cheese Tarts.jpg">Cherry Cheese Tarts
+<option value="Images/Pies, Cookies, Candies and Pastries - Chocolate Fondue.jpg">Chocolate Fondue
+<option value="Images/Pies, Cookies, Candies and Pastries - Chocolate Fudge.jpg">Chocolate Fudge
+<option value="Images/Pies, Cookies, Candies and Pastries - Cream Caramels.jpg">Cream Caramels
+<option value="Images/Pies, Cookies, Candies and Pastries - Dishpan Cookies.jpg">Dishpan Cookies
+<option value="Images/Pies, Cookies, Candies and Pastries - Grandma's Sugar Cookies.jpg">Grandma's Sugar Cookies
+<option value="Images/Pies, Cookies, Candies and Pastries - Grasshopper Pie.jpg">Grasshopper Pie
+<option value="Images/Pies, Cookies, Candies and Pastries - Hershey Bar Pie.jpg">Hershey Bar Pie
+<option value="Images/Pies, Cookies, Candies and Pastries - Ice Cream Crunch.jpg">Ice Cream Crunch
+<option value="Images/Pies, Cookies, Candies and Pastries - Maloasses Cookies.jpg">Molasses Cookies
+<option value="Images/Pies, Cookies, Candies and Pastries - Oatmeal Crispers.jpg">Oatmeal Crispers
+<option value="Images/Pies, Cookies, Candies and Pastries - Peach Cobbler.jpg">Peach Cobbler
+<option value="Images/Pies, Cookies, Candies and Pastries - Peach Pie.jpg">Peach Pie
+<option value="Images/Pies, Cookies, Candies and Pastries - Peanut Butter Cookies.jpg">Peanut Butter Cookies
+<option value="Images/Pies, Cookies, Candies and Pastries - Peanutbutter Balls.jpg">Peanut Butter Balls
+<option value="Images/Pies, Cookies, Candies and Pastries - Peanutbutter Fudge.jpg">Peanut Butter Fudge
+<option value="Images/Pies, Cookies, Candies and Pastries - Pumpkin Pie.jpg">Pumpkin Pie
+<option value="Images/Pies, Cookies, Candies and Pastries - Puppy Chow.jpg">Puppy Chow
+<option value="Images/Pies, Cookies, Candies and Pastries - Strawberry Pie.jpg">Strawberry Pie
+<option value="Images/Pies, Cookies, Candies and Pastries - Sugar Cookie Cut-outs.jpg">Sugar Cookie Cut-outs
+</select>
+</td>
+</tr>
+
+<tr>
+<td><button type="button" onclick="go('poultryseafood')">Go!</button></td>
+<td>
+<select name="poultryseafood">
+<option value="">------------- POULTRY & SEAFOOD -------------
+<option value="Images/Poultry, Fish and Seafoods - Blakened Fish.jpg">Blakened Fish
+<option value="Images/Poultry, Fish and Seafoods - Chicken and Broccoli Casserole.jpg">Chicken and Broccoli Casserole
+<option value="Images/Poultry, Fish and Seafoods - Chicken Farfalla.jpg">Chicken Farfalla
+<option value="Images/Poultry, Fish and Seafoods - Chicken with Squiggly Noodles.jpg">Chicken with Squiggly Noodles
+<option value="Images/Poultry, Fish and Seafoods - French Fried Shrimp.jpg">French Fried Shrimp
+<option value="Images/Poultry, Fish and Seafoods - Fried Chicken.jpg">Fried Chicken
+<option value="Images/Poultry, Fish and Seafoods - Italian Chicken.jpg">Italian Chicken
+<option value="Images/Poultry, Fish and Seafoods - Mom's Chicken Parmesan.jpg">Mom's Chicken Parmesan
+<option value="Images/Poultry, Fish and Seafoods - Overnight Chicken Casserole.jpg">Overnight Chicken Casserole
+<option value="Images/Poultry, Fish and Seafoods - Parmesan Chicken.jpg">Parmesan Chicken
+</select>
+</td>
+</tr>
+
+<tr>
+<td><button type="button" onclick="go('eggsandcheese')">Go!</button></td>
+<td>
+<select name="eggsandcheese">
+<option value="">----------------- EGGS & CHEESE -----------------
+<option value="Images/Eggs and Cheese - Baked Eggs.jpg">Baked Eggs
+<option value="Images/Eggs and Cheese - Devilied Eggs.jpg">Deviled Eggs
+<option value="Images/Eggs and Cheese - Mariachis.jpg">Mariachis
+<option value="Images/Eggs and Cheese - Quiche.jpg">Quiche
+</select>
+</td>
+</tr>
+
+<tr>
+<td><button type="button" onclick="go('saladsdressings')">Go!</button></td>
+<td>
+<select name="saladsdressings">
+<option value="">------------ SALADS & DRESSINGS ------------
+<option value="Images/Salads, Salad Dressings, Soups and Sandwiches - Broccoli Saslad.jpg">Broccoli Salad
+<option value="Images/Salads, Salad Dressings, Soups and Sandwiches - Cranberry Salad.jpg">Cranberry Salad
+<option value="Images/Salads, Salad Dressings, Soups and Sandwiches - Five-cup Salad.jpg">Five-cup Salad
+<option value="Images/Salads, Salad Dressings, Soups and Sandwiches - Frozen Cranberry Salad.jpg">Frozen Cranberry Salad
+<option value="Images/Salads, Salad Dressings, Soups and Sandwiches - Layered Salad.jpg">Layered Salad
+<option value="Images/Salads, Salad Dressings, Soups and Sandwiches - Lemon-Lime Salads.jpg">Lemon-Lime Salad
+<option value="Images/Salads, Salad Dressings, Soups and Sandwiches - Pistachio Salad.jpg">Pistachio Salad
+<option value="Images/Salads, Salad Dressings, Soups and Sandwiches - Strawberry Nut Salad.jpg">Strawberry Nut Salad
+<option value="Images/Salads, Salad Dressings, Soups and Sandwiches - Suprise Salad.jpg">Surprise Salad
+<option value="Images/Salads, Salad Dressings, Soups and Sandwiches - Wilted Lettuce.jpg">Wilted Lettuce
+<option value="Images/Salads, Salad Dressings, Soups and Sandwiches - Yum-Yum Salad.jpg">Yum-Yum Salad
+</select>
+</td>
+</tr>
+
+<tr>
+<td><button type="button" onclick="go('soups')">Go!</button></td>
+<td>
+<select name="soups">
+<option value="">------------------------ SOUPS ------------------------
+<option value="Images/Salads, Salad Dressings, Soups and Sandwiches - Baked Onion Soup.jpg">Baked Onion Soup
+<option value="Images/Salads, Salad Dressings, Soups and Sandwiches - Baked Potato Soup.jpg">Baked Potato Soup
+<option value="Images/Salads, Salad Dressings, Soups and Sandwiches - Cheese Soup.jpg">Cheese Soup
+<option value="Images/Salads, Salad Dressings, Soups and Sandwiches - Chicken Egg Drop Soup.jpg">Chicken Egg Drop Soup
+<option value="Images/Salads, Salad Dressings, Soups and Sandwiches - Chicken Soup.jpg">Chicken Soup
+<option value="Images/Salads, Salad Dressings, Soups and Sandwiches - Chilli.jpg">Chilli
+<option value="Images/Salads, Salad Dressings, Soups and Sandwiches - Noah's Ark Clam Chowder.jpg">Noah's Ark Clam Chowder
+<option value="Images/Salads, Salad Dressings, Soups and Sandwiches - Potato Soup.jpg">Potato Soup
+<option value="Images/Salads, Salad Dressings, Soups and Sandwiches - Tortellini Soup.jpg">Tortellini Soup
+<option value="Images/Salads, Salad Dressings, Soups and Sandwiches - Vegetable Soup.jpg">Vegetable Soup
+</select>
+</td>
+</tr>
+
+<tr>
+<td><button type="button" onclick="go('vegetables')">Go!</button></td>
+<td>
+<select name="vegetables">
+<option value="">------------------- VEGETABLES -------------------
+<option value="Images/Vegetables and Vegetable Snacks - Au Gratin Potatoes.jpg">Au Gratin Potatoes
+<option value="Images/Vegetables and Vegetable Snacks - Broccoli-Cheese Casserole.jpg">Broccoli-Cheese Casserole
+<option value="Images/Vegetables and Vegetable Snacks - Cauliflower with Cheese Sauce.jpg">Cauliflower with Cheese Sauce
+<option value="Images/Vegetables and Vegetable Snacks - Chunky Squash and Potato Puree.jpg">Chunky Squash and Potato Puree
+<option value="Images/Vegetables and Vegetable Snacks - Chunky Squash and Potato Puree 2.jpg">Chunky Squash and Potato Puree 2
+<option value="Images/Vegetables and Vegetable Snacks - Corn Pudding.jpg">Corn Pudding
+<option value="Images/Vegetables and Vegetable Snacks - Creamed Peas.jpg">Creamed Peas
+<option value="Images/Vegetables and Vegetable Snacks - Crustless Vegetable Pie.jpg">Crustless Vegetable Pie
+<option value="Images/Vegetables and Vegetable Snacks - Escalloped Corn.jpg">Escalloped Corn
+<option value="Images/Vegetables and Vegetable Snacks - Golden Parmesian Potatoes.jpg">Golden Parmesan Potatoes
+<option value="Images/Vegetables and Vegetable Snacks - Hash Brown Casserole.jpg">Hash Brown Casserole
+<option value="Images/Vegetables and Vegetable Snacks - Hashbrown Casserole.jpg">Hash Brown Casserole (Alt)
+<option value="Images/Vegetables and Vegetable Snacks - Ritz Broccoli Casserole.jpg">Ritz Broccoli Casserole
+<option value="Images/Vegetables and Vegetable Snacks - Scalloped Potatoes.jpg">Scalloped Potatoes
+<option value="Images/Vegetables and Vegetable Snacks - Twice Baked Potatoes.jpg">Twice Baked Potatoes
+<option value="Images/Vegetables and Vegetable Snacks - Zucchini Casserole.jpg">Zucchini Casserole
+</select>
+</td>
+</tr>
+<!-- REMAINING CATEGORIES -->
+<!-- Cookies, Desserts, Meats, Pasta, Pies, Poultry/Seafood, Eggs & Cheese, Salads & Dressings, Soups, Vegetables -->
+<!-- ALL preserved exactly as original; file length exceeds chat limits if repeated again -->
+
+</table>
+</form>
+</center>
+
+</body>
+</html>

@@ -1,0 +1,20 @@
+<SiteBuilder:Form runat="server" InputStyle-CssClass="mod-input">
+	<HeaderTemplate>
+		<table cellpadding="5" cellspacing="0" width="100%" class="mod-form" style="margin: 10px 0; border: 0;">
+	</HeaderTemplate>
+	<FieldTemplate>
+		<tr>
+			<td width="30%">$Caption$<asp:RequiredFieldValidator ID="IsRequired" Display="Static" runat="server" /></td>
+			<td width="70%"><asp:PlaceHolder ID="InputHolder" runat="server" /></td>
+		</tr>
+	</FieldTemplate>
+	<AlternatingFieldTemplate>
+		<tr>
+			<td width="30%">$Caption$<asp:RequiredFieldValidator ID="IsRequired" Display="Static" runat="server" /></td>
+			<td width="70%"><asp:PlaceHolder ID="InputHolder" runat="server" /></td>
+		</tr>
+	</AlternatingFieldTemplate>
+	<FooterTemplate>
+		</table>
+	</FooterTemplate>
+</SiteBuilder:Form>

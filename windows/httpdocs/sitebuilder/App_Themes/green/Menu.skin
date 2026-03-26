@@ -1,0 +1,15 @@
+﻿<SiteBuilder:SiteMenu SkinID="TopMenu" runat="server">
+<ItemTemplate><td align="center" class="amenu" style="padding-top:6px;padding-left:6px;padding-right:6px;"><a href='<%#Eval("url") %>' class="amenu" runat="server" ><asp:Literal runat=server Text='<%#Eval("title") %>'></asp:Literal></a><br><asp:Image runat="server" SkinId="Image_bullet" CssClass="img_bullet"  /></td></ItemTemplate>
+<SelectedItemTemplate><td align="center" class="amenu" style="padding-top:6px;padding-left:6px;padding-right:6px;"><a href='<%#Eval("url") %>' class="amenu" runat="server" ><asp:Literal runat=server Text='<%#Eval("title") %>'></asp:Literal></a><br><asp:Image runat="server" SkinId="Image_bullet" CssClass="img_bullet"  /></td></SelectedItemTemplate>
+<SeparatorTemplate><td align="right" style="width: 3px;"><asp:Image runat="server" SkinId="Image_av234_12" CssClass="img_av234_12"  /></td></SeparatorTemplate>
+</SiteBuilder:SiteMenu>
+<SiteBuilder:SiteMenu SkinID="SubMenu" runat="server">
+<ItemTemplate><tr><td class="asubmenu" style="padding-left: 5px; width: 100%;"><a href='<%#Eval("url") %>' class="asubmenu" runat="server" ><asp:Literal runat=server Text='<%#Eval("title") %>'></asp:Literal></a></td><td><asp:Image runat="server" SkinId="Image_av234_28" CssClass="img_av234_28"  /></td></tr></ItemTemplate>
+<SelectedItemTemplate><tr><td class="asubmenu" style="padding-left: 5px; width: 100%;"><span class="submenu"><asp:Literal runat=server Text='<%#Eval("title") %>'></asp:Literal></span></td><td><asp:Image runat="server" SkinId="Image_av234_28" CssClass="img_av234_28"  /></td></tr></SelectedItemTemplate>
+<SeparatorTemplate><tr><td colspan="2" height="20"><div class="img_av234_33"><span></span></div></td></tr></SeparatorTemplate>
+</SiteBuilder:SiteMenu>
+<SiteBuilder:SiteMenu SkinID="BottomMenu" runat="server">
+<ItemTemplate><td style="width:5px;"></td><td class="abmenu"><a href='<%#Eval("url") %>' class="abmenu" runat="server" ><asp:Literal runat=server Text='<%#Eval("title") %>'></asp:Literal></a></td><td style="width:5px;"></td></ItemTemplate>
+<SelectedItemTemplate><td style="width:5px;"></td><td class="abmenu"><a href='<%#Eval("url") %>' class="abmenu" runat="server" ><asp:Literal runat=server Text='<%#Eval("title") %>'></asp:Literal></a></td><td style="width:5px;"></td></SelectedItemTemplate>
+<SeparatorTemplate><td><asp:Image runat="server" SkinId="Image_av234_36" CssClass="img_av234_36"  /></td></SeparatorTemplate>
+</SiteBuilder:SiteMenu>

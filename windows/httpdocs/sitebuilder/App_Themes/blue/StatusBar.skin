@@ -1,0 +1,20 @@
+<SiteBuilder:StatusBarControl runat="server">
+	<ErrorTemplate>
+		<div class="statuses-error">
+			<img src="$DefaultError$" align="absmiddle" style="margin-right: 3px; border: 0px;" />
+			<b>$MessageType$</b>$Message$
+		</div>
+	</ErrorTemplate>
+	<InfoTemplate>
+		<div class="statuses-info">
+			<img src="$DefaultInfo$" align="absmiddle" style="margin-right: 3px; border: 0px;" />
+			<b>$MessageType$</b>$Message$
+		</div>
+	</InfoTemplate>
+	<SuccessTemplate>
+		<div class="statuses-success">
+			<img src="$DefaultSuccess$" align="absmiddle" style="margin-right: 3px; border: 0px;" />
+			<b>$MessageType$</b>$Message$
+		</div>
+	</SuccessTemplate>
+</SiteBuilder:StatusBarControl>

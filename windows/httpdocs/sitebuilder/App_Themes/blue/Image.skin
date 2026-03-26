@@ -1,0 +1,6 @@
+<asp:Image runat="server" SkinId="Image_header" ImageUrl="images/header.jpg"/>
+<asp:Image runat="server" SkinId="Image_av234_25" ImageUrl="images/av234_25.gif"/>
+<asp:Image runat="server" SkinId="Image_av234_28" ImageUrl="images/av234_28.gif"/>
+<asp:Image runat="server" SkinId="Image_av234_36" ImageUrl="images/av234_36.gif"/>
+<asp:Image runat="server" SkinId="Image_bullet" ImageUrl="images/bullet.gif"/>
+<asp:Image runat="server" SkinId="Image_av234_12" ImageUrl="images/av234_12.gif"/>
