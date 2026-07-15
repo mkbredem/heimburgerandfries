@@ -1,0 +1,82 @@
+---
+# ------------------------------------------------------------------
+# IIS installation - only needs to run once. On redeploy runs, skip
+# this whole block with --skip-tags iis (win_feature/firewall/service
+# tasks are idempotent regardless, but skipping avoids the extra
+# feature-install and firewall checks on every redeploy).
+# ------------------------------------------------------------------
+- name: Install and start IIS
+  tags:
+    - iis
+    - install
+  block:
+    - name: Install IIS web server role
+      ansible.windows.win_feature:
+        name:
+          - Web-Server
+          - Web-Common-Http
+          - Web-Static-Content
+          - Web-Default-Doc
+          - Web-Mgmt-Console
+        state: present
+        include_management_tools: true
+      register: iis_install
+
+    - name: Reboot if the IIS feature install requires it
+      ansible.windows.win_reboot:
+      when: iis_install.reboot_required | default(false)
+
+    - name: Open firewall for HTTP and HTTPS
+      community.windows.win_firewall_rule:
+        name: "{{ item.name }}"
+        localport: "{{ item.port }}"
+        direction: in
+        protocol: tcp
+        action: allow
+        state: present
+        enabled: true
+      loop:
+        - { name: "IIS HTTP", port: 80 }
+        - { name: "IIS HTTPS", port: 443 }
+
+    - name: Ensure W3SVC (IIS) service is running
+      ansible.windows.win_service:
+        name: W3SVC
+        start_mode: auto
+        state: started
+
+# ------------------------------------------------------------------
+# Site deployment - runs every time, including redeploys where the
+# iis block above is skipped via --skip-tags iis.
+# ------------------------------------------------------------------
+- name: Deploy website content
+  tags:
+    - deploy
+  block:
+    - name: Ensure site directory exists
+      ansible.windows.win_file:
+        path: "{{ site_doc_root_windows }}"
+        state: directory
+
+    - name: Sync website content to IIS site directory
+      community.windows.win_robocopy:
+        src: "{{ site_source_dir_windows }}"
+        dest: "{{ site_doc_root_windows }}"
+        recurse: true
+        purge: true
+      notify: Recycle IIS app pool
+
+    - name: Ensure application pool exists
+      community.windows.win_iis_webapppool:
+        name: "{{ iis_app_pool }}"
+        state: started
+        attributes:
+          managedRuntimeVersion: ""
+
+    - name: Ensure IIS website exists and points at deployed content
+      community.windows.win_iis_website:
+        name: "{{ iis_site_name }}"
+        state: started
+        physical_path: "{{ site_doc_root_windows }}"
+        application_pool: "{{ iis_app_pool }}"
+        port: "{{ iis_site_port }}"

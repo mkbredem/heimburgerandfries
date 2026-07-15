@@ -1,0 +1,20 @@
+---
+galaxy_info:
+  role_name: deploy_website
+  description: >-
+    Deploys the heimburgerandfries static website. Detects the target
+    OS and installs/configures the matching web server (Apache on
+    RHEL, IIS on Windows), then syncs site content.
+  author: Michael Bredemeier
+  license: MIT
+  min_ansible_version: "2.14"
+  platforms:
+    - name: EL
+      versions:
+        - 8
+        - 9
+    - name: Windows
+      versions:
+        - all
+
+dependencies: []

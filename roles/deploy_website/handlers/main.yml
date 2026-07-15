@@ -1,0 +1,11 @@
+---
+- name: Reload apache
+  become: true
+  ansible.builtin.systemd:
+    name: "{{ apache_service }}"
+    state: reloaded
+
+- name: Recycle IIS app pool
+  community.windows.win_iis_webapppool:
+    name: "{{ iis_app_pool }}"
+    state: restarted

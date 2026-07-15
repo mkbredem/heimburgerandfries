@@ -1,0 +1,27 @@
+---
+# deploy_website.yml
+#
+# Deploys the heimburgerandfries website using the deploy_website role.
+# The role auto-detects the target OS per host (RHEL -> Apache,
+# Windows -> IIS) and runs the matching task list, so a single
+# playbook run can cover a mixed-OS inventory.
+#
+# Requires (on the control node):
+#   ansible-galaxy collection install ansible.posix ansible.windows community.windows
+#
+# Usage:
+#   Initial provision + deploy (installs the web server, opens the
+#   firewall, deploys site content):
+#     ansible-playbook -i inventory playbooks/deploy_website.yml
+#
+#   Subsequent redeploys (content changes only, web server already
+#   installed):
+#     ansible-playbook -i inventory playbooks/deploy_website.yml --skip-tags apache,iis
+#
+#   Redeploy content only (equivalent, using the deploy tag instead):
+#     ansible-playbook -i inventory playbooks/deploy_website.yml --tags deploy
+
+- name: Deploy heimburgerandfries website
+  hosts: "{{ target_hosts | default('website') }}"
+  roles:
+    - deploy_website
