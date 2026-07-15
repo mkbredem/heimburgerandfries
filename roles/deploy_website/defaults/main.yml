@@ -1,0 +1,15 @@
+---
+# Linux (RHEL + Apache) settings
+apache_package: httpd
+apache_service: httpd
+site_source_dir_linux: "{{ playbook_dir }}/../linux/"
+site_doc_root_linux: /var/www/html/heimburgerandfries
+site_owner: apache
+site_group: apache
+
+# Windows (IIS) settings
+site_source_dir_windows: "{{ playbook_dir }}/../windows/httpdocs/"
+site_doc_root_windows: 'C:\inetpub\wwwroot\heimburgerandfries'
+iis_site_name: heimburgerandfries
+iis_app_pool: heimburgerandfries
+iis_site_port: 80
