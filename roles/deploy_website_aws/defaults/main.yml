@@ -1,0 +1,32 @@
+---
+# ACM certificates for CloudFront must live in us-east-1 regardless of
+# where your other resources are. Kept the CloudFormation stack in the
+# same region for simplicity.
+acm_region: us-east-1
+infra_region: us-east-1
+
+domain_name: heimburgerandfries.com
+www_domain_name: www.heimburgerandfries.com
+
+# Must be globally unique across all of AWS - override if taken.
+s3_bucket_name: heimburgerandfries-com-site
+cloudformation_stack_name: heimburgerandfries-site
+default_root_object: index.htm
+
+site_source_dir: "{{ playbook_dir }}/../linux"
+
+# Populated by tasks/acm.yml; only needed here as a safe default when
+# the acm tag is skipped without infra also being skipped.
+acm_certificate_arn: ""
+
+mime_types:
+  htm: text/html
+  html: text/html
+  css: text/css
+  js: application/javascript
+  png: image/png
+  jpg: image/jpeg
+  jpeg: image/jpeg
+  gif: image/gif
+  svg: image/svg+xml
+  ico: image/x-icon
