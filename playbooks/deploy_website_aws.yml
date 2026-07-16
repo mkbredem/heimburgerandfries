@@ -1,0 +1,41 @@
+---
+# deploy_website_aws.yml
+#
+# Publishes the heimburgerandfries static site (linux/) to AWS,
+# fronted by CloudFront with a private S3 origin (Origin Access
+# Control) and TLS via a public ACM certificate.
+#
+# Requires on the execution environment:
+#   - amazon.aws collection (cloudformation, cloudformation_info,
+#     s3_object)
+#   - the `aws` CLI on PATH - used for ACM request/DNS-validation/wait
+#     and for the CloudFront cache invalidation, since community.aws
+#     (which would normally provide acm_certificate /
+#     cloudfront_invalidation modules) is not installed here.
+#   - AWS credentials available in the environment (same chain boto3
+#     and the aws CLI both read); AAP should already be injecting these
+#     for the job.
+#
+# Usage:
+#   Initial run (request+validate the ACM cert, create the S3 bucket
+#   and CloudFront distribution, deploy content):
+#     ansible-playbook playbooks/deploy_website_aws.yml
+#
+#   Redeploy content only (cert + infra already exist):
+#     ansible-playbook playbooks/deploy_website_aws.yml --skip-tags acm,infra
+#
+# Manual steps outside this playbook (Namecheap has no first-class
+# Ansible module):
+#   1. After the first run, add the printed CNAME record in Namecheap
+#      Advanced DNS to DNS-validate the ACM certificate.
+#   2. Once the stack is up, add an ALIAS record for "@" and a CNAME
+#      for "www" pointing at the printed CloudFront domain name
+#      (dxxxxxxxxxxxxx.cloudfront.net) - Namecheap can't CNAME an apex
+#      domain directly.
+
+- name: Publish heimburgerandfries website to S3 + CloudFront
+  hosts: localhost
+  connection: local
+  gather_facts: false
+  roles:
+    - deploy_website_aws

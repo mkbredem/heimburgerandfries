@@ -1,0 +1,19 @@
+---
+# Each stage is tagged so a redeploy can skip the slow/one-time
+# provisioning stages and only push content:
+#   ansible-playbook playbooks/deploy_website_aws.yml --skip-tags acm,infra
+
+- name: Ensure a validated ACM certificate exists
+  ansible.builtin.include_tasks: acm.yml
+  tags:
+    - acm
+
+- name: Provision the S3 bucket and CloudFront distribution
+  ansible.builtin.include_tasks: infra.yml
+  tags:
+    - infra
+
+- name: Deploy site content and invalidate the CDN cache
+  ansible.builtin.include_tasks: deploy.yml
+  tags:
+    - deploy

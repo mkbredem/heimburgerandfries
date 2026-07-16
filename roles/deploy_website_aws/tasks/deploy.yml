@@ -1,0 +1,46 @@
+---
+# Looked up independently (rather than reusing infra.yml's registered
+# fact) so redeploys work with --skip-tags acm,infra.
+- name: Look up the CloudFront distribution ID from the stack
+  amazon.aws.cloudformation_info:
+    stack_name: "{{ cloudformation_stack_name }}"
+    region: "{{ infra_region }}"
+  register: cfn_info
+
+- name: Set the distribution ID fact
+  ansible.builtin.set_fact:
+    deployed_distribution_id: >-
+      {{ cfn_info.cloudformation[cloudformation_stack_name].stack_outputs.DistributionId }}
+
+- name: Discover local site files to upload
+  ansible.builtin.find:
+    paths: "{{ site_source_dir }}"
+    recurse: true
+    file_type: file
+  register: site_files
+
+- name: Upload site content to S3
+  amazon.aws.s3_object:
+    bucket: "{{ s3_bucket_name }}"
+    region: "{{ infra_region }}"
+    mode: put
+    src: "{{ item.path }}"
+    object: "{{ item.path[(site_source_dir + '/') | length:] }}"
+    headers:
+      Content-Type: "{{ mime_types[item.path.split('.')[-1] | lower] | default('application/octet-stream') }}"
+    # The bucket has ACLs disabled (BucketOwnerEnforced), so no canned
+    # ACL can be sent with the object.
+    permission: []
+  loop: "{{ site_files.files }}"
+  loop_control:
+    label: "{{ item.path[(site_source_dir + '/') | length:] }}"
+  register: s3_upload
+
+- name: Invalidate the CloudFront cache for changed content
+  ansible.builtin.command:
+    cmd: >-
+      aws cloudfront create-invalidation
+      --distribution-id {{ deployed_distribution_id }}
+      --paths "/*"
+  when: s3_upload.results | selectattr('changed') | list | length > 0
+  changed_when: true

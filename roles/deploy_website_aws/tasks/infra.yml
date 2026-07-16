@@ -1,0 +1,41 @@
+---
+# Looked up independently (rather than reusing acm.yml's registered
+# fact) so this still works when --skip-tags acm is used but infra is
+# not - e.g. re-running the stack after the cert was already issued.
+- name: Look up the certificate ARN for {{ domain_name }}
+  ansible.builtin.command:
+    cmd: >-
+      aws acm list-certificates
+      --region {{ acm_region }}
+      --certificate-statuses ISSUED
+      --output json
+  register: acm_list
+  changed_when: false
+
+- name: Set the certificate ARN fact
+  ansible.builtin.set_fact:
+    acm_certificate_arn: >-
+      {{ (acm_list.stdout | from_json).CertificateSummaryList
+         | selectattr('DomainName', 'equalto', domain_name)
+         | map(attribute='CertificateArn') | list | first }}
+
+- name: Deploy the S3 + CloudFront CloudFormation stack
+  amazon.aws.cloudformation:
+    stack_name: "{{ cloudformation_stack_name }}"
+    region: "{{ infra_region }}"
+    template_body: "{{ lookup('file', role_path + '/files/cloudfront_s3_site.yml') }}"
+    template_parameters:
+      BucketName: "{{ s3_bucket_name }}"
+      DomainName: "{{ domain_name }}"
+      WwwDomainName: "{{ www_domain_name }}"
+      AcmCertificateArn: "{{ acm_certificate_arn }}"
+      DefaultRootObject: "{{ default_root_object }}"
+    state: present
+  register: cfn_stack
+
+- name: Show the CloudFront domain name to point Namecheap at
+  ansible.builtin.debug:
+    msg: >-
+      In Namecheap Advanced DNS, add an ALIAS record for "@" and a
+      CNAME for "www" both pointing at:
+      {{ cfn_stack.stack_outputs.DistributionDomainName }}

@@ -1,0 +1,73 @@
+---
+# community.aws is not available in this execution environment, and
+# community.aws.acm_certificate only imports a certificate you already
+# have anyway - it can't call RequestCertificate/DNS-validate one. So
+# this drives the AWS CLI directly and relies on it being on PATH.
+
+- name: Check for an existing certificate for {{ domain_name }}
+  ansible.builtin.command:
+    cmd: >-
+      aws acm list-certificates
+      --region {{ acm_region }}
+      --certificate-statuses ISSUED PENDING_VALIDATION
+      --output json
+  register: acm_list
+  changed_when: false
+
+- name: Record the existing certificate ARN, if any
+  ansible.builtin.set_fact:
+    existing_cert_arn: >-
+      {{ (acm_list.stdout | from_json).CertificateSummaryList
+         | selectattr('DomainName', 'equalto', domain_name)
+         | map(attribute='CertificateArn') | list | first | default('') }}
+
+- name: Request a new public ACM certificate
+  ansible.builtin.command:
+    cmd: >-
+      aws acm request-certificate
+      --region {{ acm_region }}
+      --domain-name {{ domain_name }}
+      --subject-alternative-names {{ www_domain_name }}
+      --validation-method DNS
+      --output json
+  register: acm_request
+  when: existing_cert_arn | length == 0
+
+- name: Set the certificate ARN fact
+  ansible.builtin.set_fact:
+    acm_certificate_arn: >-
+      {{ existing_cert_arn if existing_cert_arn | length > 0
+         else (acm_request.stdout | from_json).CertificateArn }}
+
+- name: Pause for ACM to generate the DNS validation records
+  ansible.builtin.pause:
+    seconds: 10
+  when: existing_cert_arn | length == 0
+
+- name: Retrieve the certificate's DNS validation records
+  ansible.builtin.command:
+    cmd: >-
+      aws acm describe-certificate
+      --region {{ acm_region }}
+      --certificate-arn {{ acm_certificate_arn }}
+      --output json
+  register: acm_describe
+  changed_when: false
+
+- name: Show the CNAME record(s) to add in Namecheap Advanced DNS
+  ansible.builtin.debug:
+    msg: >-
+      Add a CNAME in Namecheap for {{ item.DomainName }}:
+      Host = {{ item.ResourceRecord.Name }}  ->  Value = {{ item.ResourceRecord.Value }}
+  loop: "{{ (acm_describe.stdout | from_json).Certificate.DomainValidationOptions }}"
+  loop_control:
+    label: "{{ item.DomainName }}"
+  when: item.ValidationStatus != 'SUCCESS'
+
+- name: Wait for the certificate to be validated and issued
+  ansible.builtin.command:
+    cmd: >-
+      aws acm wait certificate-validated
+      --region {{ acm_region }}
+      --certificate-arn {{ acm_certificate_arn }}
+  changed_when: false
