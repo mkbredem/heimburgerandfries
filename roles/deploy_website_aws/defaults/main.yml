@@ -11,7 +11,7 @@ www_domain_name: www.heimburgerandfries.com
 # Must be globally unique across all of AWS - override if taken.
 s3_bucket_name: heimburgerandfries-com-site
 cloudformation_stack_name: heimburgerandfries-site
-default_root_object: index.htm
+default_root_object: index.html
 
 site_source_dir: "{{ playbook_dir }}/../linux"
 

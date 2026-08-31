@@ -14,7 +14,7 @@ Parameters:
     Type: String
   DefaultRootObject:
     Type: String
-    Default: index.htm
+    Default: index.html
 
 Resources:
   SiteBucket:
