@@ -1,3 +1,5 @@
+> **Superseded.** Approved rows now publish automatically through `publish-approved.gs`; see `automatic-publishing.md`. Use these manual steps only if the automatic script is turned off.
+
 # Importing approved submissions (instructions for Claude)
 
 Michael asks: "import approved submissions." Follow these steps.

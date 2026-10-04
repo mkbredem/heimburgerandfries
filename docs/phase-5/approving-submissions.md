@@ -9,11 +9,11 @@ When someone uses "Share your version," "Share your dish" or "Submit a new recip
 3. In the **Status** column, choose:
    - **Approved** — it belongs on the site.
    - **Rejected** — it doesn't (a duplicate, a test, or something that isn't a recipe).
-4. That's all. Leave the **Imported** column alone.
+4. That's all. Leave the **Imported** column alone. If it later shows a message starting with "Error," tell Michael.
 
 ## What happens next
 
-Michael asks Claude to "import approved submissions." Claude reads the sheet, adds every approved row that hasn't been imported yet to the website, and Michael publishes it. Approved changes and photos appear on the recipe's page under "Family versions & photos," and approved new recipes appear in **Family Additions**. Only the submitter's first name is shown.
+Within about 15 minutes, a script adds every approved row to the website and writes the date in the **Imported** column. The website updates a few minutes after that. Approved changes and photos appear on the recipe's page under "Family versions & photos," and approved new recipes appear in **Family Additions**. Only the submitter's first name is shown.
 
 ## Good to know
 
