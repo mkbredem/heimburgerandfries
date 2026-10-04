@@ -2,7 +2,7 @@
 import Base from '../../layouts/Base.astro';
 import SearchForm from '../../components/SearchForm.astro';
 import { SECTIONS } from '../../data/sections';
-import { bookRecipes, recipeUrl, sectionUrl } from '../../lib/recipes';
+import { listedRecipes as bookRecipes, recipeUrl, sectionUrl } from '../../lib/recipes';
 
 const recipes = await bookRecipes();
 ---

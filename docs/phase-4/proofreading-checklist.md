@@ -1,0 +1,253 @@
+# Proofreading checklist
+
+Each recipe below was typed from its scan by Claude and is marked as a draft.
+To proofread one: open the recipe page on heimburgerandfries.com, compare the typed
+recipe with the scan, fix the Markdown file in `site/src/content/recipes/`, and change
+`transcription_status: draft` to `transcription_status: family-reviewed`.
+
+Recipes with words Claude could not read are listed first.
+
+## Words to check (42 recipes)
+
+- [ ] **Pizza Rounds** (`appetizers-pizza-rounds.md`)
+  - quantity of hot pork sausage: "2 pound" (could be "1/2 pound"; the line has an extra mark before the 2)
+- [ ] **The Wallaby Darned** (`appetizers-the-wallaby-darned.md`)
+  - brand of fuzzy navel mix: written like "Racard.", read as "Bacardi"
+- [ ] **Banana Cake/Muffins** (`breads-banana-cake-muffins.md`)
+  - where the mashed bananas are added is not written; the cook's line reads "In separate dish add 5 bananas"
+- [ ] **Cracked Wheat Bread** (`breads-cracked-wheat-bread.md`)
+  - dough size: "Roll each piece into a 12x16 shape" (second number could be 6)
+- [ ] **Pumpkin Bread** (`breads-pumpkin-bread.md`)
+  - "2/3 cups water" - the fraction before "cups water" is partly hidden; could be 1/3
+- [ ] **Freezer Strawberry Jam** (`breads-strawberry-jam-freezer.md`)
+  - "1 qt. fully ripe strawberries" - quantity written as "1qt" is hard to read
+  - "(Pectin may start lumpy)" - "start" is unclear
+- [ ] **Apple Upside-Down Cake** (`cakes-apple-upside-down-cake.md`)
+  - "2 cup thinly sliced" - quantity "2" is unclear
+  - "2 tsp grated orange rind" - quantity unclear
+- [ ] **Apple Upside-Down Cake (cont.)** (`cakes-apple-upside-down-cake-2.md`)
+  - "8g fat" and "8g protein" - digits are unclear
+- [ ] **Date Nut Bars** (`cakes-date-nut-bars.md`)
+  - "at 3[?]5°" - the middle digit of the bake temperature is overwritten; reads as 305, likely 325 or 375
+- [ ] **Red Velvet Cake** (`cakes-red-velvet-cake.md`)
+  - "1 cup buttermilk" - small note written under buttermilk (looks like "- 2 [?]") is unreadable
+  - "(or plain flour)" - small note above "cake flour" is hard to read
+  - "or 1 & 1 bottle H2O" - alternative to the food coloring is unclear
+  - "3 T Nestle's sweet milk cocoa" - quantity is overwritten (3 or 9) and unit is unclear
+- [ ] **Red Velvet Frosting** (`cakes-red-velvet-frosting.md`)
+  - "1/2 cup butter" - fraction unclear (1/2 or 1/4) and a crossed-out word precedes "butter"
+  - "Cook, set & cool" - words after "Cook" are unclear
+  - "skim the top when ready to use" - "skim" and "ready to use" are unclear
+- [ ] **Wacky Cake** (`cakes-wacky-cake.md`)
+  - "Bake @ 350° for [?] min" - bake time is scribbled over and unreadable
+  - "1 tbsp soda" - unit could be tsp
+  - "1 tsp vanilla" and "1 Tbsp vinegar" - units are faint
+- [ ] **Rice Pudding** (`desserts-rice-pudding.md`)
+  - "Stir in 2 1/4 cup milk" - fraction is overwritten (1/4 or 3/4)
+- [ ] **Baked Eggs** (`eggs-cheese-baked-eggs.md`)
+  - "9\"x13\" greased Pyrex dish" - second pan dimension is covered by the drawing; could be 9"x10"
+- [ ] **Quiche** (`eggs-cheese-quiche.md`)
+  - "2 1/2 cup half & half" - the whole number before 1/2 could be 1 or 2
+- [ ] **Hamburger Casserole** (`meats-hamburger-casserole.md`)
+  - "Empty can of tomato juice into a bowl" - the word read as "juice" may be "soup" (later steps refer to a soup can)
+- [ ] **Pizza Spaghetti Pie** (`meats-pizza-spaghetti-pie.md`)
+  - "5.3 oz evaporated milk" - quantity hard to read
+  - "2 T butter" - the "2" is hard to read
+  - "& sprinkle [?] parmesan" - word(s) between "sprinkle" and "parmesan" unreadable (possibly "w/" or "with")
+- [ ] **Asian Slaw** (`miscellaneous-asian-slaw.md`)
+  - "2 (8.5 oz) packages slaw mix" - package size hard to read
+  - "1 cup sliced almonds" - "sliced" hard to read
+  - "Cover & chill 24 hours" - "24" hard to read
+- [ ] **Peanut Butter Bread** (`miscellaneous-peanut-butter-bread.md`)
+  - printed_page: mark in the bottom right corner is a scribble that may read '26'; not legible enough to record
+- [ ] **Polka Dot Cookies** (`miscellaneous-polka-dot-cookies.md`)
+  - flour and chocolate chips are named in the directions but have no quantity in the ingredient list (not on the page)
+- [ ] **Snickerdoodles** (`miscellaneous-snickerdoodles.md`)
+  - '1/4 tsp. sugar' — page reads 'sugar' but the directions call for salt; likely meant salt
+- [ ] **Lasagna** (`pasta-grains-lasagna.md`)
+  - Parmesan cheese is used in the directions but has no quantity in the ingredient list (not on the page)
+- [ ] **Spaghetti Sauce** (`pasta-grains-spaghetti-sauce.md`)
+  - serves: number before 'batches' is written over and could be '1' or '2'
+- [ ] **Chocolate Fudge** (`pies-cookies-chocolate-fudge.md`)
+  - 'Continue boiling another 5 minutes' — digit is overwritten and could be 5 or 8
+- [ ] **Hershey Bar Pie** (`pies-cookies-hershey-bar-pie.md`)
+  - '1 Oreo crust' — crust type is scrawled; reads like 'Oreo' but could be another word
+  - '1 16 oz Hershey w/ Almond Bar' — bar size is unclear; '16 oz' is a best guess
+- [ ] **Pumpkin Pie** (`pies-cookies-pumpkin-pie.md`)
+  - "Bake at 400° for 15 minutes" - the first digit of 15 is covered by an ink blot
+- [ ] **Blackened Fish** (`poultry-seafood-blackened-fish.md`)
+  - "Brush with olive oil to moisten" - first word is unclear, could be "Must" or "Brush"
+- [ ] **Chicken-Broccoli Casserole** (`poultry-seafood-chicken-and-broccoli-casserole.md`)
+  - "Top with 2 2/3 cups crushed cornflakes" - "crushed" is partly covered by the decorative drawing
+  - "Drizzle 3 Tbsp. melted margarine" - "margarine" is partly covered by the decorative drawing
+  - "Bake at 350° for 45 minutes - 1 hour" - "45" is partly covered by the decorative drawing
+- [ ] **Fried Chicken** (`poultry-seafood-fried-chicken.md`)
+  - "- Ck. Breasts" - written as an abbreviation, read as chicken breasts
+- [ ] **Baked Potato Soup** (`salads-soups-baked-potato-soup.md`)
+  - "1 pound bacon (diced and browned)" - "and browned" is partly covered by the decorative drawing
+  - "5 pounds potatoes (peeled & diced)" - "peeled & diced" is partly covered by the decorative drawing
+- [ ] **Chili** (`salads-soups-chili.md`)
+  - "3 - 24 oz. cans tomatoes" - the "2" in 24 appears written over another digit
+- [ ] **Noah's Ark Clam Chowder** (`salads-soups-noahs-ark-clam-chowder.md`)
+  - "1 can mixed clams with juice" - may be "minced clams"
+- [ ] **Surprise Salad** (`salads-soups-surprise-salad.md`)
+  - "Add 1/2 cup ice cubes" - quantity partly obscured, could be 1 1/2 cup
+- [ ] **Wilted Lettuce Dressing** (`salads-soups-wilted-lettuce.md`)
+  - "Cool [?]. Pour over leaf lettuce" - short mark after "Cool" (possibly "slightly" or a check mark)
+- [ ] **Yum-Yum Salad** (`salads-soups-yum-yum-salad.md`)
+  - "2 Tbsp. Knox flavored gelatin" - reads as "flavored"; Knox is usually unflavored
+- [ ] **Au Gratin Potatoes** (`vegetables-au-gratin-potatoes.md`)
+  - "6, 1/4\" slices of Velveeta cheese" - could also read "6 1/4 slices"
+- [ ] **Broccoli-Cheese Casserole** (`vegetables-broccoli-cheese-casserole.md`)
+  - "greased [?]\" x 13\" Pyrex casserole" - first dimension is written over (likely 9)
+- [ ] **Cauliflower with Cheese Sauce** (`vegetables-cauliflower-with-cheese-sauce.md`)
+  - Serves "4-6" - first digit is written over
+- [ ] **Crustless Vegetable Pie** (`vegetables-crustless-vegetable-pie.md`)
+  - "4 medium peeled & chopped" - the word "tomatoes" is implied, not written
+  - "Pour mixture into a greased 10\" pie pan & top with 1/4 c. cheese. Layer remaining vegetables" - wording partly covered by a drawing at the right edge
+- [ ] **Golden Parmesan Potatoes** (`vegetables-golden-parmesan-potatoes.md`)
+  - Serves "7" - faint handwriting
+- [ ] **Hashbrown Casserole** (`vegetables-hashbrown-casserole.md`)
+  - "greased 9\" x 12\" casserole" - second dimension may be 13
+- [ ] **Twice Baked Potatoes** (`vegetables-twice-baked-potatoes.md`)
+  - "6 large russet potatoes" - first digit faint, may be another number
+  - "Add approx. 16 oz." - the item is not named; sour cream is inferred from the next step
+
+## All other recipes (136)
+
+- [ ] Aloha Dip (`appetizers-aloha-dip.md`)
+- [ ] Caso (`appetizers-caso.md`)
+- [ ] Cheese Ball (`appetizers-cheese-ball.md`)
+- [ ] Chili Dip (`appetizers-chili-dip.md`)
+- [ ] Corn Fritters (`appetizers-corn-fritters.md`)
+- [ ] Dill Dip (`appetizers-dill-dip.md`)
+- [ ] Friendship Tea (Spiced Tea) (`appetizers-friendship-tea-spiced-tea.md`)
+- [ ] Fruit Dip (`appetizers-fruit-dip.md`)
+- [ ] Garden Vegetable Dip (`appetizers-garden-vegetable-dip.md`)
+- [ ] Hot Chocolate (`appetizers-hot-chocolate.md`)
+- [ ] Oyster Cracker Snacks (`appetizers-oyster-cracker-snacks.md`)
+- [ ] Rainbow Punch (`appetizers-rainbow-punch.md`)
+- [ ] Shrimp Spread (`appetizers-shrimp-spread.md`)
+- [ ] Spinach Dip (`appetizers-spinach-dip.md`)
+- [ ] Stuffed Mushrooms (`appetizers-stuffed-mushrooms.md`)
+- [ ] Taco Dip (`appetizers-taco-dip.md`)
+- [ ] Apricot Bread (`breads-apricot-bread.md`)
+- [ ] Banana-Blueberry Bread (`breads-banana-blueberry-bread.md`)
+- [ ] Christmas Fruit Bread (`breads-christmas-fruit-bread.md`)
+- [ ] Cinnamon Rolls (`breads-cinnamon-rolls.md`)
+- [ ] Coffee Cake (`breads-coffee-cake.md`)
+- [ ] Corn Bread (`breads-corn-bread.md`)
+- [ ] Cranberry Bread (`breads-cranberry-bread.md`)
+- [ ] Fruit Cake Confections (`breads-fruit-cake-confections.md`)
+- [ ] Gooey Butter Coffee Cake (`breads-gooey-butter-coffee-cake.md`)
+- [ ] Grandma's Icing (`breads-grandmas-icing.md`)
+- [ ] Honey Mustard (`breads-honey-mustard.md`)
+- [ ] Lemonberry Poppyseed Bread (`breads-lemonberry-poppyseed-bread.md`)
+- [ ] Nut Bread (`breads-nut-bread.md`)
+- [ ] Strawberry Jam (cont.) (`breads-strawberry-jam-freezer-2.md`)
+- [ ] Strawberry Tea Bread (`breads-strawberry-tea.md`)
+- [ ] Carrot Cake (`cakes-carrot-cake.md`)
+- [ ] Chocolate Pudding Cake (`cakes-chocolate-pudding-cake.md`)
+- [ ] Dirt Cake (`cakes-dirt-cake.md`)
+- [ ] Key Lime Cake (`cakes-key-lime-cake.md`)
+- [ ] Lemon Angel Cake (`cakes-lemon-angel-cake.md`)
+- [ ] Lemon Cake & Glaze (`cakes-lemon-cake-and-glaze.md`)
+- [ ] Strawberry Cake (`cakes-strawberry-cake.md`)
+- [ ] Turtle Cake (`cakes-turtle-cake.md`)
+- [ ] Apple Crunch Pudding (`desserts-apple-crunch-pudding.md`)
+- [ ] Apple Dumplings (`desserts-apple-dumplings.md`)
+- [ ] Applesauce (`desserts-applesauce.md`)
+- [ ] Boiled Custard (`desserts-boiled-custard.md`)
+- [ ] Homemade Ice Cream (`desserts-homemade-ice-cream.md`)
+- [ ] Peanut Roll (`desserts-peanut-roll.md`)
+- [ ] Turtle Cheesecake (`desserts-turtle-cheesecake.md`)
+- [ ] Deviled Eggs (`eggs-cheese-deviled-eggs.md`)
+- [ ] Mariachis (`eggs-cheese-mariachis.md`)
+- [ ] Beef and Cabbage (`meats-beef-and-cabbage.md`)
+- [ ] Chicken Stir Fry (`meats-chicken-stir-fry.md`)
+- [ ] Chop Suey (`meats-chop-suey.md`)
+- [ ] Emmy's Hamburger (`meats-emmys-hamburger.md`)
+- [ ] Flank Steak (`meats-flank-steak.md`)
+- [ ] French Dipped Sandwich (`meats-french-dipped-sandwich.md`)
+- [ ] Goulash (`meats-goulash.md`)
+- [ ] Mac's Sloppy Joes (`meats-macs-sloppy-joes.md`)
+- [ ] Meatloaf (`meats-meatloaf.md`)
+- [ ] Shish-Kabob (`meats-shish-kabob.md`)
+- [ ] Sloppy Joes (`meats-sloppy-joes.md`)
+- [ ] Spaghetti Pie (`meats-spaghetti-pie.md`)
+- [ ] Stew (`meats-stew.md`)
+- [ ] Stir Fry Beef (`meats-stir-fry-beef.md`)
+- [ ] Stuffed Peppers (`meats-stuffed-peppers.md`)
+- [ ] Veal Scallopini (`meats-veal-scallopini.md`)
+- [ ] Apricot Oatmeal Cookies (`miscellaneous-apricot-oatmeal-cookies.md`)
+- [ ] Caramel Oatmeal Chewies (`miscellaneous-caramel-oatmeal-chewies.md`)
+- [ ] Cherry Chip Cookies (`miscellaneous-cherry-chip-cookies.md`)
+- [ ] Chocolate Chip Coconut Macaroons (`miscellaneous-chocolate-chip-coconut-macaroons.md`)
+- [ ] Cinnamon Stars (`miscellaneous-cinnamon-stars.md`)
+- [ ] Cornflake Macaroons (`miscellaneous-cornflake-macaroons.md`)
+- [ ] Cranberry Quick Cookies (`miscellaneous-cranberry-quick-cookies.md`)
+- [ ] Ginger Snaps (`miscellaneous-ginger-snaps.md`)
+- [ ] Campbell's Chicken & Broccoli Alfredo (`pasta-grains-campbells-chicken-and-broccoli-alfredo.md`)
+- [ ] Chicken and Dumplings (`pasta-grains-chicken-and-dumplings.md`)
+- [ ] Chicken & Noodles (`pasta-grains-chicken-and-noodles.md`)
+- [ ] Chicken Rice Casserole (`pasta-grains-chicken-rice-casserole.md`)
+- [ ] Homemade Noodles (`pasta-grains-homemade-noodles.md`)
+- [ ] Italian Pasta Stir Fry (`pasta-grains-italian-pasta-stir-fry.md`)
+- [ ] Japanese Fried Rice (`pasta-grains-japanese-fried-rice.md`)
+- [ ] Macaroni & Cheese (`pasta-grains-macaroni-and-cheese.md`)
+- [ ] Pasta Salad (`pasta-grains-pasta-salad.md`)
+- [ ] Rice Casserole (`pasta-grains-rice-casserole.md`)
+- [ ] Spanish Beef Rice (`pasta-grains-spanish-beef-rice.md`)
+- [ ] Stuffed Shells (`pasta-grains-stuffed-shells.md`)
+- [ ] Anita's Delight (`pies-cookies-anitas-delight.md`)
+- [ ] Apple Crisp (`pies-cookies-apple-crisp.md`)
+- [ ] Brownies (`pies-cookies-brownies.md`)
+- [ ] Caramel Corn (`pies-cookies-caramel-corn.md`)
+- [ ] Cherry Cheese Tarts (`pies-cookies-cherry-cheese-tarts.md`)
+- [ ] Chocolate Fondue (`pies-cookies-chocolate-fondue.md`)
+- [ ] Cream Caramels (`pies-cookies-cream-caramels.md`)
+- [ ] Dishpan Cookies (`pies-cookies-dishpan-cookies.md`)
+- [ ] Grandma's Sugar Cookies (`pies-cookies-grandmas-sugar-cookies.md`)
+- [ ] Grasshopper Pie (`pies-cookies-grasshopper-pie.md`)
+- [ ] Ice Cream Crunch Pie (`pies-cookies-ice-cream-crunch.md`)
+- [ ] Molasses Cookies (`pies-cookies-molasses-cookies.md`)
+- [ ] Oatmeal Crispies (`pies-cookies-oatmeal-crispers.md`)
+- [ ] Peach Cobbler (`pies-cookies-peach-cobbler.md`)
+- [ ] Peach Pie (`pies-cookies-peach-pie.md`)
+- [ ] Peanut Butter Balls (`pies-cookies-peanut-butter-balls.md`)
+- [ ] Peanut Butter Cookies (`pies-cookies-peanut-butter-cookies.md`)
+- [ ] Peanut Butter Fudge (`pies-cookies-peanut-butter-fudge.md`)
+- [ ] Puppy Chow (`pies-cookies-puppy-chow.md`)
+- [ ] Strawberry Pie (`pies-cookies-strawberry-pie.md`)
+- [ ] Sugar Cookie Cut-outs (`pies-cookies-sugar-cookie-cut-outs.md`)
+- [ ] Chicken Farfalla (`poultry-seafood-chicken-farfalla.md`)
+- [ ] Chicken with Squiggly Noodles (`poultry-seafood-chicken-with-squiggly-noodles.md`)
+- [ ] French Fried Shrimp (`poultry-seafood-french-fried-shrimp.md`)
+- [ ] Italian Chicken (`poultry-seafood-italian-chicken.md`)
+- [ ] Mom's Chicken Parmesan (`poultry-seafood-moms-chicken-parmesan.md`)
+- [ ] Overnight Chicken Casserole (`poultry-seafood-overnight-chicken-casserole.md`)
+- [ ] Parmesan Chicken (`poultry-seafood-parmesan-chicken.md`)
+- [ ] Baked Onion Soup (`salads-soups-baked-onion-soup.md`)
+- [ ] Broccoli Salad (`salads-soups-broccoli-salad.md`)
+- [ ] Cheese Soup (`salads-soups-cheese-soup.md`)
+- [ ] Chicken Egg Drop Soup (`salads-soups-chicken-egg-drop-soup.md`)
+- [ ] Chicken Soup (`salads-soups-chicken-soup.md`)
+- [ ] Cranberry Salad (`salads-soups-cranberry-salad.md`)
+- [ ] Five-Cup Salad (`salads-soups-five-cup-salad.md`)
+- [ ] Frozen Cranberry Salad (`salads-soups-frozen-cranberry-salad.md`)
+- [ ] Layered Salad (`salads-soups-layered-salad.md`)
+- [ ] Lemon-Lime Salad (`salads-soups-lemon-lime-salads.md`)
+- [ ] Pistachio Salad (`salads-soups-pistachio-salad.md`)
+- [ ] Potato Soup (`salads-soups-potato-soup.md`)
+- [ ] Strawberry Nut Salad (`salads-soups-strawberry-nut-salad.md`)
+- [ ] Tortellini Soup (`salads-soups-tortellini-soup.md`)
+- [ ] Vegetable Soup (`salads-soups-vegetable-soup.md`)
+- [ ] Chunky Squash & Potato Purée (`vegetables-chunky-squash-and-potato-puree.md`)
+- [ ] Chunky Squash & Potato Purée (continued) (`vegetables-chunky-squash-and-potato-puree-2.md`)
+- [ ] Corn Pudding (`vegetables-corn-pudding.md`)
+- [ ] Creamed Peas (`vegetables-creamed-peas.md`)
+- [ ] Escalloped Corn (`vegetables-escalloped-corn.md`)
+- [ ] Cracker Barrel Hash Brown Casserole (`vegetables-hash-brown-casserole.md`)
+- [ ] Ritz Broccoli Casserole (`vegetables-ritz-broccoli-casserole.md`)
+- [ ] Scalloped Potatoes (`vegetables-scalloped-potatoes.md`)
+- [ ] Zucchini Casserole (`vegetables-zucchini-casserole.md`)

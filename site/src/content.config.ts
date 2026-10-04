@@ -17,6 +17,10 @@ const recipes = defineCollection({
       book_order: z.number().int(),
       printed_page: z.number().int().optional(),
       scan: image(),
+      // Extra scans when a recipe continues onto the next page.
+      more_scans: z.array(image()).default([]),
+      // Set on a page that only continues another recipe; it is left out of lists and search.
+      continuation_of: z.string().optional(),
       source: z.literal('book'),
       serves: z.string().optional(),
       // pending = not typed yet; draft = typed by Claude, not yet proofread

@@ -1,0 +1,6783 @@
+{
+ "appetizers-aloha-dip": {
+  "id": "appetizers-aloha-dip",
+  "title": "Aloha Dip",
+  "printed_page": 1,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "12 macaroons - crushed",
+     "1/2 cup firmly packed brown sugar",
+     "1 fresh pineapple",
+     "1 pint sour cream"
+    ]
+   }
+  ],
+  "directions": [
+   "Mix together macaroons, sugar, and sour cream.",
+   "Chill for several hours to soften the crumbs. Do not stir again. (The macaroons will break into small crumbs.)",
+   "Cut off the top of the pineapple 1\" below the leaves and hollow it out.",
+   "Place the dip into the pineapple, and replace the top."
+  ],
+  "notes": [],
+  "tags": [
+   "dip",
+   "pineapple",
+   "macaroons",
+   "sour cream",
+   "appetizer"
+  ],
+  "uncertain": []
+ },
+ "appetizers-caso": {
+  "id": "appetizers-caso",
+  "title": "Caso",
+  "printed_page": 16,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "2 cups chili",
+     "1 lb. Velveeta"
+    ]
+   }
+  ],
+  "directions": [
+   "Melt chili and Velveeta together.",
+   "Serve warm with tortilla chips."
+  ],
+  "notes": [],
+  "tags": [
+   "dip",
+   "cheese",
+   "chili",
+   "velveeta",
+   "appetizer"
+  ],
+  "uncertain": []
+ },
+ "appetizers-cheese-ball": {
+  "id": "appetizers-cheese-ball",
+  "title": "Cheese Ball",
+  "printed_page": 2,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "2 - 8 oz. packages cream cheese",
+     "4 green onions - chopped finely",
+     "1 1/2 Tbsp. Accent",
+     "1 1/2 Tbsp. Worcestershire",
+     "1 package dried beef - cut up (Buddig)"
+    ]
+   }
+  ],
+  "directions": [
+   "Mix all ingredients except 1/2 cup chopped dried beef.",
+   "Shape mixture into a ball and sprinkle remaining dried beef on the top.",
+   "Chill and serve with crackers."
+  ],
+  "notes": [],
+  "tags": [
+   "cheese ball",
+   "cream cheese",
+   "dried beef",
+   "appetizer"
+  ],
+  "uncertain": []
+ },
+ "appetizers-chili-dip": {
+  "id": "appetizers-chili-dip",
+  "title": "Chili Dip",
+  "printed_page": 3,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "1 pound chili block (found in meat markets)",
+     "1 large jar Cheese Whiz",
+     "1 can of beer (use just enough to make the mixture the right consistency)"
+    ]
+   }
+  ],
+  "directions": [
+   "Mix and heat in a small crockpot, and serve with corn chips."
+  ],
+  "notes": [],
+  "tags": [
+   "dip",
+   "chili",
+   "cheese whiz",
+   "beer",
+   "appetizer"
+  ],
+  "uncertain": []
+ },
+ "appetizers-corn-fritters": {
+  "id": "appetizers-corn-fritters",
+  "title": "Corn Fritters",
+  "printed_page": 19,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "1 1/2 cup flour",
+     "1 1/4 cups frozen corn",
+     "1 1/2 cups (corn milk)",
+     "3 tsp baking powder",
+     "3/4 tsp salt",
+     "1 beaten egg"
+    ]
+   }
+  ],
+  "directions": [
+   "Place corn in microwave covered with water. Cook approx. 7 min.",
+   "Drain liquid into measuring cup - add milk until you have 1 1/2 cups liquid.",
+   "Add remaining dry ingredients.",
+   "Drop by tsp. into 375°F oil. Fry 3-4 min.",
+   "Drain and sprinkle with powdered sugar."
+  ],
+  "notes": [],
+  "tags": [
+   "fritters",
+   "corn",
+   "fried",
+   "appetizer"
+  ],
+  "uncertain": []
+ },
+ "appetizers-dill-dip": {
+  "id": "appetizers-dill-dip",
+  "title": "Dill Dip",
+  "printed_page": 4,
+  "serves": "2 1/2 cup dip",
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "1 package (1 oz) dry ranch salad dressing mix",
+     "1 cup Miracle Whip",
+     "1 cup sour cream",
+     "1 1/2 tsp. dried dill weed",
+     "1/2 cup radishes, coarsely chopped",
+     "2 Tbsp. onion, finely chopped",
+     "1 medium carrot, grated"
+    ]
+   }
+  ],
+  "directions": [
+   "In 1 quart bowl, combine salad dressing mix, Miracle Whip, sour cream, and dill weed; mix well.",
+   "Coarsely chop radishes and finely chop onion using food chopper.",
+   "Grate carrot using grater.",
+   "Stir radishes, onion, and carrot into mixture.",
+   "Chill and serve."
+  ],
+  "notes": [],
+  "tags": [
+   "dip",
+   "dill",
+   "ranch",
+   "sour cream",
+   "vegetables",
+   "appetizer"
+  ],
+  "uncertain": []
+ },
+ "appetizers-friendship-tea-spiced-tea": {
+  "id": "appetizers-friendship-tea-spiced-tea",
+  "title": "Friendship Tea (Spiced Tea)",
+  "printed_page": 13,
+  "serves": "50",
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "18 oz Tang",
+     "1 cup sugar (I don't use the sugar)",
+     "1 package pre-sweetened lemon Kool-Aid",
+     "1 - 3 oz. Apricot Jello",
+     "2 1/2 tsp. ground cinnamon",
+     "1 tsp ground cloves",
+     "1/2 cup decaf. instant tea mix"
+    ]
+   }
+  ],
+  "directions": [
+   "Mix all ingredients and store in air-tight container.",
+   "Place about 1 1/2 Tbsp. mix per 1 cup of boiling liquid (H2O)."
+  ],
+  "notes": [
+   "Sugar is optional: \"I don't use the sugar.\""
+  ],
+  "tags": [
+   "tea",
+   "beverage",
+   "spiced",
+   "tang",
+   "drink mix"
+  ],
+  "uncertain": []
+ },
+ "appetizers-fruit-dip": {
+  "id": "appetizers-fruit-dip",
+  "title": "Fruit Dip",
+  "printed_page": 5,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "1 jar marshmallow cream",
+     "8 oz. softened cream cheese"
+    ]
+   }
+  ],
+  "directions": [
+   "Blend marshmallow cream and cream cheese.",
+   "Chill and serve with fruit."
+  ],
+  "notes": [],
+  "tags": [
+   "dip",
+   "fruit",
+   "marshmallow cream",
+   "cream cheese",
+   "appetizer"
+  ],
+  "uncertain": []
+ },
+ "appetizers-garden-vegetable-dip": {
+  "id": "appetizers-garden-vegetable-dip",
+  "title": "Garden Vegetable Dip",
+  "printed_page": 6,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "1 - 24 oz. low fat cottage cheese",
+     "1/2 cup finely chopped broccoli",
+     "1/2 cup finely chopped carrot",
+     "2 Tbsp. finely chopped green onion",
+     "2 Tbsp. finely chopped fresh parsley",
+     "1 envelope Good Seasons Italian Salad Dressing Mix"
+    ]
+   }
+  ],
+  "directions": [
+   "Place cottage cheese in blender or food processor, cover. Blend on low speed until pureed.",
+   "Stir in remaining ingredients. Refrigerate.",
+   "Serve with assorted cut-up vegetables. Garnish as desired."
+  ],
+  "notes": [
+   "Makes 4 cups."
+  ],
+  "tags": [
+   "dip",
+   "cottage cheese",
+   "vegetables",
+   "broccoli",
+   "appetizer"
+  ],
+  "uncertain": []
+ },
+ "appetizers-hot-chocolate": {
+  "id": "appetizers-hot-chocolate",
+  "title": "Hot Chocolate",
+  "printed_page": 14,
+  "serves": "45",
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "1 box Carnation Dry Milk (8 quart)",
+     "1 lb. box Nestle's Quik",
+     "1 - 6 oz jar Coffee-mate",
+     "1 cup powdered sugar"
+    ]
+   }
+  ],
+  "directions": [
+   "Mix all ingredients thoroughly.",
+   "Use 1/3 cup mix for a mug of hot H2O.",
+   "Use 1/4 cup mix for a cup of hot H2O."
+  ],
+  "notes": [],
+  "tags": [
+   "hot chocolate",
+   "beverage",
+   "drink mix",
+   "dry milk"
+  ],
+  "uncertain": []
+ },
+ "appetizers-oyster-cracker-snacks": {
+  "id": "appetizers-oyster-cracker-snacks",
+  "title": "Oyster Cracker Snacks",
+  "printed_page": 8,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "1 box Oyster Crackers",
+     "1 cup Puritan Oil (heated)",
+     "1 package Hidden Valley Ranch Dressing",
+     "2 tsp. garlic powder",
+     "1/2 tsp. lemon pepper",
+     "1/2 tsp. dill weed"
+    ]
+   }
+  ],
+  "directions": [
+   "Toss crackers with heated oil.",
+   "Blend all dry ingredients and sprinkle over oiled crackers.",
+   "Let sit for 24 hours, then store in a container."
+  ],
+  "notes": [],
+  "tags": [
+   "snack",
+   "oyster crackers",
+   "ranch",
+   "dill",
+   "appetizer"
+  ],
+  "uncertain": []
+ },
+ "appetizers-pizza-rounds": {
+  "id": "appetizers-pizza-rounds",
+  "title": "Pizza Rounds",
+  "printed_page": 9,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "1 pound ground sirloin",
+     "2 pound hot pork sausage",
+     "2 pounds Velveeta Cheese",
+     "1 bag shredded Mozzarella cheese",
+     "2 loaves party rye bread"
+    ]
+   }
+  ],
+  "directions": [
+   "Brown meat and drain.",
+   "Cut Velveeta into chunks and melt, stirring often.",
+   "Mix melted cheese with meat mixture, 1 tsp. oregano, and mozzarella.",
+   "Spread on party rye.",
+   "Bake at 400°F for about 10-15 minutes."
+  ],
+  "notes": [
+   "May place in freezer container with waxed paper between layers. Store and use as needed."
+  ],
+  "tags": [
+   "pizza",
+   "sausage",
+   "velveeta",
+   "rye bread",
+   "appetizer"
+  ],
+  "uncertain": [
+   "quantity of hot pork sausage: \"2 pound\" (could be \"1/2 pound\"; the line has an extra mark before the 2)"
+  ]
+ },
+ "appetizers-rainbow-punch": {
+  "id": "appetizers-rainbow-punch",
+  "title": "Rainbow Punch",
+  "printed_page": 15,
+  "serves": "15-20",
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "2 liter bottle of ginger ale",
+     "Large jug of red Hawaiian Punch",
+     "1 container of frozen sherbet (raspberry, pineapple, lime)"
+    ]
+   }
+  ],
+  "directions": [
+   "Mix ginger ale and Hawaiian Punch.",
+   "Add 1 container of frozen sherbet (raspberry, pineapple, lime)."
+  ],
+  "notes": [],
+  "tags": [
+   "punch",
+   "beverage",
+   "sherbet",
+   "ginger ale",
+   "hawaiian punch"
+  ],
+  "uncertain": []
+ },
+ "appetizers-shrimp-spread": {
+  "id": "appetizers-shrimp-spread",
+  "title": "Shrimp Spread",
+  "printed_page": 10,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "3 oz. cream cheese",
+     "1 tsp. lemon juice",
+     "2 tsp. grated onion",
+     "1 can baby shrimp - cleaned and chopped",
+     "Worcestershire sauce - dash",
+     "salt and pepper"
+    ]
+   }
+  ],
+  "directions": [
+   "Cream cheese with lemon juice.",
+   "Add onion, shrimp, Worcestershire, salt and pepper.",
+   "Chill and spread on crackers."
+  ],
+  "notes": [],
+  "tags": [
+   "spread",
+   "shrimp",
+   "cream cheese",
+   "appetizer"
+  ],
+  "uncertain": []
+ },
+ "appetizers-spinach-dip": {
+  "id": "appetizers-spinach-dip",
+  "title": "Spinach Dip",
+  "printed_page": 17,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "1 cup Miracle Whip",
+     "1 cup sour cream",
+     "1/2 tsp. dill weed",
+     "1/2 tsp. parsley - chopped",
+     "1/2 cup chopped onion",
+     "1 pkg. Hidden Valley Ranch Dressing",
+     "1 pkg. frozen chopped spinach (thawed and drained)"
+    ]
+   }
+  ],
+  "directions": [
+   "Mix and chill."
+  ],
+  "notes": [],
+  "tags": [
+   "dip",
+   "spinach",
+   "ranch",
+   "sour cream",
+   "appetizer"
+  ],
+  "uncertain": []
+ },
+ "appetizers-stuffed-mushrooms": {
+  "id": "appetizers-stuffed-mushrooms",
+  "title": "Stuffed Mushrooms",
+  "printed_page": 11,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "1 pound cleaned large mushrooms",
+     "small sweet onion chopped finely",
+     "5 slices of white bread (crusts removed) cubed",
+     "1/4 - 1/2 cup margarine",
+     "mozzarella cheese - 16 oz"
+    ]
+   }
+  ],
+  "directions": [
+   "After cleaning mushrooms carefully, remove stems and place in food processor - chop finely.",
+   "Next, chop onion finely.",
+   "Then melt margarine in a large skillet over medium heat. Add mushrooms and onion. Saute until tender.",
+   "Then add bread cubes, and mix until moisture is absorbed.",
+   "Finally, add about 12 oz of mozzarella cheese and mix.",
+   "Stuff mushrooms and top with mozzarella.",
+   "Bake for 20 minutes in Pyrex baking dish (dotted with margarine slices) at 350°F.",
+   "Then broil for 3 minutes to brown."
+  ],
+  "notes": [],
+  "tags": [
+   "mushrooms",
+   "stuffed",
+   "mozzarella",
+   "appetizer",
+   "baked"
+  ],
+  "uncertain": []
+ },
+ "appetizers-taco-dip": {
+  "id": "appetizers-taco-dip",
+  "title": "Taco Dip",
+  "printed_page": 12,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "8 oz cream cheese",
+     "8 oz Miracle Whip",
+     "8 oz sour cream",
+     "8 oz Avocado Dip",
+     "Worcestershire sauce",
+     "sweet onion chopped finely",
+     "1 pound shredded Colby cheese",
+     "shredded lettuce",
+     "tomatoes - chopped"
+    ]
+   }
+  ],
+  "directions": [
+   "Blend cream cheese, Miracle Whip, sour cream, and Avocado Dip.",
+   "Add a dash of Worcestershire sauce and mix well.",
+   "Spread mixture on a large plate.",
+   "Top with chopped onion, lettuce (shredded), tomatoes, and shredded cheese.",
+   "Cover, chill and serve with tortilla chips."
+  ],
+  "notes": [],
+  "tags": [
+   "dip",
+   "taco",
+   "cream cheese",
+   "colby",
+   "appetizer"
+  ],
+  "uncertain": []
+ },
+ "appetizers-the-wallaby-darned": {
+  "id": "appetizers-the-wallaby-darned",
+  "title": "The Wallaby Darned",
+  "printed_page": 18,
+  "serves": "2 10 oz glasses",
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "8 oz. frozen sliced peaches",
+     "1/2 cup Bacardi frozen fuzzy navel mix",
+     "1/2 cup ice",
+     "1/2 cup Champagne",
+     "2 shots water",
+     "1 shot peach schnapps",
+     "1 shot vodka",
+     "1 tablespoon sugar"
+    ]
+   }
+  ],
+  "directions": [
+   "Combine all ingredients in a blender.",
+   "Blend on high for 30 seconds or until ice is completely crushed and the drink is smooth."
+  ],
+  "notes": [],
+  "tags": [
+   "cocktail",
+   "beverage",
+   "peach",
+   "champagne",
+   "frozen drink"
+  ],
+  "uncertain": [
+   "brand of fuzzy navel mix: written like \"Racard.\", read as \"Bacardi\""
+  ]
+ },
+ "breads-apricot-bread": {
+  "id": "breads-apricot-bread",
+  "title": "Apricot Bread",
+  "printed_page": 21,
+  "serves": "1 large loaf or 3 small loaves",
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "1 cup dried apricots",
+     "1/2 cup sugar",
+     "2 Tbsp. butter",
+     "1 egg",
+     "1/4 cup water",
+     "1/2 cup orange juice",
+     "2 cups flour",
+     "2 tsp. baking powder",
+     "1/4 tsp. soda",
+     "1 tsp. salt",
+     "1/2 cup nuts"
+    ]
+   }
+  ],
+  "directions": [
+   "Cream together butter and sugar.",
+   "Add egg, water, and orange juice.",
+   "Then add sifted dry ingredients (flour, baking powder, soda, and salt).",
+   "Lastly, fold in apricots and nuts, and pour into a greased, floured bread pan.",
+   "Bake for about 1 hour at 350°F."
+  ],
+  "notes": [],
+  "tags": [
+   "quick bread",
+   "apricot",
+   "orange juice",
+   "nuts",
+   "bread"
+  ],
+  "uncertain": []
+ },
+ "breads-banana-blueberry-bread": {
+  "id": "breads-banana-blueberry-bread",
+  "title": "Banana-Blueberry Bread",
+  "printed_page": 25,
+  "serves": "1 large loaf or 2 small",
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "1 stick butter",
+     "3/4 cup sugar",
+     "2 eggs",
+     "1 tsp. vanilla",
+     "5-6 mashed bananas",
+     "2 cups flour",
+     "1/4 tsp. salt",
+     "1 tsp. baking soda",
+     "1 1/2 - 2 cups fresh or frozen blueberries"
+    ]
+   }
+  ],
+  "directions": [
+   "Cream butter and sugar thoroughly.",
+   "Add 2 eggs, 1 tsp. vanilla, and 5-6 mashed bananas.",
+   "Mix in 2 cups flour, 1/4 tsp. salt, and 1 tsp. baking soda.",
+   "Finally, add 1 1/2 - 2 cups fresh or frozen blueberries.",
+   "Pour into 4 small, greased/floured bread pans.",
+   "Bake at 325°F-350°F for 1 hour."
+  ],
+  "notes": [],
+  "tags": [
+   "quick bread",
+   "banana",
+   "blueberry",
+   "bread"
+  ],
+  "uncertain": []
+ },
+ "breads-banana-cake-muffins": {
+  "id": "breads-banana-cake-muffins",
+  "title": "Banana Cake/Muffins",
+  "printed_page": 34,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "3 cup sifted flour",
+     "2 tsp baking soda",
+     "1/2 tsp salt",
+     "1 cup shortening (Crisco)",
+     "2 cup sugar",
+     "3/4 cup milk",
+     "2 eggs (slightly beaten)",
+     "5 bananas (extra soft)"
+    ]
+   }
+  ],
+  "directions": [
+   "Keep sugar separate.",
+   "In separate dish add milk.",
+   "In separate dish add slightly beaten egg.",
+   "In separate dish add dry, sifted ingredients (salt, soda, flour).",
+   "In separate dish add 5 bananas.",
+   "Muffins: Mash bananas with potato masher. Set aside.",
+   "Muffins: Spray Pam in muffin pan.",
+   "Muffins: Cream together sugar and Crisco until fluffy.",
+   "Muffins: Add 2 Tbsp of milk, then eggs to creamed mixture.",
+   "Muffins: Alternately add dried ingredients and milk and beat until mixed.",
+   "Muffins: Bake 350°F for about 30 mins.",
+   "Cake: Cut out parchment paper and line the bottom of 3 8 or 9 inch cake pans.",
+   "Cake: Add mixture. Bake 350°F for about 30 mins."
+  ],
+  "notes": [],
+  "tags": [
+   "banana",
+   "muffins",
+   "cake",
+   "baked"
+  ],
+  "uncertain": [
+   "where the mashed bananas are added is not written; the cook's line reads \"In separate dish add 5 bananas\""
+  ]
+ },
+ "breads-christmas-fruit-bread": {
+  "id": "breads-christmas-fruit-bread",
+  "title": "Christmas Fruit Bread",
+  "printed_page": 22,
+  "serves": "3 loaves",
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "2 cups milk (scalded)",
+     "1 Tbsp. sugar",
+     "2 tsp. salt",
+     "yeast (1 cake fresh or 1 pkg. yeast)",
+     "1/4 cup lukewarm water",
+     "1/2 cup shortening",
+     "2 tsp. grated lemon peel",
+     "3/4 cup sugar",
+     "1 tsp. vanilla",
+     "1/4 tsp. nutmeg",
+     "2 eggs (beaten)",
+     "3-4 cups flour",
+     "3/4 cup chopped almonds",
+     "2 cups seedless raisins (light and dark)",
+     "1 cup chopped candied fruit (red and green cherries, pineapple)"
+    ]
+   }
+  ],
+  "directions": [
+   "Combine milk, 1 Tbsp. sugar and salt; cool to lukewarm.",
+   "Add yeast that has been softened in lukewarm water.",
+   "Add 3 cups flour; beat thoroughly. Let rise until light and bubbly.",
+   "Thoroughly cream shortening and sugar. Add lemon peel, vanilla, nutmeg, and eggs.",
+   "Stir into sponge mixture.",
+   "Add remaining ingredients; mix to make smooth, soft dough. Let rest 10 minutes.",
+   "Knead on lightly floured surface until smooth and elastic.",
+   "Place in greased bowl; cover with a damp cloth and let rise until double.",
+   "Punch down. Shape loaves. Let rise until double.",
+   "Bake for 1 hour at 350°F."
+  ],
+  "notes": [],
+  "tags": [
+   "yeast bread",
+   "fruit bread",
+   "christmas",
+   "raisins",
+   "almonds",
+   "candied fruit"
+  ],
+  "uncertain": []
+ },
+ "breads-cinnamon-rolls": {
+  "id": "breads-cinnamon-rolls",
+  "title": "Cinnamon Rolls",
+  "printed_page": 23,
+  "serves": "3 dozen rolls",
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "1 package dry yeast",
+     "1/4 cup warm water",
+     "3 cups Bisquick",
+     "1/2 cup water",
+     "1/2 cup melted butter or margarine",
+     "1 cup sugar",
+     "2 tsp. cinnamon"
+    ]
+   }
+  ],
+  "directions": [
+   "Dissolve yeast with 1/4 cup warm water; let stand for 10 minutes.",
+   "Mix Bisquick with 1/2 cup water; add to yeast. Dough should be soft, but not gooey.",
+   "Divide dough into fourths and roll each into a rectangular shape about 1/4\" thick.",
+   "Brush with melted butter.",
+   "Mix together sugar and cinnamon and sprinkle over butter.",
+   "Roll in jellyroll fashion. Cut into 1\" slices and place into greased pans (either muffin pans or 8\" cake pans).",
+   "Brush top with remaining butter and sprinkle with sugar and cinnamon.",
+   "Bake at 350°F for 20 minutes."
+  ],
+  "notes": [],
+  "tags": [
+   "cinnamon rolls",
+   "bisquick",
+   "yeast",
+   "sweet rolls",
+   "breakfast"
+  ],
+  "uncertain": []
+ },
+ "breads-coffee-cake": {
+  "id": "breads-coffee-cake",
+  "title": "Coffee Cake",
+  "printed_page": 24,
+  "serves": "2 large loaves or 3 small loaves",
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "1 cup canned Milnot",
+     "water (fill Milnot can)",
+     "1 stick margarine",
+     "1/2 cup sugar",
+     "1 tsp. salt",
+     "1 tsp. vanilla",
+     "2 beaten eggs",
+     "1 pkg. yeast",
+     "1/2 tsp. sugar",
+     "1/4 cup lukewarm water",
+     "about 5 cups flour",
+     "butter",
+     "sugar and cinnamon"
+    ]
+   }
+  ],
+  "directions": [
+   "Scald 1 cup canned Milnot and fill Milnot can with water.",
+   "Place 1 stick margarine, 1/2 cup sugar and 1 tsp. salt in large bowl; pour hot milk over it. Let cool.",
+   "Add 1 tsp. vanilla and 2 beaten eggs.",
+   "Dissolve 1 pkg. yeast and 1/2 tsp. sugar in 1/4 cup lukewarm water.",
+   "Add 2 cups flour, then set aside to get bubbly.",
+   "Beat and add flour 1 cup at a time. Then finish adding flour with a spoon - using a total of about 5 cups flour.",
+   "Place on a floured bread board and knead until dough doesn't stick to hands. (Fold top down, rotate dough and knead.)",
+   "Place in greased bowl to rise and cover with a damp dish towel. (Make sure you flip dough so that both sides are greased.)",
+   "Punch down 2-3 times.",
+   "Brush with butter and sprinkle with sugar and cinnamon.",
+   "Bake at 350°F for 25-30 minutes."
+  ],
+  "notes": [],
+  "tags": [
+   "coffee cake",
+   "yeast",
+   "cinnamon",
+   "sweet bread",
+   "breakfast"
+  ],
+  "uncertain": []
+ },
+ "breads-corn-bread": {
+  "id": "breads-corn-bread",
+  "title": "Corn Bread",
+  "printed_page": 26,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "1 stick butter",
+     "2 cups flour",
+     "1 cup sugar",
+     "5 tsp. baking powder",
+     "1 tsp. salt",
+     "1 cup yellow cornmeal",
+     "2 eggs",
+     "2 cups milk"
+    ]
+   }
+  ],
+  "directions": [
+   "Melt 1 stick of butter in a 9\"x12\" pan in the oven. Let cool in pan.",
+   "Sift together 2 cups flour, 1 cup sugar, 5 tsp. baking powder, and 1 tsp. salt. Add 1 cup yellow cornmeal.",
+   "Beat 2 eggs and stir in 2 cups milk. Add to flour.",
+   "Lastly, pour in melted butter from pan. Mix well.",
+   "Pour entire mixture back into 9\"x12\" pan and bake for 25 minutes at 400°F."
+  ],
+  "notes": [],
+  "tags": [
+   "corn bread",
+   "cornmeal",
+   "bread",
+   "side dish"
+  ],
+  "uncertain": []
+ },
+ "breads-cracked-wheat-bread": {
+  "id": "breads-cracked-wheat-bread",
+  "title": "Cracked Wheat Bread",
+  "printed_page": null,
+  "serves": "2 loaves",
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "2 cup boiling water",
+     "2 cup cracked wheat (bulgur)",
+     "1/2 cup brown sugar",
+     "2 Tbsp. butter",
+     "1/2 tsp. salt",
+     "2 pkgs. yeast",
+     "1/2 cup warm water",
+     "5 - 5 1/2 cup flour (we use 1 cup whole wheat, 4 1/2 unbleached flour and 2 Tbsp. wheat germ)"
+    ]
+   }
+  ],
+  "directions": [
+   "Combine boiling water, cracked wheat, brown sugar, butter, and salt; cool until warm.",
+   "Meanwhile, soften yeast in warm water and combine with above.",
+   "Beat in as much flour as you can, then knead in the rest. Knead 8-10 min.",
+   "Let rise 1 1/2 hrs. Punch down, divide in two, let rest 10 min.",
+   "Roll each piece into a 12x16 shape, then roll up jelly-roll style into a 12\" loaf.",
+   "Pinch ends and tuck under. Let rise 1 hr. on a greased cookie sheet.",
+   "Bake 375°F for 30 min."
+  ],
+  "notes": [
+   "This is so yummy fresh out of the oven, or later when cooled and the next morning as toast!",
+   "A Great Summer Sandwich: assemble as follows - sliced cracked wheat bread, thinly sliced rare roast beef, garden fresh sliced tomatoes, dollop of homemade mayo and topped with dill weed."
+  ],
+  "tags": [
+   "yeast bread",
+   "cracked wheat",
+   "bulgur",
+   "whole wheat",
+   "bread"
+  ],
+  "uncertain": [
+   "dough size: \"Roll each piece into a 12x16 shape\" (second number could be 6)"
+  ]
+ },
+ "breads-cranberry-bread": {
+  "id": "breads-cranberry-bread",
+  "title": "Cranberry Bread",
+  "printed_page": 27,
+  "serves": "1 loaf",
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "2 cups flour",
+     "1 cup sugar",
+     "1/2 tsp. baking powder",
+     "1/2 tsp. baking soda",
+     "1/2 tsp. salt",
+     "1 well-beaten egg",
+     "1 cup fresh cranberries (sliced lengthwise)",
+     "1 cup chopped nuts",
+     "3 Tbsp. soft butter",
+     "juice of one orange plus grated orange rind (add water to orange juice to make 3/4 cup), boil"
+    ]
+   }
+  ],
+  "directions": [
+   "Sift dry ingredients, and add orange juice, rind, water liquid.",
+   "Add egg and butter and beat well.",
+   "Add raw cranberries and nuts by hand.",
+   "Bake in greased loaf pan for one hour at 350°F.",
+   "Let stand for 24 hours before cutting."
+  ],
+  "notes": [],
+  "tags": [
+   "quick bread",
+   "cranberry",
+   "orange",
+   "nuts",
+   "bread"
+  ],
+  "uncertain": []
+ },
+ "breads-fruit-cake-confections": {
+  "id": "breads-fruit-cake-confections",
+  "title": "Fruit Cake Confections",
+  "printed_page": 32,
+  "serves": "3 dozen muffin size or 5 dozen cupcake size",
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "3/4 cup butter or margarine",
+     "3/4 cup sugar",
+     "1/4 cup molasses",
+     "3 large eggs",
+     "1 1/2 cups sifted flour",
+     "1/2 tsp. soda",
+     "3/4 tsp salt",
+     "3/4 tsp cinnamon",
+     "3/4 tsp allspice",
+     "1/4 tsp. mace",
+     "2 tsp. vanilla",
+     "2 cups diced glazed fruit",
+     "2 cups pitted dates (cut-up)",
+     "2 cups seedless raisins",
+     "1 cup chopped nuts",
+     "Brandy or sherry"
+    ]
+   }
+  ],
+  "directions": [
+   "Thoroughly cream butter, and add sugar and molasses, beating until well-mixed.",
+   "Add eggs one at a time and beat until light and fluffy.",
+   "Sift flour with soda and spices. Stir in by hand.",
+   "Add the vanilla.",
+   "Make sure all fruit is soft. (If dry, steam over boiling water for a few minutes; cool.)",
+   "Stir in the fruit and blend mixture thoroughly.",
+   "Line small muffin or cupcake pans with colored foil baking cups. Spoon batter evenly in cups, filling them 3/4 full.",
+   "Bake at 325°F for about 50-60 minutes for muffin size, and 45 minutes for cupcake size. If cakes brown too quickly, cover loosely with a sheet of foil.",
+   "Leave cakes in foil cups and cool thoroughly.",
+   "Sprinkle with brandy or sherry. Keep tightly covered."
+  ],
+  "notes": [],
+  "tags": [
+   "fruitcake",
+   "dates",
+   "raisins",
+   "glazed fruit",
+   "christmas",
+   "cupcakes"
+  ],
+  "uncertain": []
+ },
+ "breads-gooey-butter-coffee-cake": {
+  "id": "breads-gooey-butter-coffee-cake",
+  "title": "Gooey Butter Coffee Cake",
+  "printed_page": 28,
+  "serves": "10-12",
+  "ingredients": [
+   {
+    "group": "Bottom layer",
+    "items": [
+     "1 box Duncan Hines Yellow Cake Mix",
+     "1/2 cup (1 stick) melted butter",
+     "2 eggs"
+    ]
+   },
+   {
+    "group": "Top layer",
+    "items": [
+     "8 oz. cream cheese",
+     "1 box powdered sugar",
+     "2 well-beaten eggs"
+    ]
+   }
+  ],
+  "directions": [
+   "Mix cake mix, melted butter, and eggs.",
+   "Spread above ingredients in greased and floured 9\"x12\" pan.",
+   "Mix together cream cheese, powdered sugar, and eggs. Spread over bottom layer.",
+   "Sprinkle with powdered sugar and bake for 40-50 minutes at 350°F."
+  ],
+  "notes": [],
+  "tags": [
+   "coffee cake",
+   "gooey butter cake",
+   "cake mix",
+   "cream cheese",
+   "dessert"
+  ],
+  "uncertain": []
+ },
+ "breads-grandmas-icing": {
+  "id": "breads-grandmas-icing",
+  "title": "Grandma's Icing",
+  "printed_page": 35,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "1 lb. powdered sugar",
+     "1/2 stick butter - melted",
+     "1 heaping tablespoon Crisco",
+     "hot water"
+    ]
+   }
+  ],
+  "directions": [
+   "Mix by hand.",
+   "Add small amounts of water at a time until it is creamy.",
+   "Then beat with mixer until very creamy."
+  ],
+  "notes": [],
+  "tags": [
+   "icing",
+   "frosting",
+   "powdered sugar",
+   "butter"
+  ],
+  "uncertain": []
+ },
+ "breads-honey-mustard": {
+  "id": "breads-honey-mustard",
+  "title": "Honey Mustard",
+  "printed_page": 33,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "3/4 cup sour cream",
+     "1/3 cup mayo",
+     "1/2 cup prepared mustard",
+     "1/3 cup honey",
+     "1 Tbsp. lemon juice",
+     "Salt & pepper to taste"
+    ]
+   }
+  ],
+  "directions": [
+   "Mix mayo, sour cream & mustard with wire whisk.",
+   "Add honey, lemon juice, salt & pepper, stirring until well combined."
+  ],
+  "notes": [],
+  "tags": [
+   "honey",
+   "mustard",
+   "sauce",
+   "dressing",
+   "dip"
+  ],
+  "uncertain": []
+ },
+ "breads-lemonberry-poppyseed-bread": {
+  "id": "breads-lemonberry-poppyseed-bread",
+  "title": "Lemonberry Poppyseed Bread",
+  "printed_page": 38,
+  "serves": "3 loaves",
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "1 box Bakery Style Blueberry Muffin Mix",
+     "1 Tbsp. poppyseeds",
+     "1 egg",
+     "3/4 cup water",
+     "1 Tbsp. lemon zest",
+     "Blueberries and raspberries to taste (about 3/4 cup of each)"
+    ]
+   },
+   {
+    "group": "Glaze",
+    "items": [
+     "1/2 cup powdered sugar",
+     "1 Tbsp. lemon juice",
+     "1 Tbsp. lemon zest"
+    ]
+   }
+  ],
+  "directions": [
+   "Mix above ingredients until smooth.",
+   "Add blueberries and raspberries to your particular taste (I use about 3/4 cup of each).",
+   "Before baking, add crumb topping over mixture.",
+   "Bake in 3 greased/floured small bread pans at 350°F for 50-60 minutes.",
+   "Cool on cooling racks and top with glaze made from 1/2 cup powdered sugar, 1 Tbsp. lemon juice, and 1 Tbsp. lemon zest."
+  ],
+  "notes": [
+   "Before baking, add crumb topping over mixture."
+  ],
+  "tags": [
+   "lemon",
+   "blueberry",
+   "raspberry",
+   "poppyseed",
+   "quick bread"
+  ],
+  "uncertain": []
+ },
+ "breads-nut-bread": {
+  "id": "breads-nut-bread",
+  "title": "Nut Bread",
+  "printed_page": 30,
+  "serves": "2 loaves",
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "3 eggs - well beaten",
+     "2 cups brown sugar (1 package)",
+     "3 cups buttermilk",
+     "4 1/2 cups flour",
+     "1 1/2 tsp. soda",
+     "1 1/2 tsp. baking powder",
+     "3/4 tsp salt",
+     "1 cup walnuts (black)"
+    ]
+   }
+  ],
+  "directions": [
+   "Beat eggs and sugar together.",
+   "Add milk, then remaining ingredients.",
+   "Bake in greased/floured loaf pans at 325°F for 45-50 minutes."
+  ],
+  "notes": [],
+  "tags": [
+   "walnuts",
+   "buttermilk",
+   "nut bread",
+   "quick bread"
+  ],
+  "uncertain": []
+ },
+ "breads-pumpkin-bread": {
+  "id": "breads-pumpkin-bread",
+  "title": "Pumpkin Bread",
+  "printed_page": 31,
+  "serves": "3 loaves",
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "3 cups sugar",
+     "1 cup shortening",
+     "4 eggs",
+     "1/2 tsp salt",
+     "1 tsp. cinnamon",
+     "1 tsp. nutmeg",
+     "3 1/2 cups flour",
+     "2/3 cups water",
+     "2 tsp. soda",
+     "2 cups pumpkin",
+     "1 cup raisins"
+    ]
+   }
+  ],
+  "directions": [
+   "Mix sugar & shortening.",
+   "Beat in eggs.",
+   "Add remaining ingredients and mix well.",
+   "Place mixture into 3 greased & floured loaf pans.",
+   "Bake for 45-50 minutes at 350°F."
+  ],
+  "notes": [],
+  "tags": [
+   "pumpkin",
+   "raisins",
+   "quick bread",
+   "spice"
+  ],
+  "uncertain": [
+   "\"2/3 cups water\" - the fraction before \"cups water\" is partly hidden; could be 1/3"
+  ]
+ },
+ "breads-strawberry-jam-freezer-2": {
+  "id": "breads-strawberry-jam-freezer-2",
+  "title": "Strawberry Jam (cont.)",
+  "printed_page": 37,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": "Peach Jam",
+    "items": [
+     "2 lb. peaches (peel, pit, mash)",
+     "1 lemon",
+     "4 1/2 cups sugar",
+     "Prepared fruit: 3 cups mashed peaches, 2 Tbsp. fresh lemon juice"
+    ]
+   }
+  ],
+  "directions": [
+   "Strawberry Jam: Pour into prepared containers, leaving 1/2 inch space at top for expansion during freezing; cover.",
+   "Strawberry Jam: Let stand at room temp. 24 hours until set.",
+   "Strawberry Jam: If not set after 24 hours, refrigerate for up to 3 weeks. Otherwise, store in freezer for up to 1 yr. Thaw in refrigerator.",
+   "Peach Jam: Same instructions as Strawberry Jam except fruit."
+  ],
+  "notes": [
+   "Continuation of Freezer Strawberry Jam (steps 8-9) from page 36."
+  ],
+  "tags": [
+   "strawberry",
+   "peach",
+   "jam",
+   "freezer jam",
+   "preserves"
+  ],
+  "uncertain": []
+ },
+ "breads-strawberry-jam-freezer": {
+  "id": "breads-strawberry-jam-freezer",
+  "title": "Freezer Strawberry Jam",
+  "printed_page": 36,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "1 qt. fully ripe strawberries",
+     "4 cups sugar",
+     "1 box Sure-Jell"
+    ]
+   }
+  ],
+  "directions": [
+   "Wash & rinse plastic containers with tight fitting lids. Use 1 to 2 cup size containers.",
+   "Prepare fruit. (Discard stems & crush strawberries.) For berries, crush 1 cup at a time, using a potato masher for best results. If using food processor, pulse to very finely chop. Do not puree. Jam should have bits of fruit.",
+   "Measure exact amount of prepared fruit (2 cups) into a large bowl.",
+   "Measure exact amount of sugar into separate bowl. (Do not reduce sugar; do not use sugar substitutes.)",
+   "Stir sugar into prepared fruit. Mix well. Let stand 10 min. Stir occasionally.",
+   "Stir pectin & 3/4 cup water in small saucepan. (Pectin may start lumpy.) Bring to boil on high heat, stirring constantly. Remove from heat.",
+   "Stir pectin mixture into fruit mixture. Stir constantly until sugar is completely dissolved & no longer grainy, about three min. (A few sugar crystals may remain.)"
+  ],
+  "notes": [
+   "Continued on next page (steps 8-9 and Peach Jam variation on page 37)."
+  ],
+  "tags": [
+   "strawberry",
+   "jam",
+   "freezer jam",
+   "pectin",
+   "preserves"
+  ],
+  "uncertain": [
+   "\"1 qt. fully ripe strawberries\" - quantity written as \"1qt\" is hard to read",
+   "\"(Pectin may start lumpy)\" - \"start\" is unclear"
+  ]
+ },
+ "breads-strawberry-tea": {
+  "id": "breads-strawberry-tea",
+  "title": "Strawberry Tea Bread",
+  "printed_page": 39,
+  "serves": "2 loaves",
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "3 cups flour",
+     "1 tsp. baking soda",
+     "1 tsp. salt",
+     "1 1/4 cup chopped pecans",
+     "2 pts. fresh strawberries - mashed",
+     "1 1/4 cup melted butter",
+     "4 eggs",
+     "2 cups sugar"
+    ]
+   }
+  ],
+  "directions": [
+   "Beat eggs well, add sugar & mix.",
+   "Add butter & mashed strawberries.",
+   "Add mixture to sifted dry ingredients; mix.",
+   "Pour into 2 greased loaf pans and bake about 1 hour at 350°F.",
+   "Cool in pan for about 10 minutes."
+  ],
+  "notes": [],
+  "tags": [
+   "strawberry",
+   "pecans",
+   "tea bread",
+   "quick bread"
+  ],
+  "uncertain": []
+ },
+ "cakes-apple-upside-down-cake-2": {
+  "id": "cakes-apple-upside-down-cake-2",
+  "title": "Apple Upside-Down Cake (cont.)",
+  "printed_page": 185,
+  "serves": null,
+  "ingredients": [],
+  "directions": [
+   "If some of the apple topping sticks to the pan, just put the apples back where they belong & spread the sugary caramel on top with a small spatula.",
+   "Serve warm or at room temp., garnished with whipped topping or apple slices, if desired."
+  ],
+  "notes": [
+   "Nutrition: 241 calories, 40g carb., 8g fat, 8g protein, 4g fiber."
+  ],
+  "tags": [
+   "apple",
+   "upside-down cake",
+   "cake"
+  ],
+  "uncertain": [
+   "\"8g fat\" and \"8g protein\" - digits are unclear"
+  ]
+ },
+ "cakes-apple-upside-down-cake": {
+  "id": "cakes-apple-upside-down-cake",
+  "title": "Apple Upside-Down Cake",
+  "printed_page": 184,
+  "serves": "8",
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "5 T margarine, divided",
+     "1/4 cup light brown sugar",
+     "2 cup thinly sliced Golden Delicious or Cortland apples",
+     "1 cup all-purpose flour",
+     "1 1/2 tsp. baking powder",
+     "2/3 cup sugar",
+     "1 egg",
+     "2 tsp grated orange rind",
+     "1/2 cup low-fat milk"
+    ]
+   }
+  ],
+  "directions": [
+   "Preheat oven 350°F.",
+   "Melt 1 T of margarine in a 9 x 1 1/2 inch round cake pan over very low heat. Remove from heat.",
+   "Sprinkle margarine with brown sugar & arrange apple slices in overlapping pattern on top.",
+   "Sift together flour & baking powder.",
+   "Beat remaining 4 T margarine with sugar, egg, orange rind & vanilla at medium speed until smooth & creamy.",
+   "Add the flour mixture alternately with the milk, beating until evenly blended.",
+   "Pour batter over apples & spread evenly.",
+   "Bake 40 min., or until a toothpick inserted in the center comes out clean.",
+   "Cool in pan on wire rack 5 min.",
+   "With a butter knife or a narrow metal spatula, loosen cake from sides of pan. Invert onto a plate.",
+   "(continued on next page)"
+  ],
+  "notes": [
+   "Vanilla is mentioned in the directions but no amount is listed in the ingredients."
+  ],
+  "tags": [
+   "apple",
+   "upside-down cake",
+   "cake",
+   "orange"
+  ],
+  "uncertain": [
+   "\"2 cup thinly sliced\" - quantity \"2\" is unclear",
+   "\"2 tsp grated orange rind\" - quantity unclear"
+  ]
+ },
+ "cakes-carrot-cake": {
+  "id": "cakes-carrot-cake",
+  "title": "Carrot Cake",
+  "printed_page": 191,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": "Cake",
+    "items": [
+     "2 cups sugar",
+     "4 eggs",
+     "2 tsp. salt",
+     "2 tsp. cinnamon",
+     "3 cups coarsely grated carrots",
+     "1 cup black walnuts - finely chopped",
+     "1 1/2 cups oil",
+     "2 1/4 cups flour",
+     "2 tsp. soda"
+    ]
+   },
+   {
+    "group": "Icing",
+    "items": [
+     "1/2 box powdered sugar",
+     "8 oz cream cheese"
+    ]
+   }
+  ],
+  "directions": [
+   "Cake: Combine sugar, oil, & eggs; mix.",
+   "Cake: Add remaining dry ingredients and mix.",
+   "Cake: Finally, add carrots and nuts and mix.",
+   "Cake: Pour into greased jelly roll pan (9x12) and bake at 300°F for 1 1/2 hours.",
+   "Icing: Mix powdered sugar and cream cheese and spread."
+  ],
+  "notes": [],
+  "tags": [
+   "carrot",
+   "walnuts",
+   "cake",
+   "cream cheese icing"
+  ],
+  "uncertain": []
+ },
+ "cakes-chocolate-pudding-cake": {
+  "id": "cakes-chocolate-pudding-cake",
+  "title": "Chocolate Pudding Cake",
+  "printed_page": 186,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "2 squares semi-sweet chocolate",
+     "1/2 cup sugar",
+     "1/2 cup water",
+     "4 egg yolks",
+     "1 envelope Knox gelatin",
+     "2 Tbsp. water",
+     "1/2 pint whipped cream",
+     "4 egg whites, stiffly beaten",
+     "1 large angel food cake",
+     "Crushed nuts (optional)"
+    ]
+   }
+  ],
+  "directions": [
+   "Melt chocolate, sugar, and water in double boiler.",
+   "Beat 4 egg yolks. Add to above ingredients.",
+   "Soften 1 envelope Knox gelatin in 2 Tbsp. water and add to above ingredients; cool all ingredients.",
+   "Add 1/2 pint whipped cream and 4 egg whites stiffly beaten. Fold into cooled mixture.",
+   "Next, tear a large angel food cake into small pieces. Place in a 9\"x11\" cake pan.",
+   "Alternate layers - cake, pudding, cake, pudding.",
+   "May place crushed nuts on top if desired.",
+   "Refrigerate."
+  ],
+  "notes": [],
+  "tags": [
+   "chocolate",
+   "pudding",
+   "angel food cake",
+   "refrigerator cake",
+   "dessert"
+  ],
+  "uncertain": []
+ },
+ "cakes-date-nut-bars": {
+  "id": "cakes-date-nut-bars",
+  "title": "Date Nut Bars",
+  "printed_page": 192,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "1 lb. chopped (pitted) dates",
+     "2 tsp. baking powder",
+     "1 cup chopped black walnuts",
+     "1 tsp. vanilla",
+     "3 eggs",
+     "1 1/2 cup flour",
+     "1/2 cup milk",
+     "1 cup sugar"
+    ]
+   }
+  ],
+  "directions": [
+   "Beat sugar & eggs.",
+   "Add other ingredients.",
+   "Bake in greased 8\"x10\" pan for 45 min - 1 hr. at 3[?]5°F.",
+   "After baking, sprinkle with powdered sugar & cut into squares."
+  ],
+  "notes": [],
+  "tags": [
+   "dates",
+   "black walnuts",
+   "bars",
+   "cookies"
+  ],
+  "uncertain": [
+   "\"at 3[?]5°\" - the middle digit of the bake temperature is overwritten; reads as 305, likely 325 or 375"
+  ]
+ },
+ "cakes-dirt-cake": {
+  "id": "cakes-dirt-cake",
+  "title": "Dirt Cake",
+  "printed_page": 189,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "1 1/2 bags Oreos",
+     "2 small pkgs. vanilla instant pudding",
+     "3 1/2 cup milk",
+     "1 - 8 oz. pkg. cream cheese",
+     "1 - 12 oz. container Cool Whip",
+     "1/2 - 1 cup powdered sugar",
+     "gummie worms",
+     "flower pot or small pail",
+     "silk flower"
+    ]
+   }
+  ],
+  "directions": [
+   "Crush Oreos in food processor.",
+   "Mix other ingredients.",
+   "Line bottom of flower pot with foil.",
+   "Layer cookies, pudding, etc., making sure to end with cookie crumbs.",
+   "Place a silk flower in pot, and place gummie worms as though they are coming out of dirt onto the side of the pot."
+  ],
+  "notes": [
+   "Makes a nice centerpiece."
+  ],
+  "tags": [
+   "oreos",
+   "pudding",
+   "cream cheese",
+   "no-bake",
+   "dessert"
+  ],
+  "uncertain": []
+ },
+ "cakes-key-lime-cake": {
+  "id": "cakes-key-lime-cake",
+  "title": "Key Lime Cake",
+  "printed_page": 187,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": "Cake",
+    "items": [
+     "1 box Duncan Hines Lemon Supreme Cake Mix",
+     "1 pkg. lemon instant pudding mix",
+     "4 eggs",
+     "1/2 cup water",
+     "1/2 cup key lime juice",
+     "1/2 cup vegetable oil"
+    ]
+   },
+   {
+    "group": "Icing",
+    "items": [
+     "2 cups powdered sugar",
+     "1/4 cup key lime juice"
+    ]
+   }
+  ],
+  "directions": [
+   "Cake: Combine ingredients and beat 2 minutes at medium speed with electric mixer.",
+   "Cake: Pour batter into greased 13x9x2 pan.",
+   "Cake: Bake at 350°F for 35 minutes or until toothpick comes clean.",
+   "Cake: Let pan cool on wire rack.",
+   "Icing: Combine powdered sugar and key lime juice. Drizzle or spread over cake."
+  ],
+  "notes": [],
+  "tags": [
+   "key lime",
+   "lemon",
+   "cake mix",
+   "cake"
+  ],
+  "uncertain": []
+ },
+ "cakes-lemon-angel-cake": {
+  "id": "cakes-lemon-angel-cake",
+  "title": "Lemon Angel Cake",
+  "printed_page": 190,
+  "serves": "15",
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "1 pkg. angel food cake mix",
+     "2 lemons",
+     "2 cups powdered sugar",
+     "2 cups (16 oz) Cool Whip",
+     "10 oz raspberries"
+    ]
+   }
+  ],
+  "directions": [
+   "Prepare angel food cake according to directions, and pour batter into 9\"x13\" pan, spreading evenly over bottom.",
+   "Bake on center rack for about 35-40 min. or until crust is golden brown and cracked.",
+   "Turn cake upside down and cool on cooling rack.",
+   "When cool, poke holes in cake about 1 1/2\" deep and 1/2\" apart with fork.",
+   "Zest 1 Tbsp. lemon zest, and squeeze lemons to yield 1/4 cup lemon juice.",
+   "Whisk together lemon juice & zest, and powdered sugar.",
+   "Pour glaze over cake and let stand 30 min.",
+   "To serve, garnish each slice with Cool Whip and raspberries."
+  ],
+  "notes": [],
+  "tags": [
+   "lemon",
+   "angel food cake",
+   "raspberries",
+   "cake"
+  ],
+  "uncertain": []
+ },
+ "cakes-lemon-cake-and-glaze": {
+  "id": "cakes-lemon-cake-and-glaze",
+  "title": "Lemon Cake & Glaze",
+  "printed_page": 182,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": "Glaze",
+    "items": [
+     "2 cup sifted powdered sugar",
+     "1/4 cup lemon juice",
+     "2 Tbsp grated lemon peel"
+    ]
+   },
+   {
+    "group": "Cake",
+    "items": [
+     "1 package instant lemon pudding",
+     "1 Duncan Hines lemon cake"
+    ]
+   }
+  ],
+  "directions": [
+   "Cake: Follow directions on cake box & add lemon pudding; mix and follow baking directions on box.",
+   "Cake: While hot, poke holes in cake & pour topping over cake.",
+   "Glaze: Mix and pour over warm lemon cake. (Use a fork & stick holes in lemon cake.)"
+  ],
+  "notes": [],
+  "tags": [
+   "lemon",
+   "cake mix",
+   "pudding",
+   "glaze",
+   "cake"
+  ],
+  "uncertain": []
+ },
+ "cakes-red-velvet-cake": {
+  "id": "cakes-red-velvet-cake",
+  "title": "Red Velvet Cake",
+  "printed_page": 180,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "1 1/2 cup sugar",
+     "2 eggs",
+     "1 cup buttermilk",
+     "2 1/4 cup cake flour (or plain flour)",
+     "2 - 1 oz bottles red food coloring, or 1 & 1 bottle H2O",
+     "3 T Nestle's sweet milk cocoa",
+     "1/2 cup Crisco",
+     "1/4 tsp salt",
+     "1 tsp vanilla",
+     "1 tsp soda",
+     "1 tsp apple cider vinegar"
+    ]
+   }
+  ],
+  "directions": [
+   "Mix coloring & cocoa together in small bowl.",
+   "Cream Crisco & sugar.",
+   "Add eggs & coloring & beat well.",
+   "Add buttermilk, vanilla, salt & flour. Beat well with mixer.",
+   "Mix soda & vinegar together, then add to mixture & beat hard.",
+   "Bake in 2 layers. Bake 30 min @ 350°F."
+  ],
+  "notes": [],
+  "tags": [
+   "red velvet",
+   "cake",
+   "buttermilk",
+   "cocoa"
+  ],
+  "uncertain": [
+   "\"1 cup buttermilk\" - small note written under buttermilk (looks like \"- 2 [?]\") is unreadable",
+   "\"(or plain flour)\" - small note above \"cake flour\" is hard to read",
+   "\"or 1 & 1 bottle H2O\" - alternative to the food coloring is unclear",
+   "\"3 T Nestle's sweet milk cocoa\" - quantity is overwritten (3 or 9) and unit is unclear"
+  ]
+ },
+ "cakes-red-velvet-frosting": {
+  "id": "cakes-red-velvet-frosting",
+  "title": "Red Velvet Frosting",
+  "printed_page": 181,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": "1st Part",
+    "items": [
+     "4 tbsp flour",
+     "1 cup milk"
+    ]
+   },
+   {
+    "group": "2nd Part",
+    "items": [
+     "1/2 cup butter",
+     "1/2 cup white shortening",
+     "1 cup powdered sugar",
+     "1 tsp vanilla"
+    ]
+   }
+  ],
+  "directions": [
+   "1st Part: Place flour in saucepan & gradually add milk.",
+   "1st Part: Stir till smooth; use egg beater if necessary.",
+   "1st Part: Cook until thick, stirring constantly.",
+   "1st Part: Cook, set & cool (skim the top when ready to use). Cool before adding to last mixture.",
+   "2nd Part: Cream butter & shortening for 4 min.",
+   "2nd Part: Add powdered sugar; cream for 4 min.",
+   "2nd Part: Add flour mixture & cream for 4 more min. Mix - beat the life out of it.",
+   "2nd Part: Add vanilla, mix & spread."
+  ],
+  "notes": [],
+  "tags": [
+   "red velvet",
+   "frosting",
+   "icing",
+   "butter"
+  ],
+  "uncertain": [
+   "\"1/2 cup butter\" - fraction unclear (1/2 or 1/4) and a crossed-out word precedes \"butter\"",
+   "\"Cook, set & cool\" - words after \"Cook\" are unclear",
+   "\"skim the top when ready to use\" - \"skim\" and \"ready to use\" are unclear"
+  ]
+ },
+ "cakes-strawberry-cake": {
+  "id": "cakes-strawberry-cake",
+  "title": "Strawberry Cake",
+  "printed_page": 188,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": "Cake",
+    "items": [
+     "1 white cake mix",
+     "4 eggs",
+     "1/2 cup oil",
+     "1 large pkg. frozen strawberries (thawed - drain & reserve juice)",
+     "1 pkg strawberry Jell-O",
+     "1/2 cup hot water"
+    ]
+   },
+   {
+    "group": "Icing",
+    "items": [
+     "1 lb powdered sugar",
+     "strawberry juice",
+     "1/2 stick butter"
+    ]
+   }
+  ],
+  "directions": [
+   "Use reserved strawberry juice to make icing."
+  ],
+  "notes": [
+   "No mixing or baking directions are written on the page."
+  ],
+  "tags": [
+   "strawberry",
+   "cake mix",
+   "jello",
+   "cake"
+  ],
+  "uncertain": []
+ },
+ "cakes-turtle-cake": {
+  "id": "cakes-turtle-cake",
+  "title": "Turtle Cake",
+  "printed_page": 193,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "1 - German Chocolate Cake mix",
+     "4 oz caramels",
+     "1/2 cup evaporated milk",
+     "1 1/2 sticks butter",
+     "1 cup (8 oz) chocolate chips",
+     "1 cup chopped pecans"
+    ]
+   }
+  ],
+  "directions": [
+   "Mix cake according to package directions.",
+   "Pour 1/2 of batter into 13\" by 9\" greased pan and bake 15 minutes at 350°F.",
+   "Meanwhile melt caramels in a double boiler; when melted add butter & milk.",
+   "Stir caramel mixture well and pour over baked cake.",
+   "Pour chocolate chips over caramel mixture and top with remaining batter.",
+   "Return pan to oven and bake for another 15 minutes."
+  ],
+  "notes": [],
+  "tags": [
+   "chocolate",
+   "caramel",
+   "pecans",
+   "cake mix",
+   "cake"
+  ],
+  "uncertain": []
+ },
+ "cakes-wacky-cake": {
+  "id": "cakes-wacky-cake",
+  "title": "Wacky Cake",
+  "printed_page": 183,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": "Cake",
+    "items": [
+     "1 1/2 cup flour",
+     "1 cup sugar",
+     "3 Tbsp cocoa",
+     "1/2 tsp salt",
+     "1 tbsp soda",
+     "1 tsp vanilla",
+     "1 Tbsp vinegar",
+     "6 Tbsp cooking oil",
+     "1 cup cold water"
+    ]
+   },
+   {
+    "group": "Icing",
+    "items": [
+     "4 cups sifted powdered sugar",
+     "4 squares semi-sweet chocolate",
+     "3/4 stick butter",
+     "4 Tbsp. milk",
+     "3/4 tsp. vanilla"
+    ]
+   }
+  ],
+  "directions": [
+   "Cake: Sift flour, sugar, cocoa, salt and soda together in a baking pan.",
+   "Cake: Make 3 holes & add vanilla, vinegar and cooking oil.",
+   "Cake: Cover with 1 cup cold water & mix thoroughly with a fork.",
+   "Cake: Bake @ 350°F for [?] min.",
+   "Icing: Melt butter & chocolate together; add to powdered sugar.",
+   "Icing: Add milk & vanilla and mix."
+  ],
+  "notes": [],
+  "tags": [
+   "chocolate",
+   "cocoa",
+   "cake",
+   "eggless",
+   "icing"
+  ],
+  "uncertain": [
+   "\"Bake @ 350° for [?] min\" - bake time is scribbled over and unreadable",
+   "\"1 tbsp soda\" - unit could be tsp",
+   "\"1 tsp vanilla\" and \"1 Tbsp vinegar\" - units are faint"
+  ]
+ },
+ "desserts-apple-crunch-pudding": {
+  "id": "desserts-apple-crunch-pudding",
+  "title": "Apple Crunch Pudding",
+  "printed_page": 163,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "1/2 cup white sugar & brown sugar",
+     "2 Tbsp. flour",
+     "1 tsp. cinnamon",
+     "1/2 tsp. of allspice & nutmeg",
+     "2 cups crushed cornflakes",
+     "1/2 cup butter",
+     "4 cups apples",
+     "1/2 cup chopped pecans"
+    ]
+   }
+  ],
+  "directions": [
+   "Mix sugar, flour, & spices together, and stir in cornflakes.",
+   "Next, add melted butter.",
+   "Place half mixture into a shallow baking dish, top with apples, cover with remaining mixture, and top with nuts.",
+   "Bake at 350°F for 25 minutes."
+  ],
+  "notes": [],
+  "tags": [
+   "apple",
+   "cornflakes",
+   "pecans",
+   "baked dessert",
+   "pudding"
+  ],
+  "uncertain": []
+ },
+ "desserts-apple-dumplings": {
+  "id": "desserts-apple-dumplings",
+  "title": "Apple Dumplings",
+  "printed_page": 162,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": "Dough",
+    "items": [
+     "2 cups flour",
+     "1 scant tsp. salt",
+     "2 Tbsp. Crisco",
+     "2 Tbsp. baking powder",
+     "1 Tbsp. butter",
+     "7/8 cup milk",
+     "Jonathan apples, peeled, cored, and sliced 1/2\" thick",
+     "Sugar and cinnamon"
+    ]
+   },
+   {
+    "group": "Syrup",
+    "items": [
+     "1 cup sugar",
+     "1 Tbsp. flour",
+     "1/4 tsp. salt",
+     "1 cup hot water",
+     "1 Tbsp. butter",
+     "few drops vanilla"
+    ]
+   }
+  ],
+  "directions": [
+   "Dumplings: Mix like you would biscuit dough.",
+   "Dumplings: Roll out - cover dough with Jonathan apples that have been peeled, cored, and sliced 1/2\" thick.",
+   "Dumplings: Sprinkle sugar and cinnamon over apples and roll up jellyroll style.",
+   "Dumplings: Pour syrup over roll and bake at 350°F for 1 hour.",
+   "Syrup: Mix together and boil for 3 minutes."
+  ],
+  "notes": [],
+  "tags": [
+   "apple",
+   "dumplings",
+   "syrup",
+   "baked dessert"
+  ],
+  "uncertain": []
+ },
+ "desserts-applesauce": {
+  "id": "desserts-applesauce",
+  "title": "Applesauce",
+  "printed_page": 167,
+  "serves": "small dish",
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "6 McIntosh or Granny Smith apples",
+     "Sugar or Equal",
+     "Water",
+     "Heavy saucepan"
+    ]
+   }
+  ],
+  "directions": [
+   "Peel, quarter, and core apples.",
+   "Place in saucepan with about 1 inch of water in pan.",
+   "Cook covered over medium heat.",
+   "Cook until apples are almost liquid (may need to add a little more water depending upon apples).",
+   "Add enough sugar or Equal to suit you.",
+   "Chill."
+  ],
+  "notes": [],
+  "tags": [
+   "apple",
+   "applesauce",
+   "side dish",
+   "dessert"
+  ],
+  "uncertain": []
+ },
+ "desserts-boiled-custard": {
+  "id": "desserts-boiled-custard",
+  "title": "Boiled Custard",
+  "printed_page": 160,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "1 gallon whole milk",
+     "10 whole eggs",
+     "2 1/2 cups sugar",
+     "2 tsp. vanilla"
+    ]
+   }
+  ],
+  "directions": [
+   "Beat eggs until well-beaten and add to milk & sugar; place in a large pan.",
+   "Place this pan into a larger pan containing water (water should go 1/2 way up the outside of the pan).",
+   "Cook over medium heat for 1 hour, stirring 3-4 times.",
+   "When cool, add 2 tsp. vanilla.",
+   "Strain and chill in a large container."
+  ],
+  "notes": [],
+  "tags": [
+   "custard",
+   "eggs",
+   "milk",
+   "dessert",
+   "drink"
+  ],
+  "uncertain": []
+ },
+ "desserts-homemade-ice-cream": {
+  "id": "desserts-homemade-ice-cream",
+  "title": "Homemade Ice Cream",
+  "printed_page": 161,
+  "serves": "Makes 1 1/2 gallons",
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "5 whole eggs",
+     "2 1/2 cups sugar",
+     "1/2 gallon whole milk",
+     "1 quart whipping cream",
+     "vanilla",
+     "2-3 bags crushed ice",
+     "ice cream salt",
+     "ice cream freezer - 6 qt. capacity"
+    ]
+   }
+  ],
+  "directions": [
+   "Thoroughly mix eggs and sugar - about 10 minutes.",
+   "Add whipping cream and mix another 5-10 minutes.",
+   "Place mixture in ice cream freezer, and add milk and vanilla (it takes a lot of vanilla).",
+   "Finish ice cream according to freezer directions."
+  ],
+  "notes": [],
+  "tags": [
+   "ice cream",
+   "vanilla",
+   "cream",
+   "frozen dessert"
+  ],
+  "uncertain": []
+ },
+ "desserts-peanut-roll": {
+  "id": "desserts-peanut-roll",
+  "title": "Peanut Roll",
+  "printed_page": 165,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": "Sponge Cake",
+    "items": [
+     "1 1/2 cups sugar",
+     "pinch of salt",
+     "3/4 cup boiling water",
+     "2 1/2 tsp. baking powder",
+     "4 eggs",
+     "1/8 tsp. vanilla"
+    ]
+   },
+   {
+    "group": "Icing",
+    "items": [
+     "1 lb powdered sugar",
+     "1/2 stick melted butter",
+     "1 tsp vanilla",
+     "hot water until very, very thin"
+    ]
+   },
+   {
+    "group": "Coating",
+    "items": [
+     "crushed peanuts"
+    ]
+   }
+  ],
+  "directions": [
+   "Sponge Cake: Beat for 10 minutes.",
+   "Sponge Cake: Bake for about 30 minutes. Put in 9\"x12\" pan in a 275°F oven and then gradually increase oven temp to 350°F.",
+   "Sponge Cake: Cool, and cut in squares.",
+   "Ice and roll in crushed peanuts."
+  ],
+  "notes": [
+   "No flour is listed for the sponge cake on the page."
+  ],
+  "tags": [
+   "peanuts",
+   "sponge cake",
+   "icing",
+   "dessert"
+  ],
+  "uncertain": []
+ },
+ "desserts-rice-pudding": {
+  "id": "desserts-rice-pudding",
+  "title": "Rice Pudding",
+  "printed_page": 164,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "1/2 cup uncooked rice",
+     "1/2 cup water",
+     "1/2 tsp. salt",
+     "2 3/4 cup milk",
+     "1/2 cup seedless raisins",
+     "3 Tbsp. butter",
+     "2 beaten eggs",
+     "1/3 cup sugar",
+     "1/2 tsp. vanilla"
+    ]
+   }
+  ],
+  "directions": [
+   "Combine rice, water, & salt. Bring to a boil.",
+   "Reduce heat, cover, & cook about 9 minutes.",
+   "Stir in 2 1/4 cup milk, cover, & cook over low heat for 1 hour, stirring occasionally.",
+   "(Meanwhile, cover raisins with boiling water and set aside.)",
+   "Add butter to hot pudding mixture, stirring constantly.",
+   "Cook about 5 minutes or until mixture thickens.",
+   "Combine eggs, sugar, and remaining milk and add to pudding mixture.",
+   "Remove from heat, add drained raisins & vanilla.",
+   "Chill."
+  ],
+  "notes": [],
+  "tags": [
+   "rice",
+   "pudding",
+   "raisins",
+   "dessert"
+  ],
+  "uncertain": [
+   "\"Stir in 2 1/4 cup milk\" - fraction is overwritten (1/4 or 3/4)"
+  ]
+ },
+ "desserts-turtle-cheesecake": {
+  "id": "desserts-turtle-cheesecake",
+  "title": "Turtle Cheesecake",
+  "printed_page": 166,
+  "serves": "8",
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "1 - Graham Cracker Crust",
+     "2 - 8 oz. packages Philadelphia Cream Cheese",
+     "2 eggs",
+     "1/2 cup sugar",
+     "2 Tbsp. milk",
+     "caramel topping",
+     "1/2 cup chopped pecans",
+     "1/2 tsp. vanilla",
+     "20 caramels"
+    ]
+   }
+  ],
+  "directions": [
+   "Cream cheese, sugar, and vanilla with electric mixer until well blended.",
+   "Add eggs and mix until well blended; set aside.",
+   "Melt caramels with milk on low heat, stirring frequently until smooth.",
+   "Stir in pecans.",
+   "Pour caramel and pecan mixture into graham cracker crust.",
+   "Top with cheese batter.",
+   "Bake at 350°F for about 40 minutes or until knife comes out of center clean.",
+   "Chill at least 3 hours."
+  ],
+  "notes": [],
+  "tags": [
+   "cheesecake",
+   "caramel",
+   "pecans",
+   "cream cheese",
+   "dessert"
+  ],
+  "uncertain": []
+ },
+ "eggs-cheese-baked-eggs": {
+  "id": "eggs-cheese-baked-eggs",
+  "title": "Baked Eggs",
+  "printed_page": 60,
+  "serves": "8",
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "10 slices bread - cubed (crusts removed)",
+     "1/2 pound Velveeta",
+     "1/2 cup butter",
+     "6 eggs",
+     "2 cups milk"
+    ]
+   }
+  ],
+  "directions": [
+   "Spread cubed bread evenly on bottom of 9\"x13\" greased Pyrex dish.",
+   "Melt Velveeta and butter together and pour over bread.",
+   "Blend eggs and milk together and pour over first 2 ingredients.",
+   "Refrigerate overnight.",
+   "Cook (bake) at 350°F for 1 hour - 1 hour 15 minutes."
+  ],
+  "notes": [],
+  "tags": [
+   "eggs",
+   "cheese",
+   "velveeta",
+   "breakfast casserole",
+   "make-ahead"
+  ],
+  "uncertain": [
+   "\"9\\\"x13\\\" greased Pyrex dish\" - second pan dimension is covered by the drawing; could be 9\"x10\""
+  ]
+ },
+ "eggs-cheese-deviled-eggs": {
+  "id": "eggs-cheese-deviled-eggs",
+  "title": "Deviled Eggs",
+  "printed_page": 63,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "6 hard-boiled eggs",
+     "Miracle Whip",
+     "Sweet pickle juice",
+     "sugar",
+     "salt & pepper"
+    ]
+   }
+  ],
+  "directions": [
+   "Place 6 eggs in a medium sauce pan and cover with water.",
+   "Bring to a boil and continue boiling for 15 minutes.",
+   "Immediately cover eggs with cold water and remove shells.",
+   "Next cut eggs into halves and place yolks into a bowl.",
+   "Then mash yolks, add enough pickle juice to make yolks moist and smooth.",
+   "Add about 1 Tbsp. sugar, a dash of salt and pepper and Miracle Whip (enough to make egg mixture creamy).",
+   "Stuff eggs."
+  ],
+  "notes": [],
+  "tags": [
+   "eggs",
+   "deviled eggs",
+   "miracle whip",
+   "pickle juice",
+   "appetizer"
+  ],
+  "uncertain": []
+ },
+ "eggs-cheese-mariachis": {
+  "id": "eggs-cheese-mariachis",
+  "title": "Mariachis",
+  "printed_page": 62,
+  "serves": "6",
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "1 package tortillas (heated)",
+     "1/2 lb. bacon cooked crisply & crumbled",
+     "1 dozen eggs - well beaten",
+     "3-4 Tbsp. margarine",
+     "3-4 Idaho potatoes boiled (about 20 minutes) and grated",
+     "margarine (enough to cover the bottom of the skillet)",
+     "1/2 pound colby cheese, shredded",
+     "salsa"
+    ]
+   }
+  ],
+  "directions": [
+   "Melt margarine in skillet, add beaten eggs, crumbled bacon, and scramble.",
+   "Next, boil 3-4 Idaho potatoes (about 20 minutes) and grate.",
+   "Use enough margarine to cover the bottom of the skillet, and fry the potatoes.",
+   "Shred 1/2 pound colby cheese.",
+   "Place eggs on tortillas, cover with fried potatoes, add shredded cheese, and top with salsa."
+  ],
+  "notes": [],
+  "tags": [
+   "eggs",
+   "bacon",
+   "potatoes",
+   "tortillas",
+   "cheese",
+   "breakfast"
+  ],
+  "uncertain": []
+ },
+ "eggs-cheese-quiche": {
+  "id": "eggs-cheese-quiche",
+  "title": "Quiche",
+  "printed_page": 61,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "1 Pillsbury Pie Crust",
+     "1 sweet onion diced and sauteed in butter",
+     "12 slices of bacon - crisply cooked",
+     "5 eggs (beaten thoroughly with half & half)",
+     "2 1/2 cup half & half (beaten thoroughly with eggs)",
+     "2 cups shredded monterey jack cheese"
+    ]
+   }
+  ],
+  "directions": [
+   "Place crust in 9\" pie pan.",
+   "Place sauteed onions over crust.",
+   "Next, place crumbled bacon over crust.",
+   "Then place shredded cheese over bacon.",
+   "Finally, pour eggs & half & half mixture over cheese.",
+   "Bake at 350°F for about 1 hour.",
+   "Quiche is done when knife is placed in center of quiche and it comes out clean.",
+   "Let sit for about 10 minutes until serving."
+  ],
+  "notes": [],
+  "tags": [
+   "quiche",
+   "eggs",
+   "bacon",
+   "monterey jack cheese",
+   "pie"
+  ],
+  "uncertain": [
+   "\"2 1/2 cup half & half\" - the whole number before 1/2 could be 1 or 2"
+  ]
+ },
+ "meats-beef-and-cabbage": {
+  "id": "meats-beef-and-cabbage",
+  "title": "Beef and Cabbage",
+  "printed_page": 155,
+  "serves": "4",
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "3 pound piece of London Broil",
+     "1 medium onion - sliced",
+     "1 1/2 heads cabbage - cut into wedges",
+     "6-7 potatoes cut into halves"
+    ]
+   }
+  ],
+  "directions": [
+   "Place meat and onion into a large pot, and add about 1/2 pot of water.",
+   "Cook over medium heat about 1 1/2 hours to 2 hours, or until tender.",
+   "When meat is tender, add cabbage wedges and potatoes.",
+   "Continue cooking another 1 1/2 hours over medium heat."
+  ],
+  "notes": [],
+  "tags": [
+   "beef",
+   "london broil",
+   "cabbage",
+   "potatoes",
+   "main dish"
+  ],
+  "uncertain": []
+ },
+ "meats-chicken-stir-fry": {
+  "id": "meats-chicken-stir-fry",
+  "title": "Chicken Stir Fry",
+  "printed_page": 156,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "4 boneless, skinless chicken breast halves",
+     "1 Tbsp. canola oil",
+     "2 cups sliced mushrooms",
+     "2 tsp. lemon juice",
+     "1 tsp. sesame seeds",
+     "4 Tbsp. soy sauce",
+     "2 Tbsp. butter"
+    ]
+   }
+  ],
+  "directions": [
+   "Clean chicken, and cut into bite-size pieces.",
+   "In large frying pan, spread 1 Tbsp. of oil and saute sliced chicken.",
+   "Add 1 Tbsp. of soy sauce, 1 Tbsp. butter, and a dash of salt and pepper.",
+   "When the chicken appears white on all sides, add 2 tsp. lemon juice, and push chicken to 1 side of the pan.",
+   "Add mushrooms to the other side of the pan, pour 1 Tbsp. soy sauce over the mushroom, then add 1 Tbsp. butter.",
+   "After 8-10 minutes, sprinkle 1 tsp. of sesame seeds over the chicken."
+  ],
+  "notes": [],
+  "tags": [
+   "chicken",
+   "stir fry",
+   "mushrooms",
+   "soy sauce",
+   "main dish"
+  ],
+  "uncertain": []
+ },
+ "meats-chop-suey": {
+  "id": "meats-chop-suey",
+  "title": "Chop Suey",
+  "printed_page": 144,
+  "serves": "8",
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "1 Round Steak (cut into bite-size pieces)",
+     "1 large onion - sliced",
+     "1 can bean sprouts",
+     "1 large can mushrooms",
+     "Bead molasses (Brown Gravy Sauce) - add until color is dark as desired"
+    ]
+   }
+  ],
+  "directions": [
+   "Place meat in dutch oven and sear over low heat.",
+   "Add onion and celery and cook until meat draws its own juices.",
+   "Add bean sprouts and mushrooms.",
+   "Cover mixture with water, add salt, pepper, and bead molasses.",
+   "Cook slowly, adding water as necessary for about 5 hours.",
+   "Thicken with cornstarch before serving.",
+   "Serve over steamed white rice."
+  ],
+  "notes": [],
+  "tags": [
+   "beef",
+   "round steak",
+   "bean sprouts",
+   "mushrooms",
+   "chop suey",
+   "rice"
+  ],
+  "uncertain": []
+ },
+ "meats-emmys-hamburger": {
+  "id": "meats-emmys-hamburger",
+  "title": "Emmy's Hamburger",
+  "printed_page": 140,
+  "serves": "4-6",
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "1 1/2 pound ground sirloin",
+     "2/3 cup carnation milk",
+     "1 egg - beaten",
+     "1 small onion - diced",
+     "salt & pepper",
+     "3 crackers - crushed"
+    ]
+   }
+  ],
+  "directions": [
+   "Mix all of the above ingredients together.",
+   "Slice a loaf of French Bread lengthwise.",
+   "Spread above mixture onto sliced bread.",
+   "Bake on a cookie sheet at 350°F for 40-45 minutes.",
+   "Top with Velveeta Cheese and continue baking until cheese melts."
+  ],
+  "notes": [],
+  "tags": [
+   "ground beef",
+   "hamburger",
+   "french bread",
+   "velveeta",
+   "main dish"
+  ],
+  "uncertain": []
+ },
+ "meats-flank-steak": {
+  "id": "meats-flank-steak",
+  "title": "Flank Steak",
+  "printed_page": 153,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": "Marinade",
+    "items": [
+     "1/4 cup soy sauce",
+     "1 tsp. ginger",
+     "1/4 cup brown sugar",
+     "1 Tbsp. worcestershire sauce",
+     "1 tsp. salt",
+     "1/2 cup water"
+    ]
+   },
+   {
+    "group": "Meat",
+    "items": [
+     "Flank Steak"
+    ]
+   }
+  ],
+  "directions": [
+   "Marinate Flank Steak in the soy sauce, ginger, brown sugar, worcestershire sauce, salt, and water.",
+   "Marinate at least 8 hours.",
+   "Broil or grill on each side for about 6 minutes."
+  ],
+  "notes": [],
+  "tags": [
+   "beef",
+   "flank steak",
+   "marinade",
+   "soy sauce",
+   "grill"
+  ],
+  "uncertain": []
+ },
+ "meats-french-dipped-sandwich": {
+  "id": "meats-french-dipped-sandwich",
+  "title": "French Dipped Sandwich",
+  "printed_page": 141,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "Sirloin Tip Roast - Frozen",
+     "salt, pepper, & garlic powder",
+     "2 packages of McCormick's Au Jus",
+     "Chicago Rolls"
+    ]
+   }
+  ],
+  "directions": [
+   "Place sirloin tip roast in large roaster pan (uncovered) in 400°F oven for 1 hour.",
+   "Turn roast, apply salt, pepper, & garlic powder, cover, reduce heat to 325°F and cook for several hours. [Reserve meat drippings.]",
+   "After roast cools, trim fat off it and slice.",
+   "To meat drippings, add 2 packages of McCormick's Au Jus (prepared according to package directions).",
+   "Heat thoroughly and add sliced meat.",
+   "To serve, place meat on Chicago Rolls, and place juice in small individual bowls."
+  ],
+  "notes": [],
+  "tags": [
+   "beef",
+   "sirloin tip roast",
+   "au jus",
+   "sandwich",
+   "main dish"
+  ],
+  "uncertain": []
+ },
+ "meats-goulash": {
+  "id": "meats-goulash",
+  "title": "Goulash",
+  "printed_page": 142,
+  "serves": "4",
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "1 pound ground sirloin",
+     "1 small onion - chopped finely",
+     "1 - 14 1/2 oz can whole tomatoes - chopped",
+     "1 - 10 3/4 oz can tomato sauce",
+     "1 1/4 cup elbow macaroni",
+     "water",
+     "salt & pepper to taste"
+    ]
+   }
+  ],
+  "directions": [
+   "Brown sirloin with onion and drain off excess fat.",
+   "Add tomatoes and tomato sauce.",
+   "Add about 2 cups of water, salt and pepper, and simmer about 30 minutes.",
+   "Next, add 1 1/4 cup cooked macaroni, and cook another 30 minutes.",
+   "You may need to add more water and salt and pepper.",
+   "Top with Parmesan Cheese and serve."
+  ],
+  "notes": [],
+  "tags": [
+   "ground beef",
+   "macaroni",
+   "tomatoes",
+   "goulash",
+   "main dish"
+  ],
+  "uncertain": []
+ },
+ "meats-hamburger-casserole": {
+  "id": "meats-hamburger-casserole",
+  "title": "Hamburger Casserole",
+  "printed_page": 143,
+  "serves": "5",
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "1 pound ground sirloin (browned)",
+     "Thinly sliced potatoes",
+     "peas - drain & reserve liquid",
+     "chopped celery",
+     "chopped carrots",
+     "chopped onions"
+    ]
+   }
+  ],
+  "directions": [
+   "Layer the following ingredients in greased 2 qt. casserole: thinly sliced potatoes, peas, chopped celery, chopped carrots, chopped onions.",
+   "Place browned meat on top.",
+   "Empty can of tomato juice into a bowl.",
+   "Place pea juice into soup can and fill the can the rest of the way with water.",
+   "Mix juice with soup and pour over the top of the meat.",
+   "Bake at 350°F for 1 1/2 hours. Cover for the first hour, then uncover."
+  ],
+  "notes": [],
+  "tags": [
+   "ground beef",
+   "casserole",
+   "potatoes",
+   "peas",
+   "vegetables",
+   "main dish"
+  ],
+  "uncertain": [
+   "\"Empty can of tomato juice into a bowl\" - the word read as \"juice\" may be \"soup\" (later steps refer to a soup can)"
+  ]
+ },
+ "meats-macs-sloppy-joes": {
+  "id": "meats-macs-sloppy-joes",
+  "title": "Mac's Sloppy Joes",
+  "printed_page": 146,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "1 1/2 pound ground sirloin",
+     "1/2 cup chopped onion",
+     "1/8 cup water",
+     "2 Tbsp. chopped green peppers",
+     "1/4 cup chopped celery",
+     "1 Tbsp. cornstarch",
+     "dash of garlic powder",
+     "1/4 cup catsup",
+     "1/2 cup tomato puree",
+     "1/2 cup crushed tomatoes",
+     "1/2 pint beef stock",
+     "1/2 Tbsp. vinegar",
+     "1/2 tsp. salt",
+     "1 tsp. brown sugar",
+     "pinch dry mustard",
+     "1/2 tsp. chili powder"
+    ]
+   }
+  ],
+  "directions": [
+   "Brown ground sirloin in deep skillet, drain off excess fat, and set aside.",
+   "Combine remaining ingredients except cornstarch and water.",
+   "Simmer the mixture for 1/2 hour.",
+   "Make a paste with the cornstarch and water, and add to the simmering mixture, cooking about 10 minutes longer to thicken.",
+   "Lastly, add the browned sirloin and cook another 10 minutes.",
+   "Serve on buns."
+  ],
+  "notes": [],
+  "tags": [
+   "ground beef",
+   "sloppy joes",
+   "tomato",
+   "sandwich",
+   "main dish"
+  ],
+  "uncertain": []
+ },
+ "meats-meatloaf": {
+  "id": "meats-meatloaf",
+  "title": "Meatloaf",
+  "printed_page": 145,
+  "serves": "6",
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "1 pound ground sirloin",
+     "1 small sweet onion - diced finely",
+     "1 egg - beaten",
+     "cornflakes - about 1 1/2 cups",
+     "milk"
+    ]
+   }
+  ],
+  "directions": [
+   "Place sirloin in a bowl, add onion, egg, and salt & pepper. Mix.",
+   "Add cornflakes, and enough milk to make meatloaf the right consistency.",
+   "Shape into a loaf, and place in loaf pan (put enough water in pan to cover the bottom of the pan).",
+   "If desired, place 1 piece of bacon on top to flavor, or you may cover the top with catsup.",
+   "Bake about 1 hour at 350°F."
+  ],
+  "notes": [],
+  "tags": [
+   "ground beef",
+   "meatloaf",
+   "cornflakes",
+   "main dish"
+  ],
+  "uncertain": []
+ },
+ "meats-pizza-spaghetti-pie": {
+  "id": "meats-pizza-spaghetti-pie",
+  "title": "Pizza Spaghetti Pie",
+  "printed_page": 157,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": "Meat Layer",
+    "items": [
+     "1 lb ground sirloin",
+     "1/2 cup bread crumbs",
+     "1/2 cup chopped onion",
+     "1 tsp. salt",
+     "dash of pepper",
+     "5.3 oz evaporated milk"
+    ]
+   },
+   {
+    "group": "Spaghetti Layer",
+    "items": [
+     "4 oz cooked spaghetti",
+     "1 egg beaten",
+     "1/4 cup grated parmesan",
+     "2 T butter"
+    ]
+   },
+   {
+    "group": "Topping",
+    "items": [
+     "8 oz spaghetti sauce",
+     "1 cup shredded mozzarella",
+     "parmesan"
+    ]
+   }
+  ],
+  "directions": [
+   "Meat Layer: Mix ground sirloin, bread crumbs, onion, salt, pepper, and evaporated milk. Bake at 350°F for 35-40 minutes.",
+   "Spaghetti Layer: Mix cooked spaghetti, beaten egg, grated parmesan, and butter, and put on meat layer.",
+   "Topping: Add 8 oz spaghetti sauce to spaghetti layer, 1 cup shredded mozzarella & sprinkle [?] parmesan.",
+   "Bake for 10 minutes.",
+   "Let stand for 5 minutes before cutting."
+  ],
+  "notes": [],
+  "tags": [
+   "ground beef",
+   "spaghetti",
+   "mozzarella",
+   "parmesan",
+   "casserole",
+   "main dish"
+  ],
+  "uncertain": [
+   "\"5.3 oz evaporated milk\" - quantity hard to read",
+   "\"2 T butter\" - the \"2\" is hard to read",
+   "\"& sprinkle [?] parmesan\" - word(s) between \"sprinkle\" and \"parmesan\" unreadable (possibly \"w/\" or \"with\")"
+  ]
+ },
+ "meats-shish-kabob": {
+  "id": "meats-shish-kabob",
+  "title": "Shish-Kabob",
+  "printed_page": 147,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": "Marinade",
+    "items": [
+     "Juice of 3 lemons",
+     "3/4 cup canola oil",
+     "3/4 cup catsup",
+     "garlic powder (as much as desired)",
+     "worcestershire sauce"
+    ]
+   },
+   {
+    "group": "Kabobs",
+    "items": [
+     "sirloin sizzlers",
+     "whole mushrooms",
+     "bacon",
+     "onion slices"
+    ]
+   }
+  ],
+  "directions": [
+   "Mix all of the marinade ingredients.",
+   "Marinate sirloin sizzlers whole or cut into large chunks - marinate for 1-2 days. Also, add whole mushrooms.",
+   "To make kabobs, thread 3 pieces of meat, 1 square of bacon, mushroom, onion slice. Repeat until skewer is as full as desired.",
+   "Grill 15-20 minutes, brushing with sauce frequently."
+  ],
+  "notes": [],
+  "tags": [
+   "beef",
+   "sirloin",
+   "kabobs",
+   "marinade",
+   "grill"
+  ],
+  "uncertain": []
+ },
+ "meats-sloppy-joes": {
+  "id": "meats-sloppy-joes",
+  "title": "Sloppy Joes",
+  "printed_page": 151,
+  "serves": "4-6",
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "1 pound ground sirloin",
+     "1 can chicken gumbo soup",
+     "1/4 cup water",
+     "1/4 cup catsup",
+     "2 tsp dry mustard",
+     "1/2 tsp salt",
+     "1 medium onion chopped finely"
+    ]
+   }
+  ],
+  "directions": [
+   "Brown ground sirloin with chopped onion - drain excess fat.",
+   "Add remaining ingredients and simmer approximately 1 hour."
+  ],
+  "notes": [],
+  "tags": [
+   "ground beef",
+   "sloppy joes",
+   "chicken gumbo soup",
+   "sandwich",
+   "main dish"
+  ],
+  "uncertain": []
+ },
+ "meats-spaghetti-pie": {
+  "id": "meats-spaghetti-pie",
+  "title": "Spaghetti Pie",
+  "printed_page": 148,
+  "serves": "6",
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "6 oz. spaghetti",
+     "2 Tbsp. butter",
+     "1/3 cup grated fresh parmesan cheese",
+     "2 well-beaten eggs",
+     "1 cup cottage cheese",
+     "1 lb. ground sirloin",
+     "1/2 cup chopped sweet onion",
+     "1/4 cup chopped green pepper",
+     "16 oz tomato sauce",
+     "1/2 cup shredded mozzarella cheese"
+    ]
+   }
+  ],
+  "directions": [
+   "Cook spaghetti according to package directions; stir butter into drained, hot spaghetti.",
+   "Stir in Parmesan cheese and eggs.",
+   "Form spaghetti mixture into a crust in a buttered 10\" pie pan.",
+   "Spread cottage cheese over the bottom of the spaghetti crust.",
+   "In skillet, cook ground sirloin, onion, and green pepper until vegetables are tender and the meat is brown. Drain off excess fat.",
+   "Stir in tomato sauce, and heat thoroughly.",
+   "Turn meat mixture into crust.",
+   "Bake uncovered at 350°F for 20 min.",
+   "Sprinkle mozzarella cheese over the pie and cook for an additional 5 minutes."
+  ],
+  "notes": [],
+  "tags": [
+   "ground beef",
+   "spaghetti",
+   "cottage cheese",
+   "mozzarella",
+   "pie",
+   "main dish"
+  ],
+  "uncertain": []
+ },
+ "meats-stew": {
+  "id": "meats-stew",
+  "title": "Stew",
+  "printed_page": 149,
+  "serves": "6",
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "2 pounds of either London Broil, or stew meat",
+     "flour",
+     "salt & pepper",
+     "canola oil",
+     "1 medium onion, sliced",
+     "3 potatoes - diced",
+     "2 carrots - chopped",
+     "1 package frozen baby peas",
+     "1 cup sliced mushrooms",
+     "3 Tbsp. flour and 1/2 cup water (for thickening)"
+    ]
+   }
+  ],
+  "directions": [
+   "Flour and salt & pepper meat and place in small amount of canola oil in hot dutch oven.",
+   "Brown meat on both sides, and cover with sliced medium onion.",
+   "Cook over low heat for about 1 1/2 hours (covered), or until meat is tender.",
+   "Turn meat several times, and add water if meat does not draw its own juices.",
+   "When meat is tender, cut into bite-size pieces, scrape the bottom of the pan, and add enough water until pan is about 1/2 full.",
+   "Add 3 potatoes - diced, 2 carrots - chopped, 1 package frozen baby peas, and 1 cup sliced mushrooms.",
+   "Cook for about 30-45 minutes or until veggies are tender.",
+   "Before serving, thicken with a mixture of 3 Tbsp. flour and 1/2 cup water."
+  ],
+  "notes": [],
+  "tags": [
+   "beef",
+   "stew",
+   "potatoes",
+   "carrots",
+   "peas",
+   "main dish"
+  ],
+  "uncertain": []
+ },
+ "meats-stir-fry-beef": {
+  "id": "meats-stir-fry-beef",
+  "title": "Stir Fry Beef",
+  "printed_page": 152,
+  "serves": "4",
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "1 pound Flank Steak",
+     "2 Tbsp. soy sauce",
+     "1 Tbsp. Sherry",
+     "1 tsp. sugar",
+     "3 cloves garlic - minced",
+     "1 Tbsp. salad oil",
+     "1 bunch broccoli flowerette",
+     "1 small sweet onion - sliced",
+     "1 1/2 cups sliced mushrooms",
+     "1/2 cup bean sprouts (fresh)",
+     "1 cup fresh pea pods",
+     "1 Tbsp. cornstarch",
+     "1/4 cup water",
+     "1 beef bouillon cube",
+     "1 tsp. salt"
+    ]
+   }
+  ],
+  "directions": [
+   "Cut flank steak in bite-size pieces and place in a bowl with soy sauce, sherry, sugar, salt, and garlic - marinate about 2 hours.",
+   "Blanch broccoli about 1 minute - drain.",
+   "Heat oil, add beef, and cook for 5 minutes.",
+   "Dissolve bouillon cube in 1/4 cup water, and add 1 Tbsp. cornstarch - cook until thick.",
+   "Add thickened mixture to meat and cook about 1 minute.",
+   "Add veggies 1 at a time and cook until tender.",
+   "Serve over rice."
+  ],
+  "notes": [],
+  "tags": [
+   "beef",
+   "flank steak",
+   "stir fry",
+   "broccoli",
+   "vegetables",
+   "rice"
+  ],
+  "uncertain": []
+ },
+ "meats-stuffed-peppers": {
+  "id": "meats-stuffed-peppers",
+  "title": "Stuffed Peppers",
+  "printed_page": 150,
+  "serves": "5",
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "6-7 medium peppers (top cut-off, seeds removed)",
+     "1/2 cup dry white rice",
+     "1 pound ground sirloin",
+     "1 sweet onion - minced",
+     "2 eggs",
+     "12 oz can tomato paste",
+     "6 oz can tomato sauce",
+     "salt & pepper",
+     "water - add enough so that the mixture is the right consistency"
+    ]
+   }
+  ],
+  "directions": [
+   "Before stuffing peppers, soak them in salt water for 1-2 hours.",
+   "Stuff peppers with meat mixture, cover with sauce, and bake for 1 1/2 hrs. at 350°F."
+  ],
+  "notes": [],
+  "tags": [
+   "ground beef",
+   "peppers",
+   "rice",
+   "tomato",
+   "main dish"
+  ],
+  "uncertain": []
+ },
+ "meats-veal-scallopini": {
+  "id": "meats-veal-scallopini",
+  "title": "Veal Scallopini",
+  "printed_page": 154,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "2 pounds veal - cubed",
+     "3/4 cup flour - mixed with 1 tsp. salt & 1/4 tsp. pepper",
+     "1/4 cup oil",
+     "4 oz can mushrooms - drained",
+     "2 small onions - thinly sliced",
+     "1 1/2 tsp. sugar",
+     "1/2 tsp. oregano",
+     "2 small cloves garlic minced",
+     "1 - 15 oz. can whole tomatoes"
+    ]
+   }
+  ],
+  "directions": [
+   "Roll veal cubes in seasoned flour and fry in hot oil until well-browned.",
+   "Place in a crockpot.",
+   "Add all the remaining ingredients. Mix well.",
+   "Cover and cook on high for 1 hour, then reduce heat and cook for 6-8 hours on low.",
+   "Serve over fettucini."
+  ],
+  "notes": [],
+  "tags": [
+   "veal",
+   "crockpot",
+   "mushrooms",
+   "tomatoes",
+   "fettuccine",
+   "main dish"
+  ],
+  "uncertain": []
+ },
+ "miscellaneous-apricot-oatmeal-cookies": {
+  "id": "miscellaneous-apricot-oatmeal-cookies",
+  "title": "Apricot Oatmeal Cookies",
+  "printed_page": 228,
+  "serves": "4 doz",
+  "ingredients": [
+   {
+    "group": "Cookies",
+    "items": [
+     "3/4 cup chopped dried apricots",
+     "3/4 cup butter",
+     "1 3/4 cup flour",
+     "1 cup brown sugar",
+     "1/2 cup sugar",
+     "1 egg",
+     "1 tsp. baking powder",
+     "1 tsp. vanilla",
+     "2 cups quick rolled oats",
+     "1/2 tsp. cinnamon",
+     "1/2 cup walnuts",
+     "1/4 tsp. baking soda"
+    ]
+   },
+   {
+    "group": "Icing",
+    "items": [
+     "1 cup sifted powdered sugar",
+     "2-3 Tbsp. milk"
+    ]
+   }
+  ],
+  "directions": [
+   "Chop apricots, cover with boiled water. Let stand 5 min. and drain.",
+   "Mix softened butter and add 1/2 of flour, brown sugar, sugar, eggs, baking powder, vanilla, cinnamon, & soda.",
+   "Beat until thoroughly mixed, stir in remaining ingredients.",
+   "Finally add oats, apricots & nuts.",
+   "Drop by tsp. onto ungreased cookie sheets.",
+   "Bake at 350°F about 10 min. or until edges are brown.",
+   "Place on wire rack to cool; drizzle with icing.",
+   "Icing: Mix powdered sugar and milk."
+  ],
+  "notes": [],
+  "tags": [
+   "cookies",
+   "apricots",
+   "oatmeal",
+   "walnuts",
+   "icing",
+   "dessert"
+  ],
+  "uncertain": []
+ },
+ "miscellaneous-asian-slaw": {
+  "id": "miscellaneous-asian-slaw",
+  "title": "Asian Slaw",
+  "printed_page": 233,
+  "serves": "8-10",
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "2 (3 oz) packages beef-flavored ramen noodle soup mix",
+     "2 (8.5 oz) packages slaw mix",
+     "1 cup sliced almonds",
+     "1 cup sunflower kernels",
+     "1 bunch green onions, chopped",
+     "1/2 cup sugar",
+     "3/4 cup oil (1/2 of it is sesame oil)",
+     "1/3 cup white vinegar"
+    ]
+   }
+  ],
+  "directions": [
+   "Remove flavor packets from soup mix, & set aside; crush noodles.",
+   "Place noodles in bottom of a large bowl.",
+   "Top with slaw mix; sprinkle with almonds, sunflower kernels, & green onions.",
+   "Whisk together contents from flavor packets, sugar, oil, & vinegar; pour over slaw.",
+   "Cover & chill 24 hours.",
+   "Toss before serving."
+  ],
+  "notes": [],
+  "tags": [
+   "slaw",
+   "cabbage",
+   "ramen noodles",
+   "almonds",
+   "salad"
+  ],
+  "uncertain": [
+   "\"2 (8.5 oz) packages slaw mix\" - package size hard to read",
+   "\"1 cup sliced almonds\" - \"sliced\" hard to read",
+   "\"Cover & chill 24 hours\" - \"24\" hard to read"
+  ]
+ },
+ "miscellaneous-caramel-oatmeal-chewies": {
+  "id": "miscellaneous-caramel-oatmeal-chewies",
+  "title": "Caramel Oatmeal Chewies",
+  "printed_page": 229,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "1 3/4 cup oats",
+     "1 1/2 cup flour",
+     "3/4 cup packed brown sugar",
+     "1/2 tsp. baking soda",
+     "1/4 tsp. salt",
+     "1 1/2 sticks melted butter",
+     "1 cup chopped nuts",
+     "1 cup chocolate chips",
+     "1/4 cup water",
+     "1 - 14 oz bag caramels"
+    ]
+   }
+  ],
+  "directions": [
+   "Combine oats, flour, brown sugar, soda, & salt, and add margarine, mixing until mixture is crumbly (reserve 1 cup for topping).",
+   "Press remaining mixture into a greased 13x9\" pan.",
+   "Bake at 350°F for 10 min.",
+   "Cool & top with nuts & chocolate pieces.",
+   "In small pan melt caramels & water over low heat. Stir until smooth, drizzle over choc. & nuts to within 1/4\" of pan edges.",
+   "Sprinkle with reserved topping.",
+   "Bake 15-18 minutes until brown.",
+   "Chill until set, and cut into bars.",
+   "Store tightly covered."
+  ],
+  "notes": [],
+  "tags": [
+   "bars",
+   "oatmeal",
+   "caramel",
+   "chocolate chips",
+   "nuts",
+   "dessert"
+  ],
+  "uncertain": []
+ },
+ "miscellaneous-cherry-chip-cookies": {
+  "id": "miscellaneous-cherry-chip-cookies",
+  "title": "Cherry Chip Cookies",
+  "printed_page": 225,
+  "serves": "6 doz - 2\" cookies",
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "2 1/4 cups sifted flour",
+     "1/8 tsp. salt",
+     "1 tsp. almond extract",
+     "1 cup soft butter",
+     "3/4 cup crushed cornflakes",
+     "1/2 cup sugar",
+     "1 egg yolk",
+     "1 pkg. cherry chips"
+    ]
+   }
+  ],
+  "directions": [
+   "Cream butter & sugar until light and fluffy.",
+   "Mix in egg yolk and almond extract.",
+   "Add sifted flour & salt; mix.",
+   "Stir in cornflakes and cherry chips.",
+   "Roll into 1\" balls, place on ungreased cookie sheets, press flat with fork lengthwise and crosswise and sprinkle with sugar.",
+   "Bake at 375°F for 10-12 min.",
+   "Cool on cooling rack."
+  ],
+  "notes": [],
+  "tags": [
+   "cookies",
+   "cherry chips",
+   "almond",
+   "cornflakes",
+   "dessert"
+  ],
+  "uncertain": []
+ },
+ "miscellaneous-chocolate-chip-coconut-macaroons": {
+  "id": "miscellaneous-chocolate-chip-coconut-macaroons",
+  "title": "Chocolate Chip Coconut Macaroons",
+  "printed_page": 235,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "1 14 oz bag of coconut",
+     "1 14 oz can sweetened condensed milk",
+     "1 11.5 oz bag semi-sweet chips"
+    ]
+   }
+  ],
+  "directions": [
+   "Bake at 350°F for 11 minutes on parchment paper."
+  ],
+  "notes": [],
+  "tags": [
+   "macaroons",
+   "coconut",
+   "chocolate chips",
+   "sweetened condensed milk",
+   "cookies"
+  ],
+  "uncertain": []
+ },
+ "miscellaneous-cinnamon-stars": {
+  "id": "miscellaneous-cinnamon-stars",
+  "title": "Cinnamon Stars",
+  "printed_page": 226,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "2 lbs. ground raw peanuts",
+     "2 lbs. powdered sugar",
+     "6 eggs",
+     "2 Tbsp. cinnamon",
+     "pinch of salt"
+    ]
+   }
+  ],
+  "directions": [
+   "Beat eggs & sugar for 30 minutes.",
+   "Add 2 Tbsp. cinnamon, a pinch of salt, and peanuts.",
+   "Chill in refrig. overnight.",
+   "Roll out on powdered sugar board.",
+   "Cut in star shapes and bake on ungreased cookie sheets for 15 min. at 350°F."
+  ],
+  "notes": [],
+  "tags": [
+   "cookies",
+   "cinnamon",
+   "peanuts",
+   "christmas",
+   "dessert"
+  ],
+  "uncertain": []
+ },
+ "miscellaneous-cornflake-macaroons": {
+  "id": "miscellaneous-cornflake-macaroons",
+  "title": "Cornflake Macaroons",
+  "printed_page": 227,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "2 egg whites",
+     "1/2 tsp. vanilla",
+     "1 cup coconut",
+     "1 cup white sugar",
+     "1 Tbsp. flour",
+     "2 cups cornflakes"
+    ]
+   }
+  ],
+  "directions": [
+   "Whip egg whites until stiff, add 1 Tbsp. flour & whip 2-3 minutes longer.",
+   "Fold in sugar, add flavoring, cornflakes, & coconut.",
+   "Drop onto parchment covered cookie sheets by spoonfuls and bake at 350°F for 15-20 minutes.",
+   "Cool on wire rack."
+  ],
+  "notes": [
+   "Use glass bowl or metal bowl, not plastic or rubber bowl."
+  ],
+  "tags": [
+   "macaroons",
+   "cornflakes",
+   "coconut",
+   "egg whites",
+   "cookies"
+  ],
+  "uncertain": []
+ },
+ "miscellaneous-cranberry-quick-cookies": {
+  "id": "miscellaneous-cranberry-quick-cookies",
+  "title": "Cranberry Quick Cookies",
+  "printed_page": 224,
+  "serves": "3 dozen cookies",
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "1 pkg. Pillsbury Cranberry Orange Bread Mix",
+     "3/4 cup quick cooking oats",
+     "1/2 cup coconut",
+     "1/2 cup oil",
+     "1/2 cup Craisins (Dried Cranberries)",
+     "1/2 tsp. grated orange peel",
+     "1 Tbsp. water",
+     "2 eggs"
+    ]
+   }
+  ],
+  "directions": [
+   "Heat oven to 350°F.",
+   "In large bowl, combine bread mix, oats, cranberries, coconut, and orange peel; mix well.",
+   "Add oil, water, and eggs; mix well.",
+   "Drop by heaping teaspoonfuls 2\" apart onto ungreased cookie sheets.",
+   "Bake at 350°F for 10-13 minutes or until bottoms are golden brown."
+  ],
+  "notes": [],
+  "tags": [
+   "cookies",
+   "cranberries",
+   "oats",
+   "coconut",
+   "orange"
+  ],
+  "uncertain": []
+ },
+ "miscellaneous-ginger-snaps": {
+  "id": "miscellaneous-ginger-snaps",
+  "title": "Ginger Snaps",
+  "printed_page": 232,
+  "serves": "2-3 doz.",
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "2 cups sifted flour",
+     "2 tsp. baking soda",
+     "1 tsp. ginger",
+     "1 tsp. cloves",
+     "1 tsp. cinnamon",
+     "3/4 cup Crisco",
+     "1 cup sugar",
+     "4 Tbsp. molasses",
+     "1 egg"
+    ]
+   }
+  ],
+  "directions": [
+   "Sift together all dry ingredients and set aside.",
+   "Cream shortening and add sugar, egg, and molasses. Beat well.",
+   "Add dry ingredients and beat mixture until smooth (mixture will be stiff).",
+   "Form mixture into 1\" balls, roll in sugar, and bake on greased cookie sheets at 350°F for 10-12 minutes."
+  ],
+  "notes": [],
+  "tags": [
+   "cookies",
+   "ginger",
+   "molasses",
+   "spice",
+   "dessert"
+  ],
+  "uncertain": []
+ },
+ "miscellaneous-peanut-butter-bread": {
+  "id": "miscellaneous-peanut-butter-bread",
+  "title": "Peanut Butter Bread",
+  "printed_page": null,
+  "serves": "1 9-inch loaf",
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "2 cup all-purpose flour",
+     "1/2 cup sugar",
+     "2 tsp baking powder",
+     "1 tsp salt",
+     "3/4 cup creamy or crunchy peanut butter",
+     "1 large egg",
+     "1 cup milk"
+    ]
+   }
+  ],
+  "directions": [
+   "Stir together first four ingredients in a medium bowl.",
+   "Cut in peanut butter with fork or pastry blender until crumbly.",
+   "Stir together egg and milk; stir into dry ingredients just until moistened.",
+   "Pour batter into a greased 9x5 loaf pan.",
+   "Bake at 350°F for 1 hour or until a wooden pick inserted in center comes out clean.",
+   "Remove pan immediately, and cool on a wire rack."
+  ],
+  "notes": [],
+  "tags": [
+   "bread",
+   "peanut butter",
+   "quick bread",
+   "loaf"
+  ],
+  "uncertain": [
+   "printed_page: mark in the bottom right corner is a scribble that may read '26'; not legible enough to record"
+  ]
+ },
+ "miscellaneous-polka-dot-cookies": {
+  "id": "miscellaneous-polka-dot-cookies",
+  "title": "Polka Dot Cookies",
+  "printed_page": 231,
+  "serves": "4 dozen",
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "1/2 cup butter",
+     "1/2 cup sugar",
+     "1/2 cup packed brown sugar",
+     "1/4 cup milk",
+     "1/2 cup chopped maraschino cherries",
+     "1 tsp. baking powder",
+     "1/2 tsp. salt",
+     "1/4 tsp. baking soda",
+     "1 tsp. vanilla",
+     "1 beaten egg",
+     "1/2 cup chopped pecans"
+    ]
+   }
+  ],
+  "directions": [
+   "Cream butter and sugars, and add egg and vanilla; mix.",
+   "Sift together flour, baking powder, salt, and baking soda; add alternately with milk, mixing well after each addition.",
+   "Stir in chocolate chips, cherries and nuts.",
+   "Place rounded teaspoons of dough on greased cookie sheets.",
+   "Bake at 375°F for 10-12 minutes."
+  ],
+  "notes": [],
+  "tags": [
+   "cookies",
+   "maraschino cherries",
+   "pecans",
+   "chocolate chips",
+   "dessert"
+  ],
+  "uncertain": [
+   "flour and chocolate chips are named in the directions but have no quantity in the ingredient list (not on the page)"
+  ]
+ },
+ "miscellaneous-snickerdoodles": {
+  "id": "miscellaneous-snickerdoodles",
+  "title": "Snickerdoodles",
+  "printed_page": 230,
+  "serves": "6 dozen",
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "1 cup Crisco",
+     "1 1/2 cups sugar",
+     "2 eggs",
+     "2 3/4 cup sifted flour",
+     "2 tsp. cream of tartar",
+     "1 tsp. baking soda",
+     "1/4 tsp. sugar",
+     "2 tsp. cinnamon"
+    ]
+   }
+  ],
+  "directions": [
+   "Mix shortening, sugar, and eggs thoroughly.",
+   "Blend flour, cream of tartar, soda, and salt. Stir into shortening mixture.",
+   "Shape dough into 1\" balls. Roll in mixture of 2 Tbsp. sugar and cinnamon.",
+   "Place 2 inches apart on ungreased baking sheet.",
+   "Bake 8-10 min. at 400°F."
+  ],
+  "notes": [],
+  "tags": [
+   "cookies",
+   "snickerdoodles",
+   "cinnamon",
+   "sugar",
+   "dessert"
+  ],
+  "uncertain": [
+   "'1/4 tsp. sugar' — page reads 'sugar' but the directions call for salt; likely meant salt"
+  ]
+ },
+ "pasta-grains-campbells-chicken-and-broccoli-alfredo": {
+  "id": "pasta-grains-campbells-chicken-and-broccoli-alfredo",
+  "title": "Campbell's Chicken & Broccoli Alfredo",
+  "printed_page": 113,
+  "serves": "2-4",
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "8 oz linguine",
+     "1 cup broccoli",
+     "2 Tbsp butter or olive oil",
+     "1 lb chicken (boneless, skinless), cubed",
+     "1 can 10 3/4 oz Cream of Mushroom 98% fat free soup",
+     "1/2 cup milk",
+     "1/2 cup grated Parmesan cheese",
+     "1/4 tsp. pepper"
+    ]
+   }
+  ],
+  "directions": [
+   "Cook pasta according to package directions. Add broccoli for last 4 minutes of cooking time. Drain.",
+   "Heat butter or olive oil in skillet. Add chicken and cook until browned, stirring often.",
+   "Add soup, milk, cheese, pepper and pasta. Heat through.",
+   "Add additional Parmesan cheese and serve."
+  ],
+  "notes": [],
+  "tags": [
+   "chicken",
+   "broccoli",
+   "linguine",
+   "alfredo",
+   "pasta"
+  ],
+  "uncertain": []
+ },
+ "pasta-grains-chicken-and-dumplings": {
+  "id": "pasta-grains-chicken-and-dumplings",
+  "title": "Chicken and Dumplings",
+  "printed_page": 102,
+  "serves": "8",
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "4 whole chicken breasts",
+     "medium sliced sweet onion",
+     "salt and pepper to taste"
+    ]
+   },
+   {
+    "group": "Dumplings",
+    "items": [
+     "1 cup flour",
+     "1 1/2 tsp. baking powder",
+     "1/2 tsp. salt",
+     "3 Tbsp. Crisco",
+     "2/3 cup milk"
+    ]
+   }
+  ],
+  "directions": [
+   "Cook chicken as directed for chicken and noodles. Place chicken (cut-up) in a separate bowl.",
+   "Place 2 1/2 cups chicken broth (lightly salted) in a 9x13 Pyrex baking dish. Microwave 6-8 minutes on high power or until liquid bubbles.",
+   "Then add: drop dumplings by spoonful onto boiling liquid.",
+   "Dumplings: Place flour, baking powder, and salt in mixing bowl. Cut in shortening until mixture looks like cornmeal. Add milk and stir until mixture is moist.",
+   "Microwave uncovered for 6 minutes on High.",
+   "Cover and microwave on High for 5 minutes."
+  ],
+  "notes": [],
+  "tags": [
+   "chicken",
+   "dumplings",
+   "microwave",
+   "main dish"
+  ],
+  "uncertain": []
+ },
+ "pasta-grains-chicken-and-noodles": {
+  "id": "pasta-grains-chicken-and-noodles",
+  "title": "Chicken & Noodles",
+  "printed_page": 101,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "4 whole chicken breasts",
+     "medium sliced sweet onion",
+     "salt & pepper to taste"
+    ]
+   }
+  ],
+  "directions": [
+   "Place chicken breasts, onion, and salt & pepper in a stock pot. Fill the pot half-full of water and cook for about 1 1/2 hours. When the chicken falls away from the bone, the breasts are done.",
+   "Take chicken from the bone, cut in bite-sized pieces, and return to the broth.",
+   "You may need to add a little water (you need about 1/2 pot).",
+   "When the liquid begins to boil, add the noodles and cook for about 10-15 minutes or until they are tender."
+  ],
+  "notes": [],
+  "tags": [
+   "chicken",
+   "noodles",
+   "soup",
+   "main dish"
+  ],
+  "uncertain": []
+ },
+ "pasta-grains-chicken-rice-casserole": {
+  "id": "pasta-grains-chicken-rice-casserole",
+  "title": "Chicken Rice Casserole",
+  "printed_page": 103,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "4 whole chicken breasts",
+     "1 medium sweet onion - sliced",
+     "salt and pepper to taste"
+    ]
+   },
+   {
+    "group": "Gravy",
+    "items": [
+     "10 Tbsp. flour",
+     "2 cups chicken broth"
+    ]
+   }
+  ],
+  "directions": [
+   "Cook chicken as directed for chicken and noodles.",
+   "Place 1 1/2 cups Uncle Ben's Rice in large greased casserole. Add 3 cups of chicken broth, and mix rice and broth together.",
+   "Cover and cook on high in microwave for 6 minutes. Then cook rice on Cook Power 5 for about 12 minutes.",
+   "Then add 2 cans of cream of mushroom soup, 16 oz sliced mushrooms, chicken, and enough broth to make mixture moist.",
+   "Cook for 1 hour at 350°F.",
+   "Gravy: Place flour in saucepan and gradually add chicken broth. Cook over low heat until thickened. Serve over casserole if desired."
+  ],
+  "notes": [],
+  "tags": [
+   "chicken",
+   "rice",
+   "casserole",
+   "mushroom",
+   "gravy"
+  ],
+  "uncertain": []
+ },
+ "pasta-grains-homemade-noodles": {
+  "id": "pasta-grains-homemade-noodles",
+  "title": "Homemade Noodles",
+  "printed_page": 100,
+  "serves": "3 cups noodles",
+  "ingredients": [
+   {
+    "group": "Homemade Noodles",
+    "items": [
+     "1 beaten egg",
+     "2 Tbsp. milk",
+     "1/2 tsp. salt",
+     "1 cup flour (or enough to make dough stiff)",
+     "several drops of yellow food coloring"
+    ]
+   },
+   {
+    "group": "Beef and Noodles",
+    "items": [
+     "2 1/2 - 3 pound piece of London Broil"
+    ]
+   }
+  ],
+  "directions": [
+   "Homemade Noodles: Roll very thin on a floured surface; let stand 20 minutes.",
+   "Homemade Noodles: Roll up loosely; let slices be 1/4\" wide, unroll, spread out and let dry about 2 hours. (If desired you may store the noodles in an airtight container in the freezer until needed.)",
+   "Beef and Noodles: Flour and salt and pepper meat. Brown in a small amount of oil (use dutch oven).",
+   "Beef and Noodles: Reduce heat, cover with a sliced onion, and simmer for about 2 hours or until meat is tender. (Keep checking because you may need to add water if the meat doesn't draw its own juices.)",
+   "Beef and Noodles: When meat is tender, remove from broth, cut in bite-sized pieces and return to broth.",
+   "Beef and Noodles: Add water to about half of dutch oven, cook uncovered. When liquid bubbles, drop in noodles and cook uncovered for about 10-15 minutes."
+  ],
+  "notes": [],
+  "tags": [
+   "noodles",
+   "pasta",
+   "beef",
+   "london broil",
+   "homemade"
+  ],
+  "uncertain": []
+ },
+ "pasta-grains-italian-pasta-stir-fry": {
+  "id": "pasta-grains-italian-pasta-stir-fry",
+  "title": "Italian Pasta Stir Fry",
+  "printed_page": 111,
+  "serves": "6",
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "8 oz linguine - uncooked",
+     "2 medium tomatoes, seeded & chopped",
+     "1 medium onion, chopped",
+     "1 medium zucchini, sliced",
+     "1/4 cup fresh parsley, snipped",
+     "1 Tbsp. olive oil",
+     "2 garlic cloves, pressed",
+     "1/8 tsp. salt and pepper",
+     "1/4 cup fresh Parmesan, grated"
+    ]
+   }
+  ],
+  "directions": [
+   "Cook linguine according to package directions, drain and keep warm.",
+   "Slice zucchini, and snip parsley.",
+   "Heat oil in stir-fry skillet until hot, and press garlic into skillet; stir-fry about 15 seconds.",
+   "Add zucchini and onion and stir-fry 2-3 minutes until vegetables are crisp-tender.",
+   "Add tomatoes, parsley, and seasonings; heat for 1-2 minutes stirring gently.",
+   "Remove from heat and stir in warm linguine.",
+   "Top with grated Parmesan cheese."
+  ],
+  "notes": [],
+  "tags": [
+   "linguine",
+   "pasta",
+   "zucchini",
+   "tomatoes",
+   "stir fry",
+   "vegetarian"
+  ],
+  "uncertain": []
+ },
+ "pasta-grains-japanese-fried-rice": {
+  "id": "pasta-grains-japanese-fried-rice",
+  "title": "Japanese Fried Rice",
+  "printed_page": 112,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "1 cup sticky rice",
+     "1 tsp. chicken base",
+     "dash of Rosemary",
+     "1 cup frozen peas",
+     "1/3 cup finely chopped carrots",
+     "1/3 cup frozen corn",
+     "1 1/2 Tbsp. butter",
+     "2 Tbsp. soy sauce",
+     "salt & pepper"
+    ]
+   }
+  ],
+  "directions": [
+   "Cook the rice according to directions, and add vegetables.",
+   "Melt butter in a large frying pan over medium/high heat, add rice mixture, soy sauce, and salt & pepper.",
+   "Cook 6-8 minutes stirring frequently."
+  ],
+  "notes": [],
+  "tags": [
+   "rice",
+   "fried rice",
+   "peas",
+   "carrots",
+   "side dish"
+  ],
+  "uncertain": []
+ },
+ "pasta-grains-lasagna": {
+  "id": "pasta-grains-lasagna",
+  "title": "Lasagna",
+  "printed_page": 104,
+  "serves": "6-8",
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "1 pound ground sirloin",
+     "1 large sweet onion - chopped finely",
+     "1 small head of garlic (minced finely)",
+     "1/4 tsp. pepper",
+     "1 tsp. salt",
+     "32 oz. whole tomatoes - chopped",
+     "2 - 6 oz cans tomato paste",
+     "2 eggs",
+     "1 1/2 lb. mozzarella cheese",
+     "16 oz ricotta cheese",
+     "1 lb. lasagna noodles - cooked"
+    ]
+   }
+  ],
+  "directions": [
+   "In a skillet brown ground sirloin with onion and garlic; drain grease off meat.",
+   "Add chopped tomatoes, tomato paste, pepper, and salt. Simmer about 1 hour.",
+   "In a large bowl, mix ricotta cheese and eggs.",
+   "In a 9\"x13\" lasagna pan place a layer of lasagna noodles on the bottom, top with 1/2 of sauce, then 1/2 of ricotta mixture, 3/4 lb. mozzarella, Parmesan cheese.",
+   "Repeat above mixture for the next layer.",
+   "Bake about 1 hour at 350°F."
+  ],
+  "notes": [],
+  "tags": [
+   "lasagna",
+   "pasta",
+   "ground beef",
+   "ricotta",
+   "mozzarella",
+   "casserole"
+  ],
+  "uncertain": [
+   "Parmesan cheese is used in the directions but has no quantity in the ingredient list (not on the page)"
+  ]
+ },
+ "pasta-grains-macaroni-and-cheese": {
+  "id": "pasta-grains-macaroni-and-cheese",
+  "title": "Macaroni & Cheese",
+  "printed_page": 105,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "3 cups macaroni (elbow)",
+     "1 1/2 pounds grated colby cheese",
+     "milk",
+     "margarine",
+     "salt and pepper to taste"
+    ]
+   }
+  ],
+  "directions": [
+   "Place macaroni in boiling salted water in a medium saucepan. Cook only 3-4 minutes (macaroni should be slightly hard; if you cook too long it won't absorb the milk).",
+   "Divide macaroni into halves. Place 1/2 into 8\"x10\" greased casserole, and salt and pepper. Cover generously with grated cheese.",
+   "Place next layer of macaroni onto cheese and apply salt & pepper. Top with remainder of cheese. Dot with margarine slices.",
+   "Add milk until it comes up to the top of cheese (but don't cover the cheese).",
+   "Bake at 350°F for about 1 hour."
+  ],
+  "notes": [],
+  "tags": [
+   "macaroni",
+   "cheese",
+   "colby",
+   "casserole",
+   "side dish"
+  ],
+  "uncertain": []
+ },
+ "pasta-grains-pasta-salad": {
+  "id": "pasta-grains-pasta-salad",
+  "title": "Pasta Salad",
+  "printed_page": 109,
+  "serves": "10+",
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "1 pound cooked spaghetti",
+     "3/4 jar Salad Supreme",
+     "1 bottle Italian Dressing",
+     "1 red onion (diced)",
+     "1 cucumber (diced)",
+     "1 red pepper, chopped finely",
+     "1 green pepper, chopped finely",
+     "1 yellow pepper, chopped finely",
+     "2 tomatoes - chopped"
+    ]
+   }
+  ],
+  "directions": [
+   "Add Salad Supreme to cooked spaghetti, and mix.",
+   "Then add Italian Dressing and mix.",
+   "Next, add chopped vegetables and mix.",
+   "Cover and refrigerate."
+  ],
+  "notes": [],
+  "tags": [
+   "pasta salad",
+   "spaghetti",
+   "italian dressing",
+   "peppers",
+   "salad"
+  ],
+  "uncertain": []
+ },
+ "pasta-grains-rice-casserole": {
+  "id": "pasta-grains-rice-casserole",
+  "title": "Rice Casserole",
+  "printed_page": 106,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "1 1/2 cups instant rice (uncooked)",
+     "1 can Campbell's French Onion Soup",
+     "1 can Campbell's Beef Broth",
+     "16 oz can mushroom stems & pieces",
+     "1 stick margarine, sliced"
+    ]
+   }
+  ],
+  "directions": [
+   "Mix all ingredients together and place in a large greased casserole.",
+   "Bake covered for 45 minutes at 350°F.",
+   "Uncover and cook for 15 minutes longer."
+  ],
+  "notes": [],
+  "tags": [
+   "rice",
+   "casserole",
+   "french onion soup",
+   "mushrooms",
+   "side dish"
+  ],
+  "uncertain": []
+ },
+ "pasta-grains-spaghetti-sauce": {
+  "id": "pasta-grains-spaghetti-sauce",
+  "title": "Spaghetti Sauce",
+  "printed_page": 107,
+  "serves": "2 batches",
+  "ingredients": [
+   {
+    "group": "Sauce",
+    "items": [
+     "2 medium Vidalia or sweet onions, chopped with food processor",
+     "1 bunch of garlic, chopped with food processor",
+     "2-3 Tbsp. olive oil",
+     "2 - 28 oz cans whole tomatoes",
+     "1 - 15 oz can whole tomatoes",
+     "2 - 12 oz cans tomato paste",
+     "3-4 cups hot water",
+     "2 Tbsp. sugar",
+     "2 tsp. salt",
+     "1 tsp. pepper"
+    ]
+   },
+   {
+    "group": "Meatballs",
+    "items": [
+     "1 lb. ground sirloin",
+     "8-10 cloves garlic, minced finely",
+     "1 cup cracker crumbs",
+     "1/2 cup milk",
+     "2 beaten eggs",
+     "salt & pepper",
+     "olive oil"
+    ]
+   }
+  ],
+  "directions": [
+   "Sauce: Place a heated dutch oven (large pan) on stove. Place 2-3 Tbsp. olive oil in pan, and fold in chopped onion and garlic.",
+   "Sauce: Saute until onion is clear or transparent (not brown).",
+   "Sauce: Add 2 - 28 oz cans and 1 - 15 oz cans whole tomatoes (place tomatoes in food processor first).",
+   "Sauce: Then add 2 - 12 oz cans tomato paste.",
+   "Sauce: Next, pour about 3-4 cups of hot water into empty tomato paste cans, scraping sides. Add all water to sauce.",
+   "Sauce: Then add 2 Tbsp. sugar, 2 tsp. salt, and 1 tsp. pepper. Cook over low heat several hours (uncovered).",
+   "Meatballs: Mix well, form into balls, brown evenly in olive oil.",
+   "Meatballs: Simmer in sauce."
+  ],
+  "notes": [],
+  "tags": [
+   "spaghetti sauce",
+   "tomatoes",
+   "meatballs",
+   "ground beef",
+   "pasta"
+  ],
+  "uncertain": [
+   "serves: number before 'batches' is written over and could be '1' or '2'"
+  ]
+ },
+ "pasta-grains-spanish-beef-rice": {
+  "id": "pasta-grains-spanish-beef-rice",
+  "title": "Spanish Beef Rice",
+  "printed_page": 110,
+  "serves": "4",
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "1/4 cup canola oil",
+     "1 medium onion thinly sliced",
+     "1/2 medium green pepper (or red) chopped",
+     "1 cup regular rice uncooked",
+     "2 - 8 oz. cans Tomato Sauce",
+     "1 3/4 cups hot water",
+     "1 tsp. salt, dash pepper",
+     "1/2 pound ground sirloin"
+    ]
+   }
+  ],
+  "directions": [
+   "Heat oil in a skillet, and add onion, peppers, beef, and rice.",
+   "Stir over medium high heat until lightly browned.",
+   "Add tomato sauce and remaining ingredients. Mix well and quickly bring to a boil.",
+   "Cover and simmer for 25 minutes."
+  ],
+  "notes": [
+   "May add 1/2 cup shredded Parmesan cheese before serving."
+  ],
+  "tags": [
+   "rice",
+   "ground beef",
+   "tomato sauce",
+   "skillet",
+   "main dish"
+  ],
+  "uncertain": []
+ },
+ "pasta-grains-stuffed-shells": {
+  "id": "pasta-grains-stuffed-shells",
+  "title": "Stuffed Shells",
+  "printed_page": 108,
+  "serves": "6",
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "16 oz. ricotta cheese",
+     "16 oz. mozzarella cheese (shredded)",
+     "3 eggs",
+     "2 Tbsp. parsley flakes",
+     "salt & pepper to taste",
+     "15 oz. spaghetti sauce",
+     "1 16 oz pkg. manicotti"
+    ]
+   }
+  ],
+  "directions": [
+   "Grease a 9\"x13\" baking dish. Pour in enough spaghetti sauce to cover bottom of baking dish.",
+   "Cook manicotti according to package directions. (Pour cold water over shells and leave them in water until you stuff them.)",
+   "In a bowl mix ricotta cheese, 3 eggs, parsley, and shredded mozzarella (all but about 1/2 cup).",
+   "Stuff shells, place in pan over sauce, cover with remaining sauce, and top with remaining mozzarella cheese.",
+   "Cover pan with foil and bake at 350°F for 30 minutes."
+  ],
+  "notes": [],
+  "tags": [
+   "pasta",
+   "stuffed shells",
+   "manicotti",
+   "ricotta",
+   "mozzarella",
+   "casserole"
+  ],
+  "uncertain": []
+ },
+ "pies-cookies-anitas-delight": {
+  "id": "pies-cookies-anitas-delight",
+  "title": "Anita's Delight",
+  "printed_page": 217,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": "Crust",
+    "items": [
+     "1 1/4 cups flour",
+     "1 stick butter",
+     "1/2 cup chopped pecans"
+    ]
+   },
+   {
+    "group": "Cream Cheese Layer",
+    "items": [
+     "4 oz. Cool Whip",
+     "8 oz. cream cheese",
+     "1 cup sifted powdered sugar"
+    ]
+   },
+   {
+    "group": "Pudding Layer",
+    "items": [
+     "2 boxes banana or chocolate instant pudding",
+     "2 1/2 cups milk"
+    ]
+   }
+  ],
+  "directions": [
+   "Crust: Pat in a 9\"x12\" pan, and bake for 20 min. at 350°F.",
+   "Cream Cheese Layer: Cream and spread over cooled crust.",
+   "Pudding Layer: Mix until thickened and spread over cream cheese mixture.",
+   "Top with Cool Whip, and top with crushed nuts."
+  ],
+  "notes": [],
+  "tags": [
+   "dessert",
+   "pudding",
+   "cream cheese",
+   "pecans",
+   "cool whip",
+   "layered dessert"
+  ],
+  "uncertain": []
+ },
+ "pies-cookies-apple-crisp": {
+  "id": "pies-cookies-apple-crisp",
+  "title": "Apple Crisp",
+  "printed_page": 200,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "McIntosh or Granny Smith apples",
+     "1 stick margarine",
+     "1 cup sugar",
+     "1 cup flour",
+     "1/4 tsp. salt",
+     "1 tsp cinnamon"
+    ]
+   }
+  ],
+  "directions": [
+   "Peel and core enough apples that when quartered and sliced will fill 9\"x11\" pan 1/2 way up the sides.",
+   "In a bowl cut shortening (margarine) into flour, sugar, salt and cinnamon (mixture should be crumbly).",
+   "Place about 1/2\" water in pan with apples, then sprinkle mixture above over the apples.",
+   "Bake for 1 hour at 350°F."
+  ],
+  "notes": [],
+  "tags": [
+   "apple crisp",
+   "apples",
+   "cinnamon",
+   "dessert",
+   "baked"
+  ],
+  "uncertain": []
+ },
+ "pies-cookies-brownies": {
+  "id": "pies-cookies-brownies",
+  "title": "Brownies",
+  "printed_page": 201,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "1 stick oleo",
+     "2 squares of semi-sweet chocolate",
+     "2 beaten eggs",
+     "1 cup sugar",
+     "3/4 cup flour"
+    ]
+   }
+  ],
+  "directions": [
+   "In an 8\"x8\" pan, place 1 stick oleo and 2 squares of semi-sweet chocolate and melt in the oven.",
+   "Let cool, then add 2 beaten eggs, 1 cup sugar, and 3/4 cup flour.",
+   "Stir mixture with a fork and bake for 30 min at 350°F."
+  ],
+  "notes": [],
+  "tags": [
+   "brownies",
+   "chocolate",
+   "dessert",
+   "bars"
+  ],
+  "uncertain": []
+ },
+ "pies-cookies-caramel-corn": {
+  "id": "pies-cookies-caramel-corn",
+  "title": "Caramel Corn",
+  "printed_page": 205,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "1 cup margarine",
+     "2 cups packed light brown sugar",
+     "1/2 cup light corn syrup",
+     "1 tsp. salt",
+     "1/2 tsp. baking soda",
+     "1 tsp. vanilla",
+     "6 qt. (24 cups) popped corn"
+    ]
+   }
+  ],
+  "directions": [
+   "Melt margarine in a large saucepan.",
+   "Stir in brown sugar, corn syrup, and salt, and bring to a boil, stirring constantly.",
+   "Then boil without stirring for 5 minutes.",
+   "Remove from heat and stir in soda and vanilla.",
+   "Pour syrup over popcorn and stir until popcorn is thoroughly coated.",
+   "Bake at 250°F for 1 hour (covered), stirring every 15 minutes.",
+   "Spread on waxed paper and allow to cool."
+  ],
+  "notes": [],
+  "tags": [
+   "caramel corn",
+   "popcorn",
+   "brown sugar",
+   "snack",
+   "candy"
+  ],
+  "uncertain": []
+ },
+ "pies-cookies-cherry-cheese-tarts": {
+  "id": "pies-cookies-cherry-cheese-tarts",
+  "title": "Cherry Cheese Tarts",
+  "printed_page": 202,
+  "serves": "24 tarts",
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "3 - 8 oz pkgs. cream cheese",
+     "4 eggs",
+     "1 cup sugar",
+     "1 tsp. vanilla",
+     "24 vanilla wafers",
+     "Cherry Pie Filling - 1 can"
+    ]
+   }
+  ],
+  "directions": [
+   "Beat cream cheese, eggs, sugar, and vanilla until smooth.",
+   "Put 24 cupcake papers in muffin tins. Place a vanilla wafer in each cupcake paper.",
+   "Divide batter and pour evenly over wafers.",
+   "Bake for 25 minutes at 350°F. (Color will be pale.)",
+   "Remove from papers and cool.",
+   "Place a small amount of cherry pie filling on each tart."
+  ],
+  "notes": [],
+  "tags": [
+   "cheesecake",
+   "tarts",
+   "cherry",
+   "cream cheese",
+   "dessert"
+  ],
+  "uncertain": []
+ },
+ "pies-cookies-chocolate-fondue": {
+  "id": "pies-cookies-chocolate-fondue",
+  "title": "Chocolate Fondue",
+  "printed_page": 203,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "2 - 11 1/2 oz pkgs. milk chocolate chips",
+     "8 oz heavy whipping cream"
+    ]
+   },
+   {
+    "group": "Optional",
+    "items": [
+     "1/4 tsp. mint extract",
+     "1 - 2 Tbsp. Creme de Menthe"
+    ]
+   }
+  ],
+  "directions": [
+   "In a fondue pot, melt chips and add whipping cream. (Add optional ingredients if desired.)",
+   "Stir until smooth."
+  ],
+  "notes": [
+   "Use fresh strawberries, pineapple, cheese cake, angel food cake, marshmallows."
+  ],
+  "tags": [
+   "fondue",
+   "chocolate",
+   "dessert",
+   "whipping cream"
+  ],
+  "uncertain": []
+ },
+ "pies-cookies-chocolate-fudge": {
+  "id": "pies-cookies-chocolate-fudge",
+  "title": "Chocolate Fudge",
+  "printed_page": 206,
+  "serves": "3 pounds",
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "3 cups sugar",
+     "1 cup margarine",
+     "2/3 cup evaporated milk",
+     "7 oz. jar Kraft Marshmallow Creme",
+     "1 tsp vanilla",
+     "12 oz pkg. chocolate chips"
+    ]
+   }
+  ],
+  "directions": [
+   "Combine sugar, margarine, and milk in a heavy 2 1/2 qt. saucepan, and bring to a full rolling boil, stirring constantly.",
+   "Continue boiling another 5 minutes stirring constantly.",
+   "Remove from heat and stir in chocolate chips until melted.",
+   "Add marshmallow creme and vanilla, stirring until well-blended.",
+   "Pour into a greased 13\"x9\" pan.",
+   "Cool at room temperature, and cut into squares."
+  ],
+  "notes": [],
+  "tags": [
+   "fudge",
+   "chocolate",
+   "marshmallow creme",
+   "candy",
+   "dessert"
+  ],
+  "uncertain": [
+   "'Continue boiling another 5 minutes' — digit is overwritten and could be 5 or 8"
+  ]
+ },
+ "pies-cookies-cream-caramels": {
+  "id": "pies-cookies-cream-caramels",
+  "title": "Cream Caramels",
+  "printed_page": 204,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "2 cups sugar",
+     "3/4 cup light corn syrup",
+     "1/2 cup butter",
+     "2 cups whipping cream"
+    ]
+   }
+  ],
+  "directions": [
+   "Bring sugar, corn syrup, butter, and 1 cup of cream slowly to a boil.",
+   "Gradually stir in remaining cup of whipping cream.",
+   "Cook (stirring constantly) until hard ball stage (254°F).",
+   "Pour into a buttered 8\"x8\" square pan that has been covered with 1/2 cup of chopped nuts.",
+   "When cold, cut into squares."
+  ],
+  "notes": [],
+  "tags": [
+   "caramels",
+   "candy",
+   "whipping cream",
+   "nuts",
+   "dessert"
+  ],
+  "uncertain": []
+ },
+ "pies-cookies-dishpan-cookies": {
+  "id": "pies-cookies-dishpan-cookies",
+  "title": "Dishpan Cookies",
+  "printed_page": 218,
+  "serves": "7-9 dozen",
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "2 cups brown sugar (1 box)",
+     "2 cups white sugar",
+     "2 cups vegetable oil",
+     "4 eggs",
+     "2 tsp. vanilla"
+    ]
+   },
+   {
+    "group": "Add",
+    "items": [
+     "4 cups flour",
+     "2 cups oats",
+     "4 cups cornflakes",
+     "2 tsp. soda",
+     "1 tsp. salt",
+     "1 - 12 oz. pkg. chocolate chips"
+    ]
+   }
+  ],
+  "directions": [
+   "Mix brown sugar, white sugar, vegetable oil, eggs, and vanilla thoroughly with beater.",
+   "Add flour, oats, cornflakes, soda, salt, and chocolate chips.",
+   "Drop by teaspoonfuls onto parchment covered baking sheets; bake at 350°F for 10-14 minutes.",
+   "Cool on baking rack."
+  ],
+  "notes": [],
+  "tags": [
+   "cookies",
+   "oats",
+   "cornflakes",
+   "chocolate chips",
+   "dessert"
+  ],
+  "uncertain": []
+ },
+ "pies-cookies-grandmas-sugar-cookies": {
+  "id": "pies-cookies-grandmas-sugar-cookies",
+  "title": "Grandma's Sugar Cookies",
+  "printed_page": 222,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "1 cup butter",
+     "2 eggs",
+     "1 cup oil",
+     "1 cup powdered sugar",
+     "1 cup granulated sugar",
+     "1 tsp. cream of tartar",
+     "1 tsp. baking soda",
+     "1/4 tsp. salt",
+     "4 cups flour",
+     "1 tsp. vanilla"
+    ]
+   }
+  ],
+  "directions": [
+   "Cream oil, butter, and both sugars.",
+   "Add vanilla and eggs.",
+   "Sift dry ingredients and add to creamed mixture.",
+   "Roll tsp. of dough into a ball, roll ball in granulated sugar, and press down on greased cookie sheet with a glass that has been dipped in sugar.",
+   "Press with fork and bake at 350°F for 10-12 minutes."
+  ],
+  "notes": [],
+  "tags": [
+   "cookies",
+   "sugar cookies",
+   "dessert",
+   "butter"
+  ],
+  "uncertain": []
+ },
+ "pies-cookies-grasshopper-pie": {
+  "id": "pies-cookies-grasshopper-pie",
+  "title": "Grasshopper Pie",
+  "printed_page": 207,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": "Crust",
+    "items": [
+     "1 already prepared chocolate crust",
+     "or 30 crushed chocolate wafers",
+     "3 Tbsp. butter melted"
+    ]
+   },
+   {
+    "group": "Filling",
+    "items": [
+     "24 large marshmallows",
+     "2/3 cup milk",
+     "1/4 cup creme de menthe",
+     "2 Tbsp. creme de cocoa",
+     "1 cup Cool Whip"
+    ]
+   }
+  ],
+  "directions": [
+   "Mix cookie crumbs and butter and press into a 9\" pie pan.",
+   "In a double boiler, melt 24 large marshmallows with 2/3 cup milk.",
+   "Let cool, then add 1/4 cup creme de menthe and 2 Tbsp. creme de cocoa.",
+   "Let cool until thickened, then add 1 cup Cool Whip.",
+   "Cover and store in freezer."
+  ],
+  "notes": [],
+  "tags": [
+   "pie",
+   "grasshopper pie",
+   "creme de menthe",
+   "marshmallows",
+   "frozen dessert"
+  ],
+  "uncertain": []
+ },
+ "pies-cookies-hershey-bar-pie": {
+  "id": "pies-cookies-hershey-bar-pie",
+  "title": "Hershey Bar Pie",
+  "printed_page": 216,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "1 Oreo crust",
+     "1 16 oz Hershey w/ Almond Bar",
+     "16 oz Cool Whip - thawed"
+    ]
+   }
+  ],
+  "directions": [
+   "Break bar into small pieces and melt in microwave or in a double-boiler on the stove.",
+   "Gradually fold melted Hershey Bar into 8 oz of Cool Whip.",
+   "Pour mixture into crust.",
+   "Top with remaining Cool Whip and chocolate shavings.",
+   "Refrigerate."
+  ],
+  "notes": [],
+  "tags": [
+   "pie",
+   "chocolate",
+   "hershey bar",
+   "cool whip",
+   "dessert"
+  ],
+  "uncertain": [
+   "'1 Oreo crust' — crust type is scrawled; reads like 'Oreo' but could be another word",
+   "'1 16 oz Hershey w/ Almond Bar' — bar size is unclear; '16 oz' is a best guess"
+  ]
+ },
+ "pies-cookies-ice-cream-crunch": {
+  "id": "pies-cookies-ice-cream-crunch",
+  "title": "Ice Cream Crunch Pie",
+  "printed_page": 208,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "2 Tbsp. butter",
+     "2/3 cup marshmallow topping",
+     "2 cups Rice Krispies"
+    ]
+   }
+  ],
+  "directions": [
+   "Melt butter in heavy pan, then add marshmallows, stirring until well-mixed.",
+   "Add Rice Krispies and stir until well-coated.",
+   "Press mixture into a 9\" pie pan.",
+   "Freeze crust for 1 hour, then fill with favorite ice cream, topping, and refreeze until serving time."
+  ],
+  "notes": [],
+  "tags": [
+   "ice cream",
+   "pie",
+   "rice krispies",
+   "marshmallow",
+   "frozen dessert"
+  ],
+  "uncertain": []
+ },
+ "pies-cookies-molasses-cookies": {
+  "id": "pies-cookies-molasses-cookies",
+  "title": "Molasses Cookies",
+  "printed_page": 221,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "3/4 cup canola oil",
+     "1 cup sugar",
+     "2 tsp. baking soda",
+     "1/2 tsp. cloves",
+     "1/2 tsp. salt",
+     "1/4 cup molasses",
+     "1 egg",
+     "2 cups flour",
+     "1/2 tsp. ginger",
+     "1 tsp. cinnamon"
+    ]
+   }
+  ],
+  "directions": [
+   "Mix well oil, sugar, molasses, and egg.",
+   "Sift together flour, soda, salt, and spices; add to first mixture.",
+   "Mix well and chill.",
+   "Form into 1 inch balls, roll in sugar, and place on greased cookie sheet 2\" apart.",
+   "Bake at 375°F for 8-10 minutes."
+  ],
+  "notes": [],
+  "tags": [
+   "cookies",
+   "molasses",
+   "ginger",
+   "cinnamon",
+   "dessert"
+  ],
+  "uncertain": []
+ },
+ "pies-cookies-oatmeal-crispers": {
+  "id": "pies-cookies-oatmeal-crispers",
+  "title": "Oatmeal Crispies",
+  "printed_page": 219,
+  "serves": "Makes 5 dozen",
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "1 cup Crisco",
+     "1 cup brown sugar",
+     "1 cup white sugar",
+     "2 beaten eggs",
+     "1 tsp. vanilla",
+     "1 1/2 cup flour",
+     "1/2 cup chopped black walnuts",
+     "1 tsp. salt",
+     "1 tsp. baking soda",
+     "3 cups oatmeal"
+    ]
+   }
+  ],
+  "directions": [
+   "Cream Crisco and sugars.",
+   "Add eggs and vanilla and beat well.",
+   "Add sifted dry ingredients.",
+   "Next, add oatmeal and nut meats.",
+   "Shape in rolls and wrap in waxed paper.",
+   "Chill thoroughly, and slice 1/4\" thick and bake on ungreased cookie sheet at 350°F for about 10 minutes."
+  ],
+  "notes": [],
+  "tags": [
+   "cookies",
+   "oatmeal",
+   "black walnuts",
+   "icebox cookies",
+   "dessert"
+  ],
+  "uncertain": []
+ },
+ "pies-cookies-peach-cobbler": {
+  "id": "pies-cookies-peach-cobbler",
+  "title": "Peach Cobbler",
+  "printed_page": 209,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "1 cup flour",
+     "1 cup sugar",
+     "2 Tbsp. baking powder",
+     "pinch of salt",
+     "2 egg yolks, beaten",
+     "2 Tbsp. melted Crisco",
+     "2 egg whites",
+     "sliced fresh peaches (sweetened)"
+    ]
+   }
+  ],
+  "directions": [
+   "Mix flour, sugar, baking powder, and salt.",
+   "Add egg yolks and melted Crisco. Mix well.",
+   "Beat egg whites until stiff and fold in mixture.",
+   "Drop over sliced, fresh peaches (sweetened).",
+   "Bake at 350°F for 35-40 minutes."
+  ],
+  "notes": [],
+  "tags": [
+   "cobbler",
+   "peaches",
+   "dessert",
+   "fruit"
+  ],
+  "uncertain": []
+ },
+ "pies-cookies-peach-pie": {
+  "id": "pies-cookies-peach-pie",
+  "title": "Peach Pie",
+  "printed_page": 210,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": "Filling",
+    "items": [
+     "1 cup sugar",
+     "3-4 Tbsp. cornstarch",
+     "2 Tbsp. light corn syrup",
+     "1 cup water",
+     "Peach Jell-O"
+    ]
+   }
+  ],
+  "directions": [
+   "Bring to a boil sugar, corn syrup, cornstarch, and water.",
+   "Boil for 5 minutes, then add 2 Tbsp. peach Jell-O, and cool.",
+   "Add 1 tsp. almond extract, mix, and fill a pie crust.",
+   "Bake at 350°F for 45 min to 1 hour."
+  ],
+  "notes": [],
+  "tags": [
+   "pie",
+   "peach",
+   "jell-o",
+   "dessert"
+  ],
+  "uncertain": []
+ },
+ "pies-cookies-peanut-butter-balls": {
+  "id": "pies-cookies-peanut-butter-balls",
+  "title": "Peanut Butter Balls",
+  "printed_page": 211,
+  "serves": "9 dozen",
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "1/2 cup butter - 1 stick",
+     "1 box powdered sugar",
+     "2 cups crunchy peanut butter",
+     "3 cups Rice Krispies",
+     "6 oz. chocolate chips",
+     "1/2 bar of paraffin"
+    ]
+   }
+  ],
+  "directions": [
+   "Mix above ingredients (with mixer), and shape into small balls.",
+   "In a double-boiler place 6 oz. of chocolate chips and 1/2 bar of paraffin - melt.",
+   "Dip peanut butter balls into chocolate mixture (using a fork) and place on wax paper to cool.",
+   "Store in container in the refrigerator."
+  ],
+  "notes": [],
+  "tags": [
+   "candy",
+   "peanut butter",
+   "chocolate",
+   "rice krispies",
+   "no-bake"
+  ],
+  "uncertain": []
+ },
+ "pies-cookies-peanut-butter-cookies": {
+  "id": "pies-cookies-peanut-butter-cookies",
+  "title": "Peanut Butter Cookies",
+  "printed_page": 220,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "1/2 cup peanut butter",
+     "1/2 cup Crisco",
+     "1/2 cup brown sugar",
+     "1/2 cup white sugar",
+     "1 tsp. vanilla",
+     "1 egg",
+     "1 1/2 cups flour",
+     "1 tsp. soda",
+     "1/4 tsp. salt"
+    ]
+   }
+  ],
+  "directions": [
+   "Cream Crisco and sugars.",
+   "Add egg, vanilla, and peanut butter. Blend well.",
+   "Mix in sifted flour, soda, and salt.",
+   "Shape into balls, roll in sugar, and press criss-cross marks with a fork.",
+   "Bake at 375°F for 10-15 minutes."
+  ],
+  "notes": [],
+  "tags": [
+   "cookies",
+   "peanut butter",
+   "dessert"
+  ],
+  "uncertain": []
+ },
+ "pies-cookies-peanut-butter-fudge": {
+  "id": "pies-cookies-peanut-butter-fudge",
+  "title": "Peanut Butter Fudge",
+  "printed_page": 212,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "2 cups sugar",
+     "2/3 cup condensed milk",
+     "1 cup peanut butter",
+     "1 7 oz. jar Marshmallow Creme"
+    ]
+   }
+  ],
+  "directions": [
+   "Boil sugar and condensed milk until softball stage.",
+   "Remove from heat and add 1 cup peanut butter, and 1 7 oz. jar Marshmallow Creme.",
+   "Place in greased 9\" x 11\" pan.",
+   "Cool, cut into small squares.",
+   "Store in refrigerator until you serve it."
+  ],
+  "notes": [],
+  "tags": [
+   "fudge",
+   "peanut butter",
+   "marshmallow creme",
+   "candy"
+  ],
+  "uncertain": []
+ },
+ "pies-cookies-pumpkin-pie": {
+  "id": "pies-cookies-pumpkin-pie",
+  "title": "Pumpkin Pie",
+  "printed_page": 213,
+  "serves": "1 pie",
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "1 1/2 cups pumpkin",
+     "1 cup brown sugar",
+     "1 Tbsp. molasses",
+     "1 Tbsp. melted butter",
+     "2 well-beaten eggs",
+     "2 cups milk",
+     "1/4 tsp. salt",
+     "1 tsp. cinnamon",
+     "1/4 tsp. ginger",
+     "1/4 tsp. nutmeg"
+    ]
+   }
+  ],
+  "directions": [
+   "Heat milk and add butter.",
+   "Mix the spices with the sugar.",
+   "Then add the molasses, pumpkin, and milk.",
+   "Next, add the eggs.",
+   "Pour into unbaked crust.",
+   "Bake at 400°F for 15 minutes, reduce heat to 350°F, and continue baking for another 45 minutes, or until custard is firm."
+  ],
+  "notes": [
+   "Place knife in center of pie; if it comes out clean, the custard is cooked."
+  ],
+  "tags": [
+   "pie",
+   "pumpkin",
+   "custard",
+   "dessert",
+   "holiday"
+  ],
+  "uncertain": [
+   "\"Bake at 400° for 15 minutes\" - the first digit of 15 is covered by an ink blot"
+  ]
+ },
+ "pies-cookies-puppy-chow": {
+  "id": "pies-cookies-puppy-chow",
+  "title": "Puppy Chow",
+  "printed_page": 214,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "1 box Rice Chex",
+     "12 oz. package chocolate chips",
+     "12 oz. bag peanut butter chips",
+     "1 pound box of powdered sugar"
+    ]
+   }
+  ],
+  "directions": [
+   "Melt chips together and pour over Rice Chex.",
+   "Place Chex into large container, pour powdered sugar over mixture, put lid on, and shake until mixture is well-coated."
+  ],
+  "notes": [],
+  "tags": [
+   "snack mix",
+   "chex",
+   "chocolate",
+   "peanut butter",
+   "no-bake"
+  ],
+  "uncertain": []
+ },
+ "pies-cookies-strawberry-pie": {
+  "id": "pies-cookies-strawberry-pie",
+  "title": "Strawberry Pie",
+  "printed_page": 215,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "1 baked pie shell",
+     "1 1/2 cups crushed berries",
+     "1 cup sugar",
+     "3 Tbsp. cornstarch",
+     "1/2 cup water",
+     "Few drops lemon juice",
+     "1 1/2 cups whole fresh berries",
+     "Cool Whip"
+    ]
+   }
+  ],
+  "directions": [
+   "Cook crushed berries, sugar, cornstarch, water, and lemon juice until transparent.",
+   "Cool and pour over 1 1/2 cups whole fresh berries in cooked pie shell.",
+   "Serve with Cool Whip."
+  ],
+  "notes": [],
+  "tags": [
+   "pie",
+   "strawberries",
+   "dessert",
+   "fruit"
+  ],
+  "uncertain": []
+ },
+ "pies-cookies-sugar-cookie-cut-outs": {
+  "id": "pies-cookies-sugar-cookie-cut-outs",
+  "title": "Sugar Cookie Cut-outs",
+  "printed_page": 223,
+  "serves": "3 dozen",
+  "ingredients": [
+   {
+    "group": "Cookies",
+    "items": [
+     "1 1/2 cups powdered sugar",
+     "1 cup butter",
+     "1 egg",
+     "1/2 tsp. almond extract",
+     "1 tsp. baking soda",
+     "1 tsp. vanilla",
+     "2 1/2 cups flour",
+     "1 tsp. cream of tartar"
+    ]
+   },
+   {
+    "group": "Icing",
+    "items": [
+     "4 cups sifted powdered sugar",
+     "3/4 stick butter",
+     "3/4 tsp. vanilla",
+     "2-3 Tbsp. milk"
+    ]
+   }
+  ],
+  "directions": [
+   "Mix powdered sugar, butter, vanilla, almond extract, and egg in large bowl until well blended.",
+   "Stir in flour, baking soda, and cream of tartar.",
+   "Cover and chill for 2-3 hours.",
+   "Heat oven to 375°F.",
+   "Divide dough into halves. Roll each half 3/16\" thick on lightly floured cloth-covered board.",
+   "Cut into desired shapes with 3\" cutters.",
+   "Place on ungreased cookie sheet and bake 7-10 minutes.",
+   "Cool on a wire rack."
+  ],
+  "notes": [],
+  "tags": [
+   "cookies",
+   "sugar cookies",
+   "cut-outs",
+   "icing",
+   "dessert"
+  ],
+  "uncertain": []
+ },
+ "poultry-seafood-blackened-fish": {
+  "id": "poultry-seafood-blackened-fish",
+  "title": "Blackened Fish",
+  "printed_page": 131,
+  "serves": "4",
+  "ingredients": [
+   {
+    "group": "Fish",
+    "items": [
+     "2 lbs. filet skinned (Salmon, Grouper)",
+     "Olive oil, or butter, or cooking spray (flavored)",
+     "Blackened seasoning"
+    ]
+   },
+   {
+    "group": "Blackened Seasoning Mix",
+    "items": [
+     "1/2 Tablespoon each of: paprika, onion powder, garlic powder, thyme, oregano, celery seed, and basil",
+     "1/4 tsp. each of: cayenne pepper, black pepper, white pepper, salt"
+    ]
+   }
+  ],
+  "directions": [
+   "Fish: Dredge fish in season mix.",
+   "Fish: Brush with olive oil to moisten.",
+   "Fish: Grill over medium heat 8-10 min. for salmon or until fish flakes easily.",
+   "Blackened Seasoning Mix: Blend all ingredients well."
+  ],
+  "notes": [],
+  "tags": [
+   "fish",
+   "salmon",
+   "grouper",
+   "blackened",
+   "grilled",
+   "seafood"
+  ],
+  "uncertain": [
+   "\"Brush with olive oil to moisten\" - first word is unclear, could be \"Must\" or \"Brush\""
+  ]
+ },
+ "poultry-seafood-chicken-and-broccoli-casserole": {
+  "id": "poultry-seafood-chicken-and-broccoli-casserole",
+  "title": "Chicken-Broccoli Casserole",
+  "printed_page": 120,
+  "serves": "6",
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "4 large chicken breasts (skins & ribs)",
+     "1 large sweet onion",
+     "salt & pepper",
+     "2 bunches of broccoli flowerettes",
+     "1/2 cup of flour",
+     "3 cups of chicken broth",
+     "2 cups of fresh or canned mushrooms",
+     "2 2/3 cups crushed cornflakes",
+     "3 Tbsp. melted margarine"
+    ]
+   }
+  ],
+  "directions": [
+   "Cook chicken breasts in a large pan; cover with water, slice onion in water, and add salt & pepper. Cook about 1 1/2 hour.",
+   "When tender, debone chicken and set aside.",
+   "Steam 2 bunches of broccoli flowerettes and set aside.",
+   "Place 1/2 cup of flour in a saucepan, and slowly add 3 cups of chicken broth, stirring constantly. Cook over medium heat until mixture thickens.",
+   "Cover the bottom of 9\" x 13\" greased pan with approx. 1 cup of thickened chicken broth.",
+   "Place cooked broccoli over layer of sauce, and top with 2 cups of fresh or canned mushrooms. Place chicken on top of mushrooms.",
+   "Cover chicken with remaining thickened broth. Top with 2 2/3 cups crushed cornflakes.",
+   "Drizzle 3 Tbsp. melted margarine over cornflakes.",
+   "Bake at 350°F for 45 minutes - 1 hour."
+  ],
+  "notes": [],
+  "tags": [
+   "casserole",
+   "chicken",
+   "broccoli",
+   "mushrooms",
+   "cornflakes",
+   "main dish"
+  ],
+  "uncertain": [
+   "\"Top with 2 2/3 cups crushed cornflakes\" - \"crushed\" is partly covered by the decorative drawing",
+   "\"Drizzle 3 Tbsp. melted margarine\" - \"margarine\" is partly covered by the decorative drawing",
+   "\"Bake at 350° for 45 minutes - 1 hour\" - \"45\" is partly covered by the decorative drawing"
+  ]
+ },
+ "poultry-seafood-chicken-farfalla": {
+  "id": "poultry-seafood-chicken-farfalla",
+  "title": "Chicken Farfalla",
+  "printed_page": 122,
+  "serves": "6",
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "6 oz. uncooked farfalla",
+     "2 tsp. margarine",
+     "1 cup chopped sweet onion",
+     "2 cups sliced mushrooms",
+     "2 cups chicken broth",
+     "2 Tbsp. plus 1 tsp. cornstarch",
+     "3/4 tsp. salt",
+     "1/4 tsp. pepper",
+     "2 cups cooked chicken breasts (torn in bite-size pieces)",
+     "1/2 cup frozen baby peas",
+     "2 Tbsp. shredded Parmesan cheese"
+    ]
+   }
+  ],
+  "directions": [
+   "Cook farfalla per package directions.",
+   "Heat margarine in large skillet, and saute onion & margarine until slightly brown.",
+   "Remove mushrooms & onions from pan.",
+   "Add chicken broth to pan, and slowly add cornstarch, cooking over medium heat until slightly thickened.",
+   "Season sauce with salt & pepper, and add pasta, vegetables, chicken, & peas - mix.",
+   "Place mixture into greased casserole.",
+   "Sprinkle with Parmesan cheese and bake at 350°F for 25-30 minutes."
+  ],
+  "notes": [],
+  "tags": [
+   "chicken",
+   "pasta",
+   "farfalle",
+   "mushrooms",
+   "casserole",
+   "main dish"
+  ],
+  "uncertain": []
+ },
+ "poultry-seafood-chicken-with-squiggly-noodles": {
+  "id": "poultry-seafood-chicken-with-squiggly-noodles",
+  "title": "Chicken with Squiggly Noodles",
+  "printed_page": 121,
+  "serves": "3-4",
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "5 pieces boneless, skinless chicken breast",
+     "2 cans Cream of Chicken Soup",
+     "1 package squiggly noodles - cooked",
+     "2 Tbsp. canola oil",
+     "1 can of water"
+    ]
+   }
+  ],
+  "directions": [
+   "Place about 2 Tbsp. canola oil in skillet.",
+   "Brown chicken in heated oil.",
+   "Remove chicken from skillet (pour remaining canola oil out).",
+   "Place 2 cans of cream of chicken soup into the skillet, and add 1 can of water.",
+   "Stir until smooth and add cooked chicken.",
+   "Simmer about 1 1/2 hours (covered).",
+   "Place over cooked squiggly noodles."
+  ],
+  "notes": [],
+  "tags": [
+   "chicken",
+   "noodles",
+   "cream of chicken soup",
+   "skillet",
+   "main dish"
+  ],
+  "uncertain": []
+ },
+ "poultry-seafood-french-fried-shrimp": {
+  "id": "poultry-seafood-french-fried-shrimp",
+  "title": "French Fried Shrimp",
+  "printed_page": 124,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": "Shrimp",
+    "items": [
+     "1 cup sifted flour",
+     "1/2 tsp. sugar",
+     "1/2 tsp. salt",
+     "1 slightly beaten egg",
+     "1 cup ice water",
+     "2 Tbsp. canola oil",
+     "2 pounds fresh or frozen shrimp"
+    ]
+   },
+   {
+    "group": "Cocktail Sauce",
+    "items": [
+     "1 bottle Heinz Chili Sauce",
+     "prepared horseradish"
+    ]
+   }
+  ],
+  "directions": [
+   "Shrimp: Mix together flour, sugar, salt, egg, ice water, and canola oil.",
+   "Shrimp: If shrimp is frozen, place shrimp in boiling water. Bring to a boil again and boil for 2-3 minutes. If shrimp is not frozen, they will only need to cook about 3 minutes.",
+   "Shrimp: Place shrimp in batter and drop into very hot oil.",
+   "Shrimp: Cook until shrimp is medium-brown.",
+   "Shrimp: Place on paper towel to drain.",
+   "Cocktail Sauce: Add prepared horseradish to Heinz Chili Sauce until sauce is as spicy as you like it."
+  ],
+  "notes": [],
+  "tags": [
+   "shrimp",
+   "fried",
+   "seafood",
+   "cocktail sauce",
+   "batter"
+  ],
+  "uncertain": []
+ },
+ "poultry-seafood-fried-chicken": {
+  "id": "poultry-seafood-fried-chicken",
+  "title": "Fried Chicken",
+  "printed_page": 128,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": "Chicken",
+    "items": [
+     "2 cup flour",
+     "salt & pepper",
+     "chicken breasts",
+     "oil"
+    ]
+   },
+   {
+    "group": "Gravy",
+    "items": [
+     "oil from frying",
+     "salt & pepper",
+     "flour",
+     "milk"
+    ]
+   }
+  ],
+  "directions": [
+   "Chicken: In deep frying pan fill up oil 1/3 way up pan. Make sure oil is real hot.",
+   "Chicken: Dip chicken in flour, salt & pepper mixture real well.",
+   "Chicken: If oil is really hot, cook 6 min. on each side.",
+   "Gravy: Pour oil (use ladle or measuring cup) in bowl; leave enough oil to cover bottom of pan.",
+   "Gravy: Put salt & pepper in pan, put enough flour to soak grease up.",
+   "Gravy: Then add a little milk (keep stirring lumps out).",
+   "Gravy: Add milk to consistency."
+  ],
+  "notes": [],
+  "tags": [
+   "chicken",
+   "fried",
+   "gravy",
+   "main dish"
+  ],
+  "uncertain": [
+   "\"- Ck. Breasts\" - written as an abbreviation, read as chicken breasts"
+  ]
+ },
+ "poultry-seafood-italian-chicken": {
+  "id": "poultry-seafood-italian-chicken",
+  "title": "Italian Chicken",
+  "printed_page": 126,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "boneless, skinless chicken breasts (as many as you need)",
+     "onion",
+     "tomatoes",
+     "Italian Dressing"
+    ]
+   }
+  ],
+  "directions": [
+   "Use as many boneless, skinless chicken breasts as you need.",
+   "Place in a baking pan.",
+   "Slice onion over chicken.",
+   "Then cut up tomatoes over onions.",
+   "Cover mixture with Italian Dressing.",
+   "Bake at 350°F (covered) for 1 hour.",
+   "Uncover and continue cooking for another 15 minutes."
+  ],
+  "notes": [],
+  "tags": [
+   "chicken",
+   "italian dressing",
+   "tomatoes",
+   "baked",
+   "main dish"
+  ],
+  "uncertain": []
+ },
+ "poultry-seafood-moms-chicken-parmesan": {
+  "id": "poultry-seafood-moms-chicken-parmesan",
+  "title": "Mom's Chicken Parmesan",
+  "printed_page": 127,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "Boneless, skinless chicken breasts (as many as you wish)",
+     "spaghetti sauce",
+     "mozzarella cheese",
+     "fresh shredded Parmesan cheese"
+    ]
+   }
+  ],
+  "directions": [
+   "Place chicken in baking pan and cover with spaghetti sauce.",
+   "Cover sauce with mozzarella cheese and top with fresh Parmesan.",
+   "Bake covered at 350°F for 1 hour.",
+   "Uncover and cook an additional 15 minutes."
+  ],
+  "notes": [],
+  "tags": [
+   "chicken",
+   "parmesan",
+   "mozzarella",
+   "spaghetti sauce",
+   "baked",
+   "main dish"
+  ],
+  "uncertain": []
+ },
+ "poultry-seafood-overnight-chicken-casserole": {
+  "id": "poultry-seafood-overnight-chicken-casserole",
+  "title": "Overnight Chicken Casserole",
+  "printed_page": 125,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "1 - 7 oz. pkg. uncooked macaroni",
+     "2 cups milk",
+     "1 can cream of mushroom soup",
+     "1 can cream of celery soup",
+     "1 can mushrooms",
+     "3 cups cooked, diced chicken",
+     "1 small sweet onion - diced",
+     "1/2 pound cubed American cheese"
+    ]
+   }
+  ],
+  "directions": [
+   "Mix together.",
+   "Place in large casserole and refrigerate overnight.",
+   "Remove from refrigerator, mix well, and bake at 350°F for 1 hour."
+  ],
+  "notes": [],
+  "tags": [
+   "casserole",
+   "chicken",
+   "macaroni",
+   "make-ahead",
+   "cheese",
+   "main dish"
+  ],
+  "uncertain": []
+ },
+ "poultry-seafood-parmesan-chicken": {
+  "id": "poultry-seafood-parmesan-chicken",
+  "title": "Parmesan Chicken",
+  "printed_page": 123,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "4 pieces boneless skinless chicken",
+     "1/2 stick margarine melted",
+     "8 oz. grated Parmesan cheese"
+    ]
+   }
+  ],
+  "directions": [
+   "Brush chicken pieces with margarine, and roll in grated Parmesan cheese.",
+   "Bake in an 8\" x 8\" greased baking dish at 350°F for 1 hour."
+  ],
+  "notes": [],
+  "tags": [
+   "chicken",
+   "parmesan",
+   "baked",
+   "main dish"
+  ],
+  "uncertain": []
+ },
+ "salads-soups-baked-onion-soup": {
+  "id": "salads-soups-baked-onion-soup",
+  "title": "Baked Onion Soup",
+  "printed_page": 53,
+  "serves": "8",
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "12 cups water - 20 beef bouillon cubes",
+     "10 medium onions - sliced",
+     "1 stick margarine",
+     "1-2 Tbsp. flour",
+     "1 loaf of French bread (narrow width)",
+     "6 oz. Swiss cheese",
+     "1 oz. Provolone cheese",
+     "6 oz. Mozzarella cheese",
+     "3 oz. Muenster cheese",
+     "3 oz. Camembert cheese",
+     "3 oz. Brick cheese",
+     "1/2 cup sherry",
+     "butter",
+     "Parmesan cheese"
+    ]
+   }
+  ],
+  "directions": [
+   "Saute onions in margarine until clear.",
+   "Add flour, then beef bouillon.",
+   "Simmer about 1 hour. Then add sherry.",
+   "Grate all cheeses and mix together.",
+   "Slice bread, butter on both sides, sprinkle with Parmesan cheese, and broil until brown.",
+   "Divide onion mixture into 8 individual baking dishes.",
+   "Place toast on top and add cheeses.",
+   "Place baking dishes on cookie sheet and bake for 1 hour at 350°F."
+  ],
+  "notes": [],
+  "tags": [
+   "soup",
+   "onion",
+   "french onion soup",
+   "cheese",
+   "sherry"
+  ],
+  "uncertain": []
+ },
+ "salads-soups-baked-potato-soup": {
+  "id": "salads-soups-baked-potato-soup",
+  "title": "Baked Potato Soup",
+  "printed_page": 59,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "1 pound bacon (diced and browned)",
+     "5 pounds potatoes (peeled & diced)",
+     "2-3 sweet onions (diced)",
+     "dash of lemon pepper",
+     "seasoned salt to taste",
+     "1 Tbsp. flour",
+     "shredded cheddar cheese",
+     "water",
+     "milk"
+    ]
+   }
+  ],
+  "directions": [
+   "Brown and drain the bacon.",
+   "Add half of the diced potatoes and brown.",
+   "Drain and add diced onions and bacon.",
+   "Add remaining potatoes & cover with water.",
+   "Season with seasoned salt and a little lemon pepper.",
+   "Cook for 2-3 hours until liquid is cooked down and then add milk.",
+   "Cook until hot.",
+   "Add 1 Tbsp. flour to thicken.",
+   "Serve with shredded cheddar cheese on top."
+  ],
+  "notes": [],
+  "tags": [
+   "soup",
+   "potato",
+   "bacon",
+   "cheddar",
+   "onion"
+  ],
+  "uncertain": [
+   "\"1 pound bacon (diced and browned)\" - \"and browned\" is partly covered by the decorative drawing",
+   "\"5 pounds potatoes (peeled & diced)\" - \"peeled & diced\" is partly covered by the decorative drawing"
+  ]
+ },
+ "salads-soups-broccoli-salad": {
+  "id": "salads-soups-broccoli-salad",
+  "title": "Broccoli Salad",
+  "printed_page": 40,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": "Salad",
+    "items": [
+     "1 bunch broccoli flowerettes",
+     "8 slices of bacon (cubed & fried crisply)",
+     "4-5 green onions (diced finely)",
+     "1/2 cup raisins (optional)",
+     "1/2 cup walnuts - chopped"
+    ]
+   },
+   {
+    "group": "Dressing",
+    "items": [
+     "1 cup mayonnaise",
+     "1/2 cup sugar",
+     "3 Tbsp. vinegar"
+    ]
+   }
+  ],
+  "directions": [
+   "Combine broccoli, bacon, green onions, raisins, and walnuts.",
+   "Mix together mayonnaise, sugar, and vinegar.",
+   "Pour over broccoli mixture, chill, and serve."
+  ],
+  "notes": [],
+  "tags": [
+   "salad",
+   "broccoli",
+   "bacon",
+   "walnuts",
+   "raisins",
+   "side dish"
+  ],
+  "uncertain": []
+ },
+ "salads-soups-cheese-soup": {
+  "id": "salads-soups-cheese-soup",
+  "title": "Cheese Soup",
+  "printed_page": 51,
+  "serves": "15",
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "4 cups chicken broth",
+     "1 cup chopped sweet onion",
+     "1 cup shredded carrots",
+     "2 celery stalks (cook whole & remove before adding the cheese)",
+     "1 pound Velveeta cheese",
+     "3 Idaho potatoes cubed"
+    ]
+   }
+  ],
+  "directions": [
+   "Cook together chicken broth, onion, carrots, and celery for about 20 minutes.",
+   "Remove celery, add cheese.",
+   "Simmer until thoroughly heated (Do Not Boil)."
+  ],
+  "notes": [],
+  "tags": [
+   "soup",
+   "cheese",
+   "velveeta",
+   "potatoes",
+   "carrots"
+  ],
+  "uncertain": []
+ },
+ "salads-soups-chicken-egg-drop-soup": {
+  "id": "salads-soups-chicken-egg-drop-soup",
+  "title": "Chicken Egg Drop Soup",
+  "printed_page": 58,
+  "serves": "4",
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "6 cups rich chicken broth",
+     "2 Tbsp. cornstarch",
+     "2 Tbsp. cold water",
+     "1 Tbsp. soy sauce",
+     "1/2 tsp. sugar",
+     "2 eggs slightly beaten",
+     "2 green onions chopped (including tops)",
+     "salt and pepper"
+    ]
+   }
+  ],
+  "directions": [
+   "In a large pan, heat chicken broth to boiling.",
+   "Blend cornstarch with water to make a smooth paste.",
+   "Stir in soy sauce and sugar.",
+   "Slowly stir into broth; bring to a boil and simmer until clear (stirring constantly).",
+   "Remove from heat.",
+   "Gradually add eggs, stirring until eggs separate into shreds.",
+   "Add green onions and season to taste.",
+   "Serve immediately."
+  ],
+  "notes": [],
+  "tags": [
+   "soup",
+   "egg drop",
+   "chicken broth",
+   "eggs",
+   "green onions"
+  ],
+  "uncertain": []
+ },
+ "salads-soups-chicken-soup": {
+  "id": "salads-soups-chicken-soup",
+  "title": "Chicken Soup",
+  "printed_page": 57,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "4 whole chicken breasts",
+     "water (1/2 stock pot)",
+     "1 sweet onion, sliced",
+     "3 cups homemade or frozen noodles",
+     "1 can drained green beans",
+     "1/2 package frozen peas",
+     "2 cups shredded carrots",
+     "salt & pepper"
+    ]
+   }
+  ],
+  "directions": [
+   "Cook 4 whole chicken breasts in large stock pot (1/2 pot of water).",
+   "Also, cook with 1 sweet onion sliced.",
+   "Cook about 1 1/2 hours, or until chicken is tender.",
+   "Remove chicken, cut into bite-sized pieces.",
+   "Add 3 cups homemade or frozen noodles.",
+   "Then add 1 can drained green beans, 1/2 package frozen peas, 2 cups shredded carrots and simmer for about 2 hours.",
+   "You may need to add additional water, and salt & pepper."
+  ],
+  "notes": [],
+  "tags": [
+   "soup",
+   "chicken",
+   "noodles",
+   "vegetables"
+  ],
+  "uncertain": []
+ },
+ "salads-soups-chili": {
+  "id": "salads-soups-chili",
+  "title": "Chili",
+  "printed_page": 52,
+  "serves": "12+",
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "6 pounds ground sirloin",
+     "4 large sweet onions - chopped",
+     "3 - 24 oz. cans tomatoes - cut-up",
+     "5 cans tomato soup",
+     "6 cans chili beans",
+     "4 large cans tomato juice",
+     "salt & pepper",
+     "3 Tbsp. chili powder",
+     "2 cups water"
+    ]
+   }
+  ],
+  "directions": [
+   "Brown together meat & onions.",
+   "Add 3 Tbsp. chili powder, & salt & pepper.",
+   "Drain mixture, add remaining ingredients and simmer for at least 4 hours."
+  ],
+  "notes": [],
+  "tags": [
+   "chili",
+   "ground beef",
+   "beans",
+   "tomatoes",
+   "soup"
+  ],
+  "uncertain": [
+   "\"3 - 24 oz. cans tomatoes\" - the \"2\" in 24 appears written over another digit"
+  ]
+ },
+ "salads-soups-cranberry-salad": {
+  "id": "salads-soups-cranberry-salad",
+  "title": "Cranberry Salad",
+  "printed_page": 41,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "1 package cranberries",
+     "core 3 apples",
+     "2 oranges",
+     "1 package cherry Jell-O",
+     "1 package strawberry Jell-O",
+     "Juices from ground apples and oranges",
+     "1-2 cups sugar"
+    ]
+   }
+  ],
+  "directions": [
+   "Grind apples & oranges together (reserve liquid) and place ground fruit in bowl.",
+   "Grind cranberries and add 1-2 cups sugar.",
+   "Place both Jell-Os in a bowl and add boiling liquid to dissolve Jell-O.",
+   "Fold in oranges, apples, and cranberries, + add sugar.",
+   "Place in mold and chill."
+  ],
+  "notes": [],
+  "tags": [
+   "salad",
+   "cranberries",
+   "jell-o",
+   "apples",
+   "oranges",
+   "holiday"
+  ],
+  "uncertain": []
+ },
+ "salads-soups-five-cup-salad": {
+  "id": "salads-soups-five-cup-salad",
+  "title": "Five-Cup Salad",
+  "printed_page": 45,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "1 cup drained pineapple chunks",
+     "1 cup mandarin oranges (drained)",
+     "1 cup shredded coconut",
+     "1 cup sour cream",
+     "1 cup miniature marshmallows"
+    ]
+   }
+  ],
+  "directions": [
+   "Mix together and refrigerate."
+  ],
+  "notes": [],
+  "tags": [
+   "salad",
+   "fruit salad",
+   "pineapple",
+   "mandarin oranges",
+   "marshmallows",
+   "coconut"
+  ],
+  "uncertain": []
+ },
+ "salads-soups-frozen-cranberry-salad": {
+  "id": "salads-soups-frozen-cranberry-salad",
+  "title": "Frozen Cranberry Salad",
+  "printed_page": 42,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "1 pound ground cranberries",
+     "2 cups ground apples",
+     "1 pound miniature marshmallows",
+     "1 cup sugar",
+     "16 oz. container Cool Whip"
+    ]
+   }
+  ],
+  "directions": [
+   "Mix ground cranberries, apples, and sugar.",
+   "Place in a bowl and refrigerate overnight.",
+   "Add Cool Whip and marshmallows.",
+   "Freeze."
+  ],
+  "notes": [],
+  "tags": [
+   "salad",
+   "cranberries",
+   "apples",
+   "marshmallows",
+   "cool whip",
+   "frozen"
+  ],
+  "uncertain": []
+ },
+ "salads-soups-layered-salad": {
+  "id": "salads-soups-layered-salad",
+  "title": "Layered Salad",
+  "printed_page": 43,
+  "serves": "8",
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "1 medium head of lettuce",
+     "1/2 cup chopped celery",
+     "1/2 cup green peppers",
+     "1 medium Spanish onion",
+     "2 cups Miracle Whip",
+     "1 pkg. uncooked frozen peas",
+     "2 Tbsp. sugar",
+     "4 oz. package shredded Colby cheese",
+     "8 slices bacon, cooked crisply & crumbled"
+    ]
+   }
+  ],
+  "directions": [
+   "Layer as listed above (except mix Miracle Whip and sugar together before covering): lettuce, celery, green peppers, onions, and peas.",
+   "Cover with Miracle Whip mixture, then cheese, and finally cooked bacon.",
+   "Cover with foil and refrigerate for 24 hours."
+  ],
+  "notes": [],
+  "tags": [
+   "salad",
+   "lettuce",
+   "peas",
+   "bacon",
+   "cheese",
+   "miracle whip"
+  ],
+  "uncertain": []
+ },
+ "salads-soups-lemon-lime-salads": {
+  "id": "salads-soups-lemon-lime-salads",
+  "title": "Lemon-Lime Salad",
+  "printed_page": 44,
+  "serves": "8",
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "2 cups cottage cheese",
+     "1 package lemon jello",
+     "1 package lime jello",
+     "1 small can crushed pineapple, drained",
+     "8 oz Cool Whip"
+    ]
+   }
+  ],
+  "directions": [
+   "Sprinkle dry jello over cottage cheese, stirring all the time.",
+   "Add 1 small can drained crushed pineapple.",
+   "Add 8 oz Cool Whip.",
+   "Refrigerate."
+  ],
+  "notes": [],
+  "tags": [
+   "salad",
+   "jello",
+   "cottage cheese",
+   "pineapple",
+   "cool whip"
+  ],
+  "uncertain": []
+ },
+ "salads-soups-noahs-ark-clam-chowder": {
+  "id": "salads-soups-noahs-ark-clam-chowder",
+  "title": "Noah's Ark Clam Chowder",
+  "printed_page": 54,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "1 stick butter",
+     "1 large can evaporated milk",
+     "2 cans Campbell's New England Clam Chowder",
+     "1 can Campbell's Cr. of Potato Soup",
+     "1 can Campbell's Cr. of Celery Soup",
+     "8 oz whole milk",
+     "1 can mixed clams with juice"
+    ]
+   }
+  ],
+  "directions": [
+   "Heat thoroughly, but do not boil.",
+   "You may add milk if it becomes too thick."
+  ],
+  "notes": [],
+  "tags": [
+   "soup",
+   "chowder",
+   "clams",
+   "potato",
+   "milk"
+  ],
+  "uncertain": [
+   "\"1 can mixed clams with juice\" - may be \"minced clams\""
+  ]
+ },
+ "salads-soups-pistachio-salad": {
+  "id": "salads-soups-pistachio-salad",
+  "title": "Pistachio Salad",
+  "printed_page": 46,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "1 box instant pistachio pudding",
+     "1 large can crushed pineapple (drained)",
+     "1 pound miniature marshmallows",
+     "8 oz Cool Whip"
+    ]
+   }
+  ],
+  "directions": [
+   "Mix together and refrigerate."
+  ],
+  "notes": [],
+  "tags": [
+   "salad",
+   "pistachio pudding",
+   "pineapple",
+   "marshmallows",
+   "cool whip"
+  ],
+  "uncertain": []
+ },
+ "salads-soups-potato-soup": {
+  "id": "salads-soups-potato-soup",
+  "title": "Potato Soup",
+  "printed_page": null,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "3 Tbls. butter",
+     "3 cups sliced or minced onions - or leek is preferred",
+     "3 Tbls. flour",
+     "1 quart stock and about 1 qt. milk (or chicken stock + milk)",
+     "1 Tbl. salt",
+     "Pepper to taste",
+     "4 cups (about 1 1/2 lbs.) potatoes",
+     "1/3 to 1/2 cup sour cream and 2 to 3 Tbls. butter",
+     "2 to 3 Tbls. minced parsley or chives"
+    ]
+   }
+  ],
+  "directions": [
+   "Melt butter over moderate heat and stir in onions. Cover pan and cook slowly for about 5 min. without browning.",
+   "Blend in the flour and stir for about 2 minutes to cook the flour without browning it.",
+   "Remove from heat and let it cool a minute - then gradually beat in a cup or so of stock. Blend thoroughly with the onions and flour and then add the rest of the water. (Do not add the milk at this time or it will curdle.)",
+   "Stir in the salt, pepper and potatoes. Bring to boiling and simmer partially covered for about 40 minutes until vegetables are tender.",
+   "When you are ready to serve add the milk and return to a simmer. Blend in as much of the cream as you wish. Add butter. Taste carefully adding more salt and pepper as needed.",
+   "Garnish with a spoonful of cream and a sprinkling of herbs."
+  ],
+  "notes": [
+   "Typed recipe with handwritten edits: \"hot water\" is crossed out and replaced with \"stock\" in the ingredient list and in step 3."
+  ],
+  "tags": [
+   "soup",
+   "potato",
+   "onion",
+   "leek",
+   "sour cream"
+  ],
+  "uncertain": []
+ },
+ "salads-soups-strawberry-nut-salad": {
+  "id": "salads-soups-strawberry-nut-salad",
+  "title": "Strawberry Nut Salad",
+  "printed_page": 47,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "2 packages strawberry Jello",
+     "1 cup boiling water",
+     "2 - 10 oz. frozen or fresh sliced strawberries",
+     "1 - large can crushed pineapple",
+     "3 medium bananas - mashed",
+     "1 cup chopped walnuts",
+     "1 pint sour cream"
+    ]
+   }
+  ],
+  "directions": [
+   "Place jello in large bowl and add boiling water, stirring until Jello is dissolved.",
+   "Next, fold in strawberries, pineapple, bananas, and nuts.",
+   "Turn 1/2 of strawberry mixture into a 13\" x 9\" baking dish. Refrigerate until firm and spread with sour cream.",
+   "Gently spoon on remaining strawberry mixture.",
+   "Refrigerate."
+  ],
+  "notes": [],
+  "tags": [
+   "salad",
+   "jello",
+   "strawberries",
+   "bananas",
+   "walnuts",
+   "sour cream"
+  ],
+  "uncertain": []
+ },
+ "salads-soups-surprise-salad": {
+  "id": "salads-soups-surprise-salad",
+  "title": "Surprise Salad",
+  "printed_page": 48,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "2 2/3 cups pretzel crumbs",
+     "2 sticks melted margarine",
+     "8 oz Cool Whip",
+     "1 cup sugar",
+     "8 oz cream cheese",
+     "2 - 10 oz pkgs frozen sliced strawberries (I use fresh when available)",
+     "1 - 16 oz can crushed pineapple",
+     "1 - large pkg. strawberry Jello"
+    ]
+   }
+  ],
+  "directions": [
+   "Grease 9x13 baking pan and pat in pretzel and margarine mixture.",
+   "Bake at 350°F for approximately 10 minutes. Cool.",
+   "Next, mix softened cream cheese, sugar, and Cool Whip, and spread over pretzel crust.",
+   "Drain strawberries and pineapple. Add enough water to juice to make 1 1/2 cup liquid. Boil, add to jello, stirring to dissolve.",
+   "Add 1/2 cup ice cubes, stirring until slightly thick. Add strawberries and pineapple.",
+   "Pour jello mixture over cream cheese/pretzel crust.",
+   "Cover and refrigerate. Cut into squares and serve."
+  ],
+  "notes": [],
+  "tags": [
+   "salad",
+   "pretzel",
+   "strawberries",
+   "jello",
+   "cream cheese",
+   "pineapple"
+  ],
+  "uncertain": [
+   "\"Add 1/2 cup ice cubes\" - quantity partly obscured, could be 1 1/2 cup"
+  ]
+ },
+ "salads-soups-tortellini-soup": {
+  "id": "salads-soups-tortellini-soup",
+  "title": "Tortellini Soup",
+  "printed_page": 55,
+  "serves": "4",
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "4 cups chicken broth",
+     "1 - 9 oz pkg. cheese tortellini",
+     "1 - 15 oz. cannellini beans, drained",
+     "1 - 15 oz can diced tomatoes (with Italian flavorings)",
+     "1/2 cup shredded fresh basil",
+     "2 Tbsp. balsamic vinegar",
+     "salt to taste",
+     "1 1/2 tsp fresh ground pepper",
+     "1/3 cup shredded Parmesan cheese"
+    ]
+   }
+  ],
+  "directions": [
+   "In a large pot, bring broth to a boil, add tortellini, & cook for 4 minutes.",
+   "Stir in beans and tomatoes. Reduce heat and simmer for 5 minutes.",
+   "Remove from heat, stir in basil, balsamic vinegar, and salt.",
+   "Ladle into bowls, sprinkle with Parmesan cheese, & pepper."
+  ],
+  "notes": [],
+  "tags": [
+   "soup",
+   "tortellini",
+   "cannellini beans",
+   "tomatoes",
+   "basil"
+  ],
+  "uncertain": []
+ },
+ "salads-soups-vegetable-soup": {
+  "id": "salads-soups-vegetable-soup",
+  "title": "Vegetable Soup",
+  "printed_page": 56,
+  "serves": "12+",
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "5 lbs. London Broil or Chuck Roast",
+     "1 large sweet onion, sliced",
+     "1/2 pot (large stock pot) water"
+    ]
+   },
+   {
+    "group": "Add",
+    "items": [
+     "2 large cans tomato juice",
+     "2 cans cut green beans - drained",
+     "2 cans cut waxed beans - drained",
+     "1 package frozen corn (may use fresh)",
+     "1 package frozen lima beans (optional)",
+     "1 head of cabbage - shredded",
+     "4 large potatoes - diced",
+     "2 cups diced carrots"
+    ]
+   }
+  ],
+  "directions": [
+   "Cook about 2 hours or until meat is tender.",
+   "Remove cooked meat and cut into bite-sized pieces.",
+   "Add tomato juice, green beans, waxed beans, corn, lima beans, cabbage, potatoes, and carrots.",
+   "Simmer soup at least 4 hours."
+  ],
+  "notes": [],
+  "tags": [
+   "soup",
+   "beef",
+   "vegetables",
+   "cabbage",
+   "potatoes"
+  ],
+  "uncertain": []
+ },
+ "salads-soups-wilted-lettuce": {
+  "id": "salads-soups-wilted-lettuce",
+  "title": "Wilted Lettuce Dressing",
+  "printed_page": 50,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "3-4 strips crisply cooked bacon",
+     "1 egg",
+     "1/2 cup sugar",
+     "1 tsp. prepared mustard",
+     "1/3 cup vinegar",
+     "1/2 tsp. salt",
+     "dash of garlic salt"
+    ]
+   }
+  ],
+  "directions": [
+   "Crisply cook bacon and reserve bacon grease (drippings). Crumble cooked bacon and set aside.",
+   "Mix together and beat well egg, sugar, mustard, and salt.",
+   "Measure 1/3 cup vinegar and fill cup (2/3 cup) with water. Blend well and begin to boil.",
+   "Add bacon drippings and simmer for 3-5 minutes.",
+   "Cool [?]. Pour over leaf lettuce and toss with bacon bits."
+  ],
+  "notes": [],
+  "tags": [
+   "salad dressing",
+   "bacon",
+   "lettuce",
+   "vinegar",
+   "wilted lettuce"
+  ],
+  "uncertain": [
+   "\"Cool [?]. Pour over leaf lettuce\" - short mark after \"Cool\" (possibly \"slightly\" or a check mark)"
+  ]
+ },
+ "salads-soups-yum-yum-salad": {
+  "id": "salads-soups-yum-yum-salad",
+  "title": "Yum-Yum Salad",
+  "printed_page": 49,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "2 cups crushed pineapple",
+     "1 cup sugar",
+     "2 Tbsp. Knox flavored gelatin",
+     "3/4 cups grated American cheese",
+     "1/2 pint whipping cream (unwhipped)",
+     "1 cup black walnuts (chopped)",
+     "Juice of 1 lemon"
+    ]
+   }
+  ],
+  "directions": [
+   "Soak gelatin in 1/2 cup cold water.",
+   "Heat pineapple and add sugar and lemon juice.",
+   "Stir in gelatin, and continue stirring until gelatin dissolves.",
+   "When the mixture begins to set add cheese and nuts.",
+   "Chill for several hours."
+  ],
+  "notes": [],
+  "tags": [
+   "salad",
+   "pineapple",
+   "gelatin",
+   "cheese",
+   "black walnuts"
+  ],
+  "uncertain": [
+   "\"2 Tbsp. Knox flavored gelatin\" - reads as \"flavored\"; Knox is usually unflavored"
+  ]
+ },
+ "vegetables-au-gratin-potatoes": {
+  "id": "vegetables-au-gratin-potatoes",
+  "title": "Au Gratin Potatoes",
+  "printed_page": 89,
+  "serves": "6-8",
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "6-8 potatoes (peeled and sliced thinly)",
+     "1 large onion, thinly sliced",
+     "6, 1/4\" slices of Velveeta cheese",
+     "4 Tbsp. flour",
+     "milk",
+     "salt & pepper"
+    ]
+   }
+  ],
+  "directions": [
+   "Place 1/2 of sliced potatoes in a large greased baking dish.",
+   "Salt & pepper to taste, cover with 3 slices of cheese, 1/2 of cheese slices, and top with 2 Tbsp. flour.",
+   "Then layer remaining potatoes, onions, cheese, and flour.",
+   "Cover with milk.",
+   "Bake covered at 350°F for 1 hour.",
+   "Uncover and bake for another 30 minutes."
+  ],
+  "notes": [],
+  "tags": [
+   "potatoes",
+   "velveeta",
+   "cheese",
+   "onion",
+   "casserole",
+   "side dish"
+  ],
+  "uncertain": [
+   "\"6, 1/4\\\" slices of Velveeta cheese\" - could also read \"6 1/4 slices\""
+  ]
+ },
+ "vegetables-broccoli-cheese-casserole": {
+  "id": "vegetables-broccoli-cheese-casserole",
+  "title": "Broccoli-Cheese Casserole",
+  "printed_page": 80,
+  "serves": "8",
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "2 bunches of broccoli flowerettes",
+     "1 head of cauliflower",
+     "1 large can Cheese Whiz (heated in micro 2-3 min)",
+     "1 large can Cr. of Mushroom Soup",
+     "crushed Ritz Crackers"
+    ]
+   }
+  ],
+  "directions": [
+   "Steam broccoli and cauliflower about 20-25 min.",
+   "Heat Cheese Whiz in microwave 2-3 min and mix together with mushroom soup.",
+   "Place cooked broccoli and cauliflower in greased [?]\" x 13\" Pyrex casserole.",
+   "Pour cheese mixture over it.",
+   "Top with thin layer of crushed Ritz Crackers.",
+   "Bake for about 1 hour (or until bubbly) at 350°F."
+  ],
+  "notes": [],
+  "tags": [
+   "broccoli",
+   "cauliflower",
+   "cheese whiz",
+   "casserole",
+   "ritz crackers"
+  ],
+  "uncertain": [
+   "\"greased [?]\\\" x 13\\\" Pyrex casserole\" - first dimension is written over (likely 9)"
+  ]
+ },
+ "vegetables-cauliflower-with-cheese-sauce": {
+  "id": "vegetables-cauliflower-with-cheese-sauce",
+  "title": "Cauliflower with Cheese Sauce",
+  "printed_page": 81,
+  "serves": "4-6",
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "1 head of cauliflower - cut-up & steamed"
+    ]
+   },
+   {
+    "group": "Sauce",
+    "items": [
+     "5 Tbsp. flour",
+     "1 cup of milk",
+     "approximately 1/2 pound Velveeta cheese, cut up in chunks"
+    ]
+   }
+  ],
+  "directions": [
+   "Sauce: Place 5 Tbsp. flour in saucepan. Gradually add 1 cup of milk, stirring until smooth.",
+   "Sauce: Cook in saucepan until mixture thickens.",
+   "Sauce: Then add approximately 1/2 pound Velveeta cheese cut up in chunks and stir constantly until sauce is creamy. (May add more cheese if the mixture is not cheesy enough. Add more milk if the mixture is too cheesy.)",
+   "Pour sauce over cauliflower and serve."
+  ],
+  "notes": [],
+  "tags": [
+   "cauliflower",
+   "cheese sauce",
+   "velveeta",
+   "side dish"
+  ],
+  "uncertain": [
+   "Serves \"4-6\" - first digit is written over"
+  ]
+ },
+ "vegetables-chunky-squash-and-potato-puree-2": {
+  "id": "vegetables-chunky-squash-and-potato-puree-2",
+  "title": "Chunky Squash & Potato Purée (continued)",
+  "printed_page": 94,
+  "serves": null,
+  "ingredients": [],
+  "directions": [
+   "Place drained potatoes in a large bowl.",
+   "Before adding squash, wait until it's cool enough to handle; then scrape squash meat from skin into bowl, using a large spoon. Discard the thyme.",
+   "Add the other half of garlic to bowl & pour in buttermilk.",
+   "Purée w/ a potato masher until desired consistency is reached. Add more buttermilk if necessary.",
+   "Season to taste w/ salt & black pepper.",
+   "Refrigerate in a covered container until ready to use.",
+   "To serve, reheat purée in microwave for 2-3 min on high heat. (Add more buttermilk if desired.)",
+   "Stir in chives just before serving."
+  ],
+  "notes": [
+   "Continuation page; the page title is written as \"Squash (cont.)\". Ingredients are on the previous page (vegetables-chunky-squash-and-potato-puree)."
+  ],
+  "tags": [
+   "butternut squash",
+   "potatoes",
+   "buttermilk",
+   "side dish"
+  ],
+  "uncertain": []
+ },
+ "vegetables-chunky-squash-and-potato-puree": {
+  "id": "vegetables-chunky-squash-and-potato-puree",
+  "title": "Chunky Squash & Potato Purée",
+  "printed_page": 93,
+  "serves": "10",
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "2 lbs butternut squash (one medium), cut in half lengthwise, seeds removed",
+     "1 teaspoon olive oil",
+     "Coarse-ground salt, to taste",
+     "Cracked black pepper, to taste",
+     "4-6 cloves garlic, peeled & cut in half lengthwise",
+     "2 sprigs thyme",
+     "2 pounds Yukon gold or russet potatoes, peeled & cut into 1 1/2 to 2-inch chunks",
+     "1 - 1 1/2 cups nonfat buttermilk",
+     "2 tablespoons chives, minced"
+    ]
+   }
+  ],
+  "directions": [
+   "Preheat oven to 375°F.",
+   "Brush squash's cut surfaces w/ olive oil. Season w/ salt & black pepper.",
+   "Place half the garlic & 1 sprig of thyme on a cookie sheet & cover w/ a squash half, cut side down. Do the same with the other squash half.",
+   "Bake until completely soft & tender, about 25-35 min.",
+   "Meanwhile, in a large stockpot, place potatoes & cover w/ cold salted water.",
+   "Bring water to a boil; then reduce to a simmer & cook until a fork goes through potatoes easily, approximately 25-30 min."
+  ],
+  "notes": [
+   "Directions continue on the next page (vegetables-chunky-squash-and-potato-puree-2)."
+  ],
+  "tags": [
+   "butternut squash",
+   "potatoes",
+   "buttermilk",
+   "garlic",
+   "side dish"
+  ],
+  "uncertain": []
+ },
+ "vegetables-corn-pudding": {
+  "id": "vegetables-corn-pudding",
+  "title": "Corn Pudding",
+  "printed_page": 82,
+  "serves": "8",
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "2 eggs, slightly beaten",
+     "1 can cream style corn",
+     "1 can whole kernel corn - drained",
+     "1/2 cup milk",
+     "3 Tbsp. sugar",
+     "1 small box corn bread mix",
+     "1 stick of butter"
+    ]
+   }
+  ],
+  "directions": [
+   "Mix all ingredients together.",
+   "Grease pan (use Pam) and pour mixture into a pan.",
+   "Melt 1 stick of butter and pour over the top.",
+   "Bake in 8\" x 10\" pan for 1 hour at 325°F. Bake less if top gets too brown."
+  ],
+  "notes": [],
+  "tags": [
+   "corn",
+   "corn pudding",
+   "corn bread mix",
+   "side dish",
+   "casserole"
+  ],
+  "uncertain": []
+ },
+ "vegetables-creamed-peas": {
+  "id": "vegetables-creamed-peas",
+  "title": "Creamed Peas",
+  "printed_page": 83,
+  "serves": "6",
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "1 package frozen baby peas (cook as directed on package)",
+     "7 Tbsp. flour",
+     "2 cups milk",
+     "margarine (about 2 Tbsp.)",
+     "salt and pepper"
+    ]
+   }
+  ],
+  "directions": [
+   "Cook peas as directed on package.",
+   "Place flour into saucepan and gradually add milk. Stir constantly until thickened.",
+   "Add peas to thickened mixture, add margarine (about 2 Tbsp.), and salt and pepper to taste."
+  ],
+  "notes": [],
+  "tags": [
+   "peas",
+   "cream sauce",
+   "side dish",
+   "vegetables"
+  ],
+  "uncertain": []
+ },
+ "vegetables-crustless-vegetable-pie": {
+  "id": "vegetables-crustless-vegetable-pie",
+  "title": "Crustless Vegetable Pie",
+  "printed_page": 85,
+  "serves": "6-8",
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "1 small eggplant (peeled & cubed)",
+     "2 medium zucchini (cubed)",
+     "1 medium onion, chopped finely",
+     "1/4 cup oil",
+     "4 medium tomatoes, peeled & chopped OR 1 - 1 pound can whole tomatoes, chopped & drained",
+     "3 eggs",
+     "3/4 cup Parmesan cheese",
+     "1 Tbsp. parsley",
+     "1/2 tsp. basil",
+     "1/2 tsp. oregano",
+     "1/4 pound shredded mozzarella cheese",
+     "salt & pepper"
+    ]
+   }
+  ],
+  "directions": [
+   "Sauté eggplant, zucchini, and onion in oil until vegetables are softened (about 5-10 minutes).",
+   "Add tomatoes, cover and simmer 20-25 minutes until mixture is soft. (If you use canned tomatoes reduce cooking time to 10 minutes.)",
+   "Transfer to bowl & cool.",
+   "Preheat oven to 350°F.",
+   "Beat eggs with cheese, parsley, basil, & oregano & add to vegetables.",
+   "Pour mixture into a greased 10\" pie pan & top with 1/4 c. cheese.",
+   "Layer remaining vegetables & cheese. Top with mozzarella.",
+   "Bake for 40-45 minutes at 350°F."
+  ],
+  "notes": [],
+  "tags": [
+   "eggplant",
+   "zucchini",
+   "tomatoes",
+   "parmesan",
+   "mozzarella",
+   "vegetable pie"
+  ],
+  "uncertain": [
+   "\"4 medium peeled & chopped\" - the word \"tomatoes\" is implied, not written",
+   "\"Pour mixture into a greased 10\\\" pie pan & top with 1/4 c. cheese. Layer remaining vegetables\" - wording partly covered by a drawing at the right edge"
+  ]
+ },
+ "vegetables-escalloped-corn": {
+  "id": "vegetables-escalloped-corn",
+  "title": "Escalloped Corn",
+  "printed_page": 84,
+  "serves": "8",
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "1 1/4 cups finely crushed Ritz Crackers",
+     "1/2 cup margarine",
+     "2 Tbsp. butter",
+     "1 1/4 cups milk",
+     "1 - 10 oz. package frozen whole kernel corn",
+     "1/2 tsp. salt",
+     "2 Tbsp. flour",
+     "1/2 tsp. onion salt",
+     "2 eggs, beaten"
+    ]
+   }
+  ],
+  "directions": [
+   "Combine first 2 ingredients & save 1/2 cup for topping.",
+   "Line 9\" pie pan or 8\" square baking dish with remainder of crumbs.",
+   "Combine butter, 1 cup of milk, corn, & salt in saucepan. Heat until boiling.",
+   "Reduce heat and cook 3 minutes.",
+   "Mix flour and remaining 1/4 cup milk into a smooth paste, and slowly add to hot mixture, stirring constantly. Cook until thick.",
+   "Add remaining ingredients and cook slightly.",
+   "Pour into crumb-lined pie pan or baking dish. Top with remaining crumbs.",
+   "Bake for 20-30 minutes at 375°F."
+  ],
+  "notes": [],
+  "tags": [
+   "corn",
+   "ritz crackers",
+   "casserole",
+   "side dish",
+   "eggs"
+  ],
+  "uncertain": []
+ },
+ "vegetables-golden-parmesan-potatoes": {
+  "id": "vegetables-golden-parmesan-potatoes",
+  "title": "Golden Parmesan Potatoes",
+  "printed_page": 91,
+  "serves": "7",
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "2 lbs red potatoes, cut into quarters",
+     "1/3 cup olive oil",
+     "1 1/2 tsp Italian seasoning",
+     "2 cloves garlic, minced",
+     "1 cup (4 ounces) grated Parmesan cheese"
+    ]
+   }
+  ],
+  "directions": [
+   "Toss potatoes with oil, seasoning & garlic.",
+   "Add cheese; mix lightly.",
+   "Place in 15 x 10 by 1 baking pan.",
+   "Bake @ 400°F for 45 min."
+  ],
+  "notes": [],
+  "tags": [
+   "potatoes",
+   "parmesan",
+   "garlic",
+   "side dish",
+   "roasted"
+  ],
+  "uncertain": [
+   "Serves \"7\" - faint handwriting"
+  ]
+ },
+ "vegetables-hash-brown-casserole": {
+  "id": "vegetables-hash-brown-casserole",
+  "title": "Cracker Barrel Hash Brown Casserole",
+  "printed_page": 95,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "1 - 26 oz. bag frozen country-style hash browns",
+     "2 cups shredded Colby cheese",
+     "1/4 cup minced onion",
+     "1 cup milk",
+     "1/2 cup canned beef broth",
+     "2 Tbsp. melted butter",
+     "dash garlic powder",
+     "1 tsp. salt",
+     "1/4 tsp. black pepper"
+    ]
+   }
+  ],
+  "directions": [
+   "Preheat the oven to 425°F.",
+   "Combine the frozen hash browns, cheese, and onion in a large bowl.",
+   "Combine the milk, beef broth, 1/2 the melted butter, the garlic powder, salt, and pepper in another bowl. Mix until well blended, then pour the mixture over the hash browns, and mix well.",
+   "Heat remaining butter in oven-proof pan, and cook hash browns until all of cheese has melted.",
+   "Bake in oven at 425°F for 45-60 min."
+  ],
+  "notes": [],
+  "tags": [
+   "hash browns",
+   "potatoes",
+   "colby cheese",
+   "casserole",
+   "side dish"
+  ],
+  "uncertain": []
+ },
+ "vegetables-hashbrown-casserole": {
+  "id": "vegetables-hashbrown-casserole",
+  "title": "Hashbrown Casserole",
+  "printed_page": 88,
+  "serves": "8+",
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "2 pound package of frozen hash browns",
+     "8 oz. shredded cheddar cheese",
+     "1/2 cup melted margarine",
+     "1 tsp. salt",
+     "1/4 tsp. pepper",
+     "1/2 cup chopped onion",
+     "1 can cream of chicken soup",
+     "1 pt. sour cream"
+    ]
+   },
+   {
+    "group": "Topping",
+    "items": [
+     "2 cups crushed cornflakes",
+     "1/4 cup melted margarine"
+    ]
+   }
+  ],
+  "directions": [
+   "Mix all of the above together and place in a greased 9\" x 12\" casserole.",
+   "Top with 2 cups crushed cornflakes and 1/4 cup melted margarine.",
+   "Bake at 350°F for 45 minutes."
+  ],
+  "notes": [],
+  "tags": [
+   "hash browns",
+   "potatoes",
+   "cheddar",
+   "sour cream",
+   "cornflakes",
+   "casserole"
+  ],
+  "uncertain": [
+   "\"greased 9\\\" x 12\\\" casserole\" - second dimension may be 13"
+  ]
+ },
+ "vegetables-ritz-broccoli-casserole": {
+  "id": "vegetables-ritz-broccoli-casserole",
+  "title": "Ritz Broccoli Casserole",
+  "printed_page": 86,
+  "serves": "8-10",
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "2 bunches of broccoli flowerettes",
+     "1 cup diced American cheese",
+     "2 eggs (well-beaten)",
+     "1/2 cup mayonnaise (Miracle Whip)",
+     "1/2 can mushroom soup - undiluted",
+     "Ritz Crackers",
+     "butter"
+    ]
+   }
+  ],
+  "directions": [
+   "Steam broccoli for about 15 minutes - set aside.",
+   "In a bowl, beat eggs, add soup, cheese, and mayo - mix.",
+   "Pour over broccoli.",
+   "Crumble Ritz Crackers over top - dot with butter.",
+   "Place in a 9x13 baking dish (greased) and bake for 25-30 min. at 350°F."
+  ],
+  "notes": [],
+  "tags": [
+   "broccoli",
+   "casserole",
+   "american cheese",
+   "ritz crackers",
+   "side dish"
+  ],
+  "uncertain": []
+ },
+ "vegetables-scalloped-potatoes": {
+  "id": "vegetables-scalloped-potatoes",
+  "title": "Scalloped Potatoes",
+  "printed_page": 90,
+  "serves": "6-8",
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "6-8 potatoes (peeled and sliced)",
+     "salt & pepper to taste",
+     "4 Tbsp. margarine",
+     "milk"
+    ]
+   }
+  ],
+  "directions": [
+   "Place sliced potatoes in a greased baking dish, salt & pepper, cover with milk and top with margarine.",
+   "Bake covered at 350°F for 1 hour.",
+   "Uncover and continue baking for another 30 minutes."
+  ],
+  "notes": [],
+  "tags": [
+   "potatoes",
+   "scalloped potatoes",
+   "milk",
+   "side dish",
+   "casserole"
+  ],
+  "uncertain": []
+ },
+ "vegetables-twice-baked-potatoes": {
+  "id": "vegetables-twice-baked-potatoes",
+  "title": "Twice Baked Potatoes",
+  "printed_page": 92,
+  "serves": null,
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "6 large russet potatoes (peeled & cut into small chunks)",
+     "milk",
+     "approx. 16 oz. sour cream",
+     "salt",
+     "pepper",
+     "chives",
+     "4 slices of butter"
+    ]
+   }
+  ],
+  "directions": [
+   "Boil potatoes until soft.",
+   "Mash potatoes with milk.",
+   "Add approx. 16 oz. [sour cream]. Add salt, pepper & chives to taste.",
+   "Stir potatoes, sour cream & chives until mixed well.",
+   "Pour into 1 1/2 quart casserole dish (greased), & place 4 slices of butter on top.",
+   "Bake @ 350°F for 1 hour."
+  ],
+  "notes": [
+   "The page gives no separate ingredient list; ingredients are taken from the directions."
+  ],
+  "tags": [
+   "potatoes",
+   "sour cream",
+   "chives",
+   "casserole",
+   "side dish"
+  ],
+  "uncertain": [
+   "\"6 large russet potatoes\" - first digit faint, may be another number",
+   "\"Add approx. 16 oz.\" - the item is not named; sour cream is inferred from the next step"
+  ]
+ },
+ "vegetables-zucchini-casserole": {
+  "id": "vegetables-zucchini-casserole",
+  "title": "Zucchini Casserole",
+  "printed_page": 87,
+  "serves": "8",
+  "ingredients": [
+   {
+    "group": null,
+    "items": [
+     "5 small zucchini - sliced thinly",
+     "1 large sweet onion - sliced thinly",
+     "2 large tomatoes, peeled & chopped",
+     "4 Tbsp. margarine",
+     "16 oz shredded mozzarella cheese",
+     "1 package Ritz Crackers",
+     "4 Tbsp. melted margarine (for drizzling)"
+    ]
+   }
+  ],
+  "directions": [
+   "Sauté zucchini and onion in margarine.",
+   "Layer the zucchini and onions in a greased 9x13 baking dish: place half the zucchini/onion mixture on the bottom, top with 1 tomato, and cover with mozzarella cheese.",
+   "Next repeat the same ingredients for the next layer, except place 1 package of crumbled Ritz Crackers on top of cheese.",
+   "Drizzle with another 4 Tbsp. melted margarine.",
+   "Bake at 350°F for about 1 hour."
+  ],
+  "notes": [],
+  "tags": [
+   "zucchini",
+   "tomatoes",
+   "mozzarella",
+   "ritz crackers",
+   "casserole"
+  ],
+  "uncertain": []
+ }
+}

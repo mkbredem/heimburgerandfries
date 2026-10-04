@@ -7,14 +7,17 @@ import { sectionBySlug } from '../../data/sections';
 import { bookRecipes, recipeUrl, sectionUrl } from '../../lib/recipes';
 
 export async function getStaticPaths() {
-  const recipes = await bookRecipes();
-  return recipes.map((recipe, i) => ({
-    params: { slug: recipe.id },
-    props: { recipe, prev: recipes[i - 1], next: recipes[i + 1] },
-  }));
+  const all = await bookRecipes();
+  const listed = all.filter((r) => !r.data.continuation_of);
+  return all.map((recipe) => {
+    const main = recipe.data.continuation_of ? all.find((r) => r.id === recipe.data.continuation_of) : recipe;
+    const i = listed.findIndex((r) => r.id === main?.id);
+    return { params: { slug: recipe.id }, props: { recipe, main, prev: listed[i - 1], next: listed[i + 1] } };
+  });
 }
 
-const { recipe, prev, next } = Astro.props;
+const { recipe, main, prev, next } = Astro.props;
+const isContinuation = !!recipe.data.continuation_of;
 const d = recipe.data;
 const section = sectionBySlug(d.section);
 const { Content } = await render(recipe);
@@ -49,8 +52,21 @@ const rendered = await Promise.all(mods.map(async (m) => ({ m, C: (await render(
           <Image src={d.scan} alt={`Original handwritten cookbook page for ${d.title}`} width={800} format="webp" loading="eager" />
         </a>
         <figcaption>The original page — tap to view full size</figcaption>
+        {d.more_scans.length > 0 && (
+          <div class="more-scans">
+            {d.more_scans.map((s, i) => (
+              <Image src={s} alt={`Original cookbook page for ${d.title}, continued (page ${i + 2})`} width={800} format="webp" loading="lazy" />
+            ))}
+            <p class="more-scans-cap">The recipe continues on the next page of the book.</p>
+          </div>
+        )}
       </figure>
 
+      {isContinuation && main ? (
+      <article class="typed panel">
+        <p>This page of the book continues <a href={recipeUrl(main.id)}>{main.data.title}</a>. The full typed recipe, with both pages, is on that recipe's page.</p>
+      </article>
+      ) : (
       <article class="typed panel" data-pagefind-body data-pagefind-meta={`section:${section.name}`}>
         <h2 class="visually-hidden" data-pagefind-meta="title">{d.title}</h2>
         {d.transcription_status === 'draft' && <p class="note" data-pagefind-ignore>Draft transcription — compare with the original page and tell us about mistakes</p>}
@@ -78,6 +94,7 @@ const rendered = await Promise.all(mods.map(async (m) => ({ m, C: (await render(
         )}
         {d.tags.length > 0 && <p class="visually-hidden">{d.tags.join(', ')}</p>}
       </article>
+      )}
     </div>
 
     <section class="versions" aria-labelledby="fam-h" data-pagefind-ignore>
@@ -121,4 +138,7 @@ const rendered = await Promise.all(mods.map(async (m) => ({ m, C: (await render(
 <style>
   .empty { display: flex; flex-wrap: wrap; gap: 16px 32px; align-items: center; justify-content: space-between; }
   .empty p { margin: 0; flex: 1 1 360px; color: var(--ink-soft); }
+  .more-scans { margin-top: 20px; }
+  .more-scans img { display: block; width: 100%; height: auto; border-radius: 6px; box-shadow: 0 1px 2px rgba(46,42,38,.12), 0 10px 28px rgba(46,42,38,.14); }
+  .more-scans-cap { font-size: 15px; color: var(--muted); text-align: center; }
 </style>
