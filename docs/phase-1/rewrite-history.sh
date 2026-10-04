@@ -10,9 +10,9 @@ set -euo pipefail
 
 cd "$(git rev-parse --show-toplevel)"
 
-echo "== 1. Bring local main up to date with GitHub (local main is 1 commit behind)"
+echo "== 1. Put local commits on top of the GitHub commits (rebase)"
 git checkout main
-git pull --ff-only origin main
+git pull --rebase origin main
 
 echo "== 2. Make a full backup copy of the repository before rewriting"
 backup="../heimburgerandfries-backup-$(date +%Y%m%d-%H%M%S).git"
