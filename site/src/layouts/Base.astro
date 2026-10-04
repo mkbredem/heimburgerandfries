@@ -1,0 +1,46 @@
+---
+import '../styles/global.css';
+import { SITE } from '../data/site';
+
+interface Props { title?: string; description?: string; current?: 'recipes' | 'book' | 'additions' | 'share' }
+const { title, description = `${SITE.bookTitle} — the ${SITE.name} family cookbook`, current } = Astro.props;
+const fullTitle = title ? `${title} · ${SITE.name}` : `${SITE.name} — ${SITE.bookTitle}`;
+const nav = [
+  { key: 'recipes', href: '/recipes/', label: 'Recipes' },
+  { key: 'book', href: '/book/', label: 'Read the book' },
+  { key: 'additions', href: '/family-additions/', label: 'Family Additions' },
+  { key: 'share', href: '/share/', label: 'Share a dish' },
+];
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="robots" content="noindex, nofollow" />
+    <meta name="description" content={description} />
+    <meta name="theme-color" content="#FBF6EC" />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <title>{fullTitle}</title>
+  </head>
+  <body>
+    <a class="skip" href="#main">Skip to content</a>
+    <header class="site-header">
+      <div class="wrap">
+        <a class="brand" href="/">Heimburger <em>&amp;</em> Fries</a>
+        <nav class="site-nav" aria-label="Main">
+          {nav.map((n) => <a href={n.href} aria-current={current === n.key ? 'page' : undefined}>{n.label}</a>)}
+        </nav>
+      </div>
+    </header>
+    <main id="main">
+      <slot />
+    </main>
+    <footer class="site-footer">
+      <div class="wrap">
+        <span>{SITE.bookTitle} — {SITE.author}</span>
+        <span>A family website. Illustrations from the original cookbook by Nancy Radcliffe Edwards.</span>
+      </div>
+    </footer>
+  </body>
+</html>

@@ -1,0 +1,3 @@
+# Family website: please do not index.
+User-agent: *
+Disallow: /

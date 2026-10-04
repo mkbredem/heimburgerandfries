@@ -1,0 +1,26 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import RecipeCard from '../../components/RecipeCard.astro';
+import ShareButton from '../../components/ShareButton.astro';
+
+const additions = (await getCollection('family-additions')).sort((a, b) => a.data.title.localeCompare(b.data.title));
+---
+<Base title="Family Additions" current="additions">
+  <div class="wrap">
+    <nav class="breadcrumb" aria-label="Breadcrumb"><a href="/">Home</a> › Family Additions</nav>
+    <p class="eyebrow" style="color: var(--blue)">New to the family</p>
+    <h1 style="font-size: clamp(32px, 4.5vw, 48px); color: var(--blue); margin-bottom: 8px">Family Additions</h1>
+    <p style="margin: 0 0 28px; color: var(--ink-soft); max-width: 40em">Recipes the family has added since the book was written. They're kept separate so the original pages stay just as Mom wrote them.</p>
+    {additions.length === 0 ? (
+      <div class="panel" style="background: var(--blue-tint); border-color: transparent">
+        <p style="margin-top: 0">No Family Additions yet. Have a recipe the family should keep?</p>
+        <ShareButton label="Submit a new recipe" type="New recipe" variant="outline" />
+      </div>
+    ) : (
+      <div class="cards">
+        {additions.map((a) => <RecipeCard href={`/family-additions/${a.id}/`} title={a.data.title} image={a.data.photo} meta={`Added by ${a.data.submitted_by}`} addition />)}
+      </div>
+    )}
+  </div>
+</Base>

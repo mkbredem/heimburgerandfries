@@ -1,0 +1,9 @@
+---
+interface Props { id?: string; value?: string }
+const { id = 'q', value = '' } = Astro.props;
+---
+<form class="search" role="search" action="/search/" method="get">
+  <label for={id} class="visually-hidden">Search recipes</label>
+  <input id={id} name="q" type="search" value={value} placeholder="Search by recipe or ingredient — try “lemon”" autocomplete="off" />
+  <button class="btn btn-blue" type="submit">Search</button>
+</form>

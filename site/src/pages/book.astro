@@ -1,0 +1,37 @@
+---
+import { Image } from 'astro:assets';
+import type { ImageMetadata } from 'astro';
+import Base from '../layouts/Base.astro';
+import book from '../data/book.json';
+import { recipeUrl } from '../lib/recipes';
+
+const files = import.meta.glob<{ default: ImageMetadata }>('../assets/scans/*.jpg', { eager: true });
+const img = (name: string) => files[`../assets/scans/${name}`].default;
+const label = (p: (typeof book)[number]) =>
+  p.type === 'section table of contents' ? 'Section contents' : p.type === 'book index page' ? `Index — ${p.name}` : p.name;
+---
+<Base title="Read the book" current="book">
+  <div class="wrap">
+    <nav class="breadcrumb" aria-label="Breadcrumb"><a href="/">Home</a> › Read the book</nav>
+    <h1 style="font-size: clamp(32px, 4.5vw, 48px); color: var(--rose); margin-bottom: 8px">Read the book</h1>
+    <p style="margin: 0 0 20px; color: var(--ink-soft)">Swipe or use the buttons to turn the pages. Tap a recipe page to open it with the typed version.</p>
+    <div class="book-controls">
+      <button class="btn btn-outline" type="button" data-book-prev>← Previous</button>
+      <span data-book-status aria-live="polite" style="min-width: 8em; text-align: center; color: var(--muted)"></span>
+      <button class="btn btn-outline" type="button" data-book-next>Next →</button>
+    </div>
+    <div class="book" data-book tabindex="0" aria-label="Cookbook pages">
+      {book.map((p, i) => (
+        <figure id={`p${i + 1}`}>
+          {'recipe' in p && p.recipe ? (
+            <a href={recipeUrl(p.recipe)}><Image src={img(p.image)} alt={`Cookbook page: ${p.name}`} width={600} format="webp" loading={i < 4 ? 'eager' : 'lazy'} /></a>
+          ) : (
+            <Image src={img(p.image)} alt={`Cookbook page: ${label(p)}`} width={600} format="webp" loading={i < 4 ? 'eager' : 'lazy'} />
+          )}
+          <figcaption>{label(p)}</figcaption>
+        </figure>
+      ))}
+    </div>
+  </div>
+  <script is:inline src="/js/book.js" defer></script>
+</Base>

@@ -1,0 +1,1427 @@
+[
+ {
+  "image": "cookbook-cover.jpg",
+  "type": "front matter",
+  "name": "Cookbook Cover"
+ },
+ {
+  "image": "cookbook-note-from-sue-frisby.jpg",
+  "type": "front matter",
+  "name": "Cookbook Note from Sue Frisby"
+ },
+ {
+  "image": "preface-1.jpg",
+  "type": "front matter",
+  "name": "Preface 1"
+ },
+ {
+  "image": "preface-2.jpg",
+  "type": "front matter",
+  "name": "Preface 2"
+ },
+ {
+  "image": "preface-3.jpg",
+  "type": "front matter",
+  "name": "Preface 3"
+ },
+ {
+  "image": "preface-4.jpg",
+  "type": "front matter",
+  "name": "Preface 4"
+ },
+ {
+  "image": "index-1-appetizers-beverages-and-party-foods-index.jpg",
+  "type": "book index page",
+  "name": "Appetizers, Beverages and Party Foods Index"
+ },
+ {
+  "image": "index-2-breads.jpg",
+  "type": "book index page",
+  "name": "Breads"
+ },
+ {
+  "image": "index-2-cakes.jpg",
+  "type": "book index page",
+  "name": "Cakes"
+ },
+ {
+  "image": "index-3-cookies.jpg",
+  "type": "book index page",
+  "name": "Cookies"
+ },
+ {
+  "image": "index-4-deserts.jpg",
+  "type": "book index page",
+  "name": "Desserts"
+ },
+ {
+  "image": "index-4-eggs-and-cheese.jpg",
+  "type": "book index page",
+  "name": "Eggs and Cheese"
+ },
+ {
+  "image": "index-5-meats.jpg",
+  "type": "book index page",
+  "name": "Meats"
+ },
+ {
+  "image": "index-6-pasta-grains.jpg",
+  "type": "book index page",
+  "name": "Pasta-Grains"
+ },
+ {
+  "image": "index-7-pies-candies.jpg",
+  "type": "book index page",
+  "name": "Pies-Candies"
+ },
+ {
+  "image": "index-8-poultry-fish-seafoods.jpg",
+  "type": "book index page",
+  "name": "Poultry, Fish, Seafoods"
+ },
+ {
+  "image": "index-9-salads-and-dressings.jpg",
+  "type": "book index page",
+  "name": "Salads and Dressings"
+ },
+ {
+  "image": "index-10-soups.jpg",
+  "type": "book index page",
+  "name": "Soups"
+ },
+ {
+  "image": "index-11-vegetables.jpg",
+  "type": "book index page",
+  "name": "Vegetables"
+ },
+ {
+  "image": "appetizers-table-of-contents.jpg",
+  "type": "section table of contents",
+  "name": "Table of Contents",
+  "section": "appetizers"
+ },
+ {
+  "image": "appetizers-aloha-dip.jpg",
+  "type": "recipe",
+  "name": "Aloha Dip",
+  "recipe": "appetizers-aloha-dip",
+  "section": "appetizers"
+ },
+ {
+  "image": "appetizers-cheese-ball.jpg",
+  "type": "recipe",
+  "name": "Cheese Ball",
+  "recipe": "appetizers-cheese-ball",
+  "section": "appetizers"
+ },
+ {
+  "image": "appetizers-chili-dip.jpg",
+  "type": "recipe",
+  "name": "Chili Dip",
+  "recipe": "appetizers-chili-dip",
+  "section": "appetizers"
+ },
+ {
+  "image": "appetizers-dill-dip.jpg",
+  "type": "recipe",
+  "name": "Dill Dip",
+  "recipe": "appetizers-dill-dip",
+  "section": "appetizers"
+ },
+ {
+  "image": "appetizers-fruit-dip.jpg",
+  "type": "recipe",
+  "name": "Fruit Dip",
+  "recipe": "appetizers-fruit-dip",
+  "section": "appetizers"
+ },
+ {
+  "image": "appetizers-garden-vegetable-dip.jpg",
+  "type": "recipe",
+  "name": "Garden Vegetable Dip",
+  "recipe": "appetizers-garden-vegetable-dip",
+  "section": "appetizers"
+ },
+ {
+  "image": "appetizers-oyster-cracker-snacks.jpg",
+  "type": "recipe",
+  "name": "Oyster Cracker Snacks",
+  "recipe": "appetizers-oyster-cracker-snacks",
+  "section": "appetizers"
+ },
+ {
+  "image": "appetizers-pizza-rounds.jpg",
+  "type": "recipe",
+  "name": "Pizza Rounds",
+  "recipe": "appetizers-pizza-rounds",
+  "section": "appetizers"
+ },
+ {
+  "image": "appetizers-shrimp-spread.jpg",
+  "type": "recipe",
+  "name": "Shrimp Spread",
+  "recipe": "appetizers-shrimp-spread",
+  "section": "appetizers"
+ },
+ {
+  "image": "appetizers-stuffed-mushrooms.jpg",
+  "type": "recipe",
+  "name": "Stuffed Mushrooms",
+  "recipe": "appetizers-stuffed-mushrooms",
+  "section": "appetizers"
+ },
+ {
+  "image": "appetizers-taco-dip.jpg",
+  "type": "recipe",
+  "name": "Taco Dip",
+  "recipe": "appetizers-taco-dip",
+  "section": "appetizers"
+ },
+ {
+  "image": "appetizers-friendship-tea-spiced-tea.jpg",
+  "type": "recipe",
+  "name": "Friendship Tea (Spiced Tea)",
+  "recipe": "appetizers-friendship-tea-spiced-tea",
+  "section": "appetizers"
+ },
+ {
+  "image": "appetizers-hot-chocolate.jpg",
+  "type": "recipe",
+  "name": "Hot Chocolate",
+  "recipe": "appetizers-hot-chocolate",
+  "section": "appetizers"
+ },
+ {
+  "image": "appetizers-rainbow-punch.jpg",
+  "type": "recipe",
+  "name": "Rainbow Punch",
+  "recipe": "appetizers-rainbow-punch",
+  "section": "appetizers"
+ },
+ {
+  "image": "appetizers-caso.jpg",
+  "type": "recipe",
+  "name": "Caso",
+  "recipe": "appetizers-caso",
+  "section": "appetizers"
+ },
+ {
+  "image": "appetizers-spinach-dip.jpg",
+  "type": "recipe",
+  "name": "Spinach Dip",
+  "recipe": "appetizers-spinach-dip",
+  "section": "appetizers"
+ },
+ {
+  "image": "appetizers-the-wallaby-darned.jpg",
+  "type": "recipe",
+  "name": "The Wallaby Darned",
+  "recipe": "appetizers-the-wallaby-darned",
+  "section": "appetizers"
+ },
+ {
+  "image": "appetizers-corn-fritters.jpg",
+  "type": "recipe",
+  "name": "Corn Fritters",
+  "recipe": "appetizers-corn-fritters",
+  "section": "appetizers"
+ },
+ {
+  "image": "breads-table-of-contents.jpg",
+  "type": "section table of contents",
+  "name": "Table of Contents",
+  "section": "breads"
+ },
+ {
+  "image": "breads-apricot-bread.jpg",
+  "type": "recipe",
+  "name": "Apricot Bread",
+  "recipe": "breads-apricot-bread",
+  "section": "breads"
+ },
+ {
+  "image": "breads-christmas-fruit-bread.jpg",
+  "type": "recipe",
+  "name": "Christmas Fruit Bread",
+  "recipe": "breads-christmas-fruit-bread",
+  "section": "breads"
+ },
+ {
+  "image": "breads-cinnamon-rolls.jpg",
+  "type": "recipe",
+  "name": "Cinnamon Rolls",
+  "recipe": "breads-cinnamon-rolls",
+  "section": "breads"
+ },
+ {
+  "image": "breads-coffee-cake.jpg",
+  "type": "recipe",
+  "name": "Coffee Cake",
+  "recipe": "breads-coffee-cake",
+  "section": "breads"
+ },
+ {
+  "image": "breads-banana-blueberry-bread.jpg",
+  "type": "recipe",
+  "name": "Banana-Blueberry Bread",
+  "recipe": "breads-banana-blueberry-bread",
+  "section": "breads"
+ },
+ {
+  "image": "breads-corn-bread.jpg",
+  "type": "recipe",
+  "name": "Corn Bread",
+  "recipe": "breads-corn-bread",
+  "section": "breads"
+ },
+ {
+  "image": "breads-cranberry-bread.jpg",
+  "type": "recipe",
+  "name": "Cranberry Bread",
+  "recipe": "breads-cranberry-bread",
+  "section": "breads"
+ },
+ {
+  "image": "breads-gooey-butter-coffee-cake.jpg",
+  "type": "recipe",
+  "name": "Gooey Butter Coffee Cake",
+  "recipe": "breads-gooey-butter-coffee-cake",
+  "section": "breads"
+ },
+ {
+  "image": "breads-lemon-tea-bread.jpg",
+  "type": "recipe",
+  "name": "Lemon Tea Bread",
+  "recipe": "breads-lemon-tea-bread",
+  "section": "breads"
+ },
+ {
+  "image": "breads-nut-bread.jpg",
+  "type": "recipe",
+  "name": "Nut Bread",
+  "recipe": "breads-nut-bread",
+  "section": "breads"
+ },
+ {
+  "image": "breads-pumpkin-bread.jpg",
+  "type": "recipe",
+  "name": "Pumpkin Bread",
+  "recipe": "breads-pumpkin-bread",
+  "section": "breads"
+ },
+ {
+  "image": "breads-fruit-cake-confections.jpg",
+  "type": "recipe",
+  "name": "Fruit Cake Confections",
+  "recipe": "breads-fruit-cake-confections",
+  "section": "breads"
+ },
+ {
+  "image": "breads-honey-mustard.jpg",
+  "type": "recipe",
+  "name": "Honey Mustard",
+  "recipe": "breads-honey-mustard",
+  "section": "breads"
+ },
+ {
+  "image": "breads-banana-cake-muffins.jpg",
+  "type": "recipe",
+  "name": "Banana Cake Muffins",
+  "recipe": "breads-banana-cake-muffins",
+  "section": "breads"
+ },
+ {
+  "image": "breads-grandmas-icing.jpg",
+  "type": "recipe",
+  "name": "Grandma's Icing",
+  "recipe": "breads-grandmas-icing",
+  "section": "breads"
+ },
+ {
+  "image": "breads-strawberry-jam-freezer.jpg",
+  "type": "recipe",
+  "name": "Strawberry Jam (Freezer)",
+  "recipe": "breads-strawberry-jam-freezer",
+  "section": "breads"
+ },
+ {
+  "image": "breads-strawberry-jam-freezer-2.jpg",
+  "type": "recipe",
+  "name": "Strawberry Jam (Freezer) 2",
+  "recipe": "breads-strawberry-jam-freezer-2",
+  "section": "breads"
+ },
+ {
+  "image": "breads-lemonberry-poppyseed-bread.jpg",
+  "type": "recipe",
+  "name": "Lemonberry Poppyseed Bread",
+  "recipe": "breads-lemonberry-poppyseed-bread",
+  "section": "breads"
+ },
+ {
+  "image": "breads-strawberry-tea.jpg",
+  "type": "recipe",
+  "name": "Strawberry Tea",
+  "recipe": "breads-strawberry-tea",
+  "section": "breads"
+ },
+ {
+  "image": "breads-cracked-wheat-bread.jpg",
+  "type": "recipe",
+  "name": "Cracked Wheat Bread",
+  "recipe": "breads-cracked-wheat-bread",
+  "section": "breads"
+ },
+ {
+  "image": "salads-soups-table-of-contents.jpg",
+  "type": "section table of contents",
+  "name": "Table of Contents",
+  "section": "salads-soups"
+ },
+ {
+  "image": "salads-soups-broccoli-salad.jpg",
+  "type": "recipe",
+  "name": "Broccoli Salad",
+  "recipe": "salads-soups-broccoli-salad",
+  "section": "salads-soups"
+ },
+ {
+  "image": "salads-soups-cranberry-salad.jpg",
+  "type": "recipe",
+  "name": "Cranberry Salad",
+  "recipe": "salads-soups-cranberry-salad",
+  "section": "salads-soups"
+ },
+ {
+  "image": "salads-soups-frozen-cranberry-salad.jpg",
+  "type": "recipe",
+  "name": "Frozen Cranberry Salad",
+  "recipe": "salads-soups-frozen-cranberry-salad",
+  "section": "salads-soups"
+ },
+ {
+  "image": "salads-soups-layered-salad.jpg",
+  "type": "recipe",
+  "name": "Layered Salad",
+  "recipe": "salads-soups-layered-salad",
+  "section": "salads-soups"
+ },
+ {
+  "image": "salads-soups-lemon-lime-salads.jpg",
+  "type": "recipe",
+  "name": "Lemon-Lime Salads",
+  "recipe": "salads-soups-lemon-lime-salads",
+  "section": "salads-soups"
+ },
+ {
+  "image": "salads-soups-five-cup-salad.jpg",
+  "type": "recipe",
+  "name": "Five-cup Salad",
+  "recipe": "salads-soups-five-cup-salad",
+  "section": "salads-soups"
+ },
+ {
+  "image": "salads-soups-pistachio-salad.jpg",
+  "type": "recipe",
+  "name": "Pistachio Salad",
+  "recipe": "salads-soups-pistachio-salad",
+  "section": "salads-soups"
+ },
+ {
+  "image": "salads-soups-strawberry-nut-salad.jpg",
+  "type": "recipe",
+  "name": "Strawberry Nut Salad",
+  "recipe": "salads-soups-strawberry-nut-salad",
+  "section": "salads-soups"
+ },
+ {
+  "image": "salads-soups-surprise-salad.jpg",
+  "type": "recipe",
+  "name": "Surprise Salad",
+  "recipe": "salads-soups-surprise-salad",
+  "section": "salads-soups"
+ },
+ {
+  "image": "salads-soups-yum-yum-salad.jpg",
+  "type": "recipe",
+  "name": "Yum-Yum Salad",
+  "recipe": "salads-soups-yum-yum-salad",
+  "section": "salads-soups"
+ },
+ {
+  "image": "salads-soups-wilted-lettuce.jpg",
+  "type": "recipe",
+  "name": "Wilted Lettuce",
+  "recipe": "salads-soups-wilted-lettuce",
+  "section": "salads-soups"
+ },
+ {
+  "image": "salads-soups-cheese-soup.jpg",
+  "type": "recipe",
+  "name": "Cheese Soup",
+  "recipe": "salads-soups-cheese-soup",
+  "section": "salads-soups"
+ },
+ {
+  "image": "salads-soups-chili.jpg",
+  "type": "recipe",
+  "name": "Chili",
+  "recipe": "salads-soups-chili",
+  "section": "salads-soups"
+ },
+ {
+  "image": "salads-soups-baked-onion-soup.jpg",
+  "type": "recipe",
+  "name": "Baked Onion Soup",
+  "recipe": "salads-soups-baked-onion-soup",
+  "section": "salads-soups"
+ },
+ {
+  "image": "salads-soups-noahs-ark-clam-chowder.jpg",
+  "type": "recipe",
+  "name": "Noah's Ark Clam Chowder",
+  "recipe": "salads-soups-noahs-ark-clam-chowder",
+  "section": "salads-soups"
+ },
+ {
+  "image": "salads-soups-tortellini-soup.jpg",
+  "type": "recipe",
+  "name": "Tortellini Soup",
+  "recipe": "salads-soups-tortellini-soup",
+  "section": "salads-soups"
+ },
+ {
+  "image": "salads-soups-vegetable-soup.jpg",
+  "type": "recipe",
+  "name": "Vegetable Soup",
+  "recipe": "salads-soups-vegetable-soup",
+  "section": "salads-soups"
+ },
+ {
+  "image": "salads-soups-chicken-soup.jpg",
+  "type": "recipe",
+  "name": "Chicken Soup",
+  "recipe": "salads-soups-chicken-soup",
+  "section": "salads-soups"
+ },
+ {
+  "image": "salads-soups-chicken-egg-drop-soup.jpg",
+  "type": "recipe",
+  "name": "Chicken Egg Drop Soup",
+  "recipe": "salads-soups-chicken-egg-drop-soup",
+  "section": "salads-soups"
+ },
+ {
+  "image": "salads-soups-baked-potato-soup.jpg",
+  "type": "recipe",
+  "name": "Baked Potato Soup",
+  "recipe": "salads-soups-baked-potato-soup",
+  "section": "salads-soups"
+ },
+ {
+  "image": "salads-soups-potato-soup.jpg",
+  "type": "recipe",
+  "name": "Potato Soup",
+  "recipe": "salads-soups-potato-soup",
+  "section": "salads-soups"
+ },
+ {
+  "image": "eggs-cheese-table-of-contents.jpg",
+  "type": "section table of contents",
+  "name": "Table of Contents",
+  "section": "eggs-cheese"
+ },
+ {
+  "image": "eggs-cheese-baked-eggs.jpg",
+  "type": "recipe",
+  "name": "Baked Eggs",
+  "recipe": "eggs-cheese-baked-eggs",
+  "section": "eggs-cheese"
+ },
+ {
+  "image": "eggs-cheese-quiche.jpg",
+  "type": "recipe",
+  "name": "Quiche",
+  "recipe": "eggs-cheese-quiche",
+  "section": "eggs-cheese"
+ },
+ {
+  "image": "eggs-cheese-mariachis.jpg",
+  "type": "recipe",
+  "name": "Mariachis",
+  "recipe": "eggs-cheese-mariachis",
+  "section": "eggs-cheese"
+ },
+ {
+  "image": "eggs-cheese-deviled-eggs.jpg",
+  "type": "recipe",
+  "name": "Deviled Eggs",
+  "recipe": "eggs-cheese-deviled-eggs",
+  "section": "eggs-cheese"
+ },
+ {
+  "image": "vegetables-table-of-contents.jpg",
+  "type": "section table of contents",
+  "name": "Table of Contents",
+  "section": "vegetables"
+ },
+ {
+  "image": "vegetables-broccoli-cheese-casserole.jpg",
+  "type": "recipe",
+  "name": "Broccoli-Cheese Casserole",
+  "recipe": "vegetables-broccoli-cheese-casserole",
+  "section": "vegetables"
+ },
+ {
+  "image": "vegetables-cauliflower-with-cheese-sauce.jpg",
+  "type": "recipe",
+  "name": "Cauliflower with Cheese Sauce",
+  "recipe": "vegetables-cauliflower-with-cheese-sauce",
+  "section": "vegetables"
+ },
+ {
+  "image": "vegetables-corn-pudding.jpg",
+  "type": "recipe",
+  "name": "Corn Pudding",
+  "recipe": "vegetables-corn-pudding",
+  "section": "vegetables"
+ },
+ {
+  "image": "vegetables-creamed-peas.jpg",
+  "type": "recipe",
+  "name": "Creamed Peas",
+  "recipe": "vegetables-creamed-peas",
+  "section": "vegetables"
+ },
+ {
+  "image": "vegetables-escalloped-corn.jpg",
+  "type": "recipe",
+  "name": "Escalloped Corn",
+  "recipe": "vegetables-escalloped-corn",
+  "section": "vegetables"
+ },
+ {
+  "image": "vegetables-crustless-vegetable-pie.jpg",
+  "type": "recipe",
+  "name": "Crustless Vegetable Pie",
+  "recipe": "vegetables-crustless-vegetable-pie",
+  "section": "vegetables"
+ },
+ {
+  "image": "vegetables-ritz-broccoli-casserole.jpg",
+  "type": "recipe",
+  "name": "Ritz Broccoli Casserole",
+  "recipe": "vegetables-ritz-broccoli-casserole",
+  "section": "vegetables"
+ },
+ {
+  "image": "vegetables-zucchini-casserole.jpg",
+  "type": "recipe",
+  "name": "Zucchini Casserole",
+  "recipe": "vegetables-zucchini-casserole",
+  "section": "vegetables"
+ },
+ {
+  "image": "vegetables-hashbrown-casserole.jpg",
+  "type": "recipe",
+  "name": "Hashbrown Casserole",
+  "recipe": "vegetables-hashbrown-casserole",
+  "section": "vegetables"
+ },
+ {
+  "image": "vegetables-au-gratin-potatoes.jpg",
+  "type": "recipe",
+  "name": "Au Gratin Potatoes",
+  "recipe": "vegetables-au-gratin-potatoes",
+  "section": "vegetables"
+ },
+ {
+  "image": "vegetables-scalloped-potatoes.jpg",
+  "type": "recipe",
+  "name": "Scalloped Potatoes",
+  "recipe": "vegetables-scalloped-potatoes",
+  "section": "vegetables"
+ },
+ {
+  "image": "vegetables-golden-parmesan-potatoes.jpg",
+  "type": "recipe",
+  "name": "Golden Parmesan Potatoes",
+  "recipe": "vegetables-golden-parmesan-potatoes",
+  "section": "vegetables"
+ },
+ {
+  "image": "vegetables-twice-baked-potatoes.jpg",
+  "type": "recipe",
+  "name": "Twice Baked Potatoes",
+  "recipe": "vegetables-twice-baked-potatoes",
+  "section": "vegetables"
+ },
+ {
+  "image": "vegetables-chunky-squash-and-potato-puree.jpg",
+  "type": "recipe",
+  "name": "Chunky Squash and Potato Puree",
+  "recipe": "vegetables-chunky-squash-and-potato-puree",
+  "section": "vegetables"
+ },
+ {
+  "image": "vegetables-chunky-squash-and-potato-puree-2.jpg",
+  "type": "recipe",
+  "name": "Chunky Squash and Potato Puree 2",
+  "recipe": "vegetables-chunky-squash-and-potato-puree-2",
+  "section": "vegetables"
+ },
+ {
+  "image": "vegetables-hash-brown-casserole.jpg",
+  "type": "recipe",
+  "name": "Hash Brown Casserole",
+  "recipe": "vegetables-hash-brown-casserole",
+  "section": "vegetables"
+ },
+ {
+  "image": "pasta-grains-table-of-contents.jpg",
+  "type": "section table of contents",
+  "name": "Table of Contents",
+  "section": "pasta-grains"
+ },
+ {
+  "image": "pasta-grains-homemade-noodles.jpg",
+  "type": "recipe",
+  "name": "Homemade Noodles",
+  "recipe": "pasta-grains-homemade-noodles",
+  "section": "pasta-grains"
+ },
+ {
+  "image": "pasta-grains-chicken-and-noodles.jpg",
+  "type": "recipe",
+  "name": "Chicken and Noodles",
+  "recipe": "pasta-grains-chicken-and-noodles",
+  "section": "pasta-grains"
+ },
+ {
+  "image": "pasta-grains-chicken-and-dumplings.jpg",
+  "type": "recipe",
+  "name": "Chicken and Dumplings",
+  "recipe": "pasta-grains-chicken-and-dumplings",
+  "section": "pasta-grains"
+ },
+ {
+  "image": "pasta-grains-chicken-rice-casserole.jpg",
+  "type": "recipe",
+  "name": "Chicken Rice Casserole",
+  "recipe": "pasta-grains-chicken-rice-casserole",
+  "section": "pasta-grains"
+ },
+ {
+  "image": "pasta-grains-lasagna.jpg",
+  "type": "recipe",
+  "name": "Lasagna",
+  "recipe": "pasta-grains-lasagna",
+  "section": "pasta-grains"
+ },
+ {
+  "image": "pasta-grains-macaroni-and-cheese.jpg",
+  "type": "recipe",
+  "name": "Macaroni and Cheese",
+  "recipe": "pasta-grains-macaroni-and-cheese",
+  "section": "pasta-grains"
+ },
+ {
+  "image": "pasta-grains-rice-casserole.jpg",
+  "type": "recipe",
+  "name": "Rice Casserole",
+  "recipe": "pasta-grains-rice-casserole",
+  "section": "pasta-grains"
+ },
+ {
+  "image": "pasta-grains-spaghetti-sauce.jpg",
+  "type": "recipe",
+  "name": "Spaghetti Sauce",
+  "recipe": "pasta-grains-spaghetti-sauce",
+  "section": "pasta-grains"
+ },
+ {
+  "image": "pasta-grains-stuffed-shells.jpg",
+  "type": "recipe",
+  "name": "Stuffed Shells",
+  "recipe": "pasta-grains-stuffed-shells",
+  "section": "pasta-grains"
+ },
+ {
+  "image": "pasta-grains-pasta-salad.jpg",
+  "type": "recipe",
+  "name": "Pasta Salad",
+  "recipe": "pasta-grains-pasta-salad",
+  "section": "pasta-grains"
+ },
+ {
+  "image": "pasta-grains-spanish-beef-rice.jpg",
+  "type": "recipe",
+  "name": "Spanish Beef Rice",
+  "recipe": "pasta-grains-spanish-beef-rice",
+  "section": "pasta-grains"
+ },
+ {
+  "image": "pasta-grains-italian-pasta-stir-fry.jpg",
+  "type": "recipe",
+  "name": "Italian Pasta Stir Fry",
+  "recipe": "pasta-grains-italian-pasta-stir-fry",
+  "section": "pasta-grains"
+ },
+ {
+  "image": "pasta-grains-japanese-fried-rice.jpg",
+  "type": "recipe",
+  "name": "Japanese Fried Rice",
+  "recipe": "pasta-grains-japanese-fried-rice",
+  "section": "pasta-grains"
+ },
+ {
+  "image": "pasta-grains-campbells-chicken-and-broccoli-alfredo.jpg",
+  "type": "recipe",
+  "name": "Campbell's Chicken and Broccoli Alfredo",
+  "recipe": "pasta-grains-campbells-chicken-and-broccoli-alfredo",
+  "section": "pasta-grains"
+ },
+ {
+  "image": "poultry-seafood-table-of-contents.jpg",
+  "type": "section table of contents",
+  "name": "Table of Contents",
+  "section": "poultry-seafood"
+ },
+ {
+  "image": "poultry-seafood-chicken-and-broccoli-casserole.jpg",
+  "type": "recipe",
+  "name": "Chicken and Broccoli Casserole",
+  "recipe": "poultry-seafood-chicken-and-broccoli-casserole",
+  "section": "poultry-seafood"
+ },
+ {
+  "image": "poultry-seafood-chicken-with-squiggly-noodles.jpg",
+  "type": "recipe",
+  "name": "Chicken with Squiggly Noodles",
+  "recipe": "poultry-seafood-chicken-with-squiggly-noodles",
+  "section": "poultry-seafood"
+ },
+ {
+  "image": "poultry-seafood-chicken-farfalla.jpg",
+  "type": "recipe",
+  "name": "Chicken Farfalla",
+  "recipe": "poultry-seafood-chicken-farfalla",
+  "section": "poultry-seafood"
+ },
+ {
+  "image": "poultry-seafood-parmesan-chicken.jpg",
+  "type": "recipe",
+  "name": "Parmesan Chicken",
+  "recipe": "poultry-seafood-parmesan-chicken",
+  "section": "poultry-seafood"
+ },
+ {
+  "image": "poultry-seafood-french-fried-shrimp.jpg",
+  "type": "recipe",
+  "name": "French Fried Shrimp",
+  "recipe": "poultry-seafood-french-fried-shrimp",
+  "section": "poultry-seafood"
+ },
+ {
+  "image": "poultry-seafood-overnight-chicken-casserole.jpg",
+  "type": "recipe",
+  "name": "Overnight Chicken Casserole",
+  "recipe": "poultry-seafood-overnight-chicken-casserole",
+  "section": "poultry-seafood"
+ },
+ {
+  "image": "poultry-seafood-italian-chicken.jpg",
+  "type": "recipe",
+  "name": "Italian Chicken",
+  "recipe": "poultry-seafood-italian-chicken",
+  "section": "poultry-seafood"
+ },
+ {
+  "image": "poultry-seafood-moms-chicken-parmesan.jpg",
+  "type": "recipe",
+  "name": "Mom's Chicken Parmesan",
+  "recipe": "poultry-seafood-moms-chicken-parmesan",
+  "section": "poultry-seafood"
+ },
+ {
+  "image": "poultry-seafood-fried-chicken.jpg",
+  "type": "recipe",
+  "name": "Fried Chicken",
+  "recipe": "poultry-seafood-fried-chicken",
+  "section": "poultry-seafood"
+ },
+ {
+  "image": "poultry-seafood-blackened-fish.jpg",
+  "type": "recipe",
+  "name": "Blackened Fish",
+  "recipe": "poultry-seafood-blackened-fish",
+  "section": "poultry-seafood"
+ },
+ {
+  "image": "meats-table-of-contents.jpg",
+  "type": "section table of contents",
+  "name": "Table of Contents",
+  "section": "meats"
+ },
+ {
+  "image": "meats-emmys-hamburger.jpg",
+  "type": "recipe",
+  "name": "Emmy's Hamburger",
+  "recipe": "meats-emmys-hamburger",
+  "section": "meats"
+ },
+ {
+  "image": "meats-french-dipped-sandwich.jpg",
+  "type": "recipe",
+  "name": "French Dipped Sandwich",
+  "recipe": "meats-french-dipped-sandwich",
+  "section": "meats"
+ },
+ {
+  "image": "meats-goulash.jpg",
+  "type": "recipe",
+  "name": "Goulash",
+  "recipe": "meats-goulash",
+  "section": "meats"
+ },
+ {
+  "image": "meats-hamburger-casserole.jpg",
+  "type": "recipe",
+  "name": "Hamburger Casserole",
+  "recipe": "meats-hamburger-casserole",
+  "section": "meats"
+ },
+ {
+  "image": "meats-chop-suey.jpg",
+  "type": "recipe",
+  "name": "Chop Suey",
+  "recipe": "meats-chop-suey",
+  "section": "meats"
+ },
+ {
+  "image": "meats-meatloaf.jpg",
+  "type": "recipe",
+  "name": "Meatloaf",
+  "recipe": "meats-meatloaf",
+  "section": "meats"
+ },
+ {
+  "image": "meats-macs-sloppy-joes.jpg",
+  "type": "recipe",
+  "name": "Mac's Sloppy Joes",
+  "recipe": "meats-macs-sloppy-joes",
+  "section": "meats"
+ },
+ {
+  "image": "meats-shish-kabob.jpg",
+  "type": "recipe",
+  "name": "Shish Kabob",
+  "recipe": "meats-shish-kabob",
+  "section": "meats"
+ },
+ {
+  "image": "meats-spaghetti-pie.jpg",
+  "type": "recipe",
+  "name": "Spaghetti Pie",
+  "recipe": "meats-spaghetti-pie",
+  "section": "meats"
+ },
+ {
+  "image": "meats-stew.jpg",
+  "type": "recipe",
+  "name": "Stew",
+  "recipe": "meats-stew",
+  "section": "meats"
+ },
+ {
+  "image": "meats-stuffed-peppers.jpg",
+  "type": "recipe",
+  "name": "Stuffed Peppers",
+  "recipe": "meats-stuffed-peppers",
+  "section": "meats"
+ },
+ {
+  "image": "meats-sloppy-joes.jpg",
+  "type": "recipe",
+  "name": "Sloppy Joes",
+  "recipe": "meats-sloppy-joes",
+  "section": "meats"
+ },
+ {
+  "image": "meats-stir-fry-beef.jpg",
+  "type": "recipe",
+  "name": "Stir Fry Beef",
+  "recipe": "meats-stir-fry-beef",
+  "section": "meats"
+ },
+ {
+  "image": "meats-flank-steak.jpg",
+  "type": "recipe",
+  "name": "Flank Steak",
+  "recipe": "meats-flank-steak",
+  "section": "meats"
+ },
+ {
+  "image": "meats-veal-scallopini.jpg",
+  "type": "recipe",
+  "name": "Veal Scallopini",
+  "recipe": "meats-veal-scallopini",
+  "section": "meats"
+ },
+ {
+  "image": "meats-beef-and-cabbage.jpg",
+  "type": "recipe",
+  "name": "Beef and Cabbage",
+  "recipe": "meats-beef-and-cabbage",
+  "section": "meats"
+ },
+ {
+  "image": "meats-chicken-stir-fry.jpg",
+  "type": "recipe",
+  "name": "Chicken Stir Fry",
+  "recipe": "meats-chicken-stir-fry",
+  "section": "meats"
+ },
+ {
+  "image": "meats-pizza-spaghetti-pie.jpg",
+  "type": "recipe",
+  "name": "Pizza Spaghetti Pie",
+  "recipe": "meats-pizza-spaghetti-pie",
+  "section": "meats"
+ },
+ {
+  "image": "desserts-table-of-contents.jpg",
+  "type": "section table of contents",
+  "name": "Table of Contents",
+  "section": "desserts"
+ },
+ {
+  "image": "desserts-boiled-custard.jpg",
+  "type": "recipe",
+  "name": "Boiled Custard",
+  "recipe": "desserts-boiled-custard",
+  "section": "desserts"
+ },
+ {
+  "image": "desserts-homemade-ice-cream.jpg",
+  "type": "recipe",
+  "name": "Homemade Ice Cream",
+  "recipe": "desserts-homemade-ice-cream",
+  "section": "desserts"
+ },
+ {
+  "image": "desserts-apple-dumplings.jpg",
+  "type": "recipe",
+  "name": "Apple Dumplings",
+  "recipe": "desserts-apple-dumplings",
+  "section": "desserts"
+ },
+ {
+  "image": "desserts-apple-crunch-pudding.jpg",
+  "type": "recipe",
+  "name": "Apple Crunch Pudding",
+  "recipe": "desserts-apple-crunch-pudding",
+  "section": "desserts"
+ },
+ {
+  "image": "desserts-rice-pudding.jpg",
+  "type": "recipe",
+  "name": "Rice Pudding",
+  "recipe": "desserts-rice-pudding",
+  "section": "desserts"
+ },
+ {
+  "image": "desserts-peanut-roll.jpg",
+  "type": "recipe",
+  "name": "Peanut Roll",
+  "recipe": "desserts-peanut-roll",
+  "section": "desserts"
+ },
+ {
+  "image": "desserts-turtle-cheesecake.jpg",
+  "type": "recipe",
+  "name": "Turtle Cheesecake",
+  "recipe": "desserts-turtle-cheesecake",
+  "section": "desserts"
+ },
+ {
+  "image": "desserts-applesauce.jpg",
+  "type": "recipe",
+  "name": "Applesauce",
+  "recipe": "desserts-applesauce",
+  "section": "desserts"
+ },
+ {
+  "image": "cakes-table-of-contents.jpg",
+  "type": "section table of contents",
+  "name": "Table of Contents",
+  "section": "cakes"
+ },
+ {
+  "image": "cakes-red-velvet-cake.jpg",
+  "type": "recipe",
+  "name": "Red Velvet Cake",
+  "recipe": "cakes-red-velvet-cake",
+  "section": "cakes"
+ },
+ {
+  "image": "cakes-red-velvet-frosting.jpg",
+  "type": "recipe",
+  "name": "Red Velvet Frosting",
+  "recipe": "cakes-red-velvet-frosting",
+  "section": "cakes"
+ },
+ {
+  "image": "cakes-lemon-cake-and-glaze.jpg",
+  "type": "recipe",
+  "name": "Lemon Cake and Glaze",
+  "recipe": "cakes-lemon-cake-and-glaze",
+  "section": "cakes"
+ },
+ {
+  "image": "cakes-wacky-cake.jpg",
+  "type": "recipe",
+  "name": "Wacky Cake",
+  "recipe": "cakes-wacky-cake",
+  "section": "cakes"
+ },
+ {
+  "image": "cakes-apple-upside-down-cake.jpg",
+  "type": "recipe",
+  "name": "Apple Upside-down Cake",
+  "recipe": "cakes-apple-upside-down-cake",
+  "section": "cakes"
+ },
+ {
+  "image": "cakes-apple-upside-down-cake-2.jpg",
+  "type": "recipe",
+  "name": "Apple Upside-down Cake 2",
+  "recipe": "cakes-apple-upside-down-cake-2",
+  "section": "cakes"
+ },
+ {
+  "image": "cakes-chocolate-pudding-cake.jpg",
+  "type": "recipe",
+  "name": "Chocolate Pudding Cake",
+  "recipe": "cakes-chocolate-pudding-cake",
+  "section": "cakes"
+ },
+ {
+  "image": "cakes-key-lime-cake.jpg",
+  "type": "recipe",
+  "name": "Key Lime Cake",
+  "recipe": "cakes-key-lime-cake",
+  "section": "cakes"
+ },
+ {
+  "image": "cakes-strawberry-cake.jpg",
+  "type": "recipe",
+  "name": "Strawberry Cake",
+  "recipe": "cakes-strawberry-cake",
+  "section": "cakes"
+ },
+ {
+  "image": "cakes-dirt-cake.jpg",
+  "type": "recipe",
+  "name": "Dirt Cake",
+  "recipe": "cakes-dirt-cake",
+  "section": "cakes"
+ },
+ {
+  "image": "cakes-lemon-angel-cake.jpg",
+  "type": "recipe",
+  "name": "Lemon Angel Cake",
+  "recipe": "cakes-lemon-angel-cake",
+  "section": "cakes"
+ },
+ {
+  "image": "cakes-carrot-cake.jpg",
+  "type": "recipe",
+  "name": "Carrot Cake",
+  "recipe": "cakes-carrot-cake",
+  "section": "cakes"
+ },
+ {
+  "image": "cakes-date-nut-bars.jpg",
+  "type": "recipe",
+  "name": "Date Nut Bars",
+  "recipe": "cakes-date-nut-bars",
+  "section": "cakes"
+ },
+ {
+  "image": "cakes-turtle-cake.jpg",
+  "type": "recipe",
+  "name": "Turtle Cake",
+  "recipe": "cakes-turtle-cake",
+  "section": "cakes"
+ },
+ {
+  "image": "pies-cookies-table-of-contents.jpg",
+  "type": "section table of contents",
+  "name": "Table of Contents",
+  "section": "pies-cookies"
+ },
+ {
+  "image": "pies-cookies-apple-crisp.jpg",
+  "type": "recipe",
+  "name": "Apple Crisp",
+  "recipe": "pies-cookies-apple-crisp",
+  "section": "pies-cookies"
+ },
+ {
+  "image": "pies-cookies-brownies.jpg",
+  "type": "recipe",
+  "name": "Brownies",
+  "recipe": "pies-cookies-brownies",
+  "section": "pies-cookies"
+ },
+ {
+  "image": "pies-cookies-cherry-cheese-tarts.jpg",
+  "type": "recipe",
+  "name": "Cherry Cheese Tarts",
+  "recipe": "pies-cookies-cherry-cheese-tarts",
+  "section": "pies-cookies"
+ },
+ {
+  "image": "pies-cookies-chocolate-fondue.jpg",
+  "type": "recipe",
+  "name": "Chocolate Fondue",
+  "recipe": "pies-cookies-chocolate-fondue",
+  "section": "pies-cookies"
+ },
+ {
+  "image": "pies-cookies-cream-caramels.jpg",
+  "type": "recipe",
+  "name": "Cream Caramels",
+  "recipe": "pies-cookies-cream-caramels",
+  "section": "pies-cookies"
+ },
+ {
+  "image": "pies-cookies-caramel-corn.jpg",
+  "type": "recipe",
+  "name": "Caramel Corn",
+  "recipe": "pies-cookies-caramel-corn",
+  "section": "pies-cookies"
+ },
+ {
+  "image": "pies-cookies-chocolate-fudge.jpg",
+  "type": "recipe",
+  "name": "Chocolate Fudge",
+  "recipe": "pies-cookies-chocolate-fudge",
+  "section": "pies-cookies"
+ },
+ {
+  "image": "pies-cookies-grasshopper-pie.jpg",
+  "type": "recipe",
+  "name": "Grasshopper Pie",
+  "recipe": "pies-cookies-grasshopper-pie",
+  "section": "pies-cookies"
+ },
+ {
+  "image": "pies-cookies-ice-cream-crunch.jpg",
+  "type": "recipe",
+  "name": "Ice Cream Crunch",
+  "recipe": "pies-cookies-ice-cream-crunch",
+  "section": "pies-cookies"
+ },
+ {
+  "image": "pies-cookies-peach-cobbler.jpg",
+  "type": "recipe",
+  "name": "Peach Cobbler",
+  "recipe": "pies-cookies-peach-cobbler",
+  "section": "pies-cookies"
+ },
+ {
+  "image": "pies-cookies-peach-pie.jpg",
+  "type": "recipe",
+  "name": "Peach Pie",
+  "recipe": "pies-cookies-peach-pie",
+  "section": "pies-cookies"
+ },
+ {
+  "image": "pies-cookies-peanut-butter-balls.jpg",
+  "type": "recipe",
+  "name": "Peanut Butter Balls",
+  "recipe": "pies-cookies-peanut-butter-balls",
+  "section": "pies-cookies"
+ },
+ {
+  "image": "pies-cookies-peanut-butter-fudge.jpg",
+  "type": "recipe",
+  "name": "Peanut Butter Fudge",
+  "recipe": "pies-cookies-peanut-butter-fudge",
+  "section": "pies-cookies"
+ },
+ {
+  "image": "pies-cookies-pumpkin-pie.jpg",
+  "type": "recipe",
+  "name": "Pumpkin Pie",
+  "recipe": "pies-cookies-pumpkin-pie",
+  "section": "pies-cookies"
+ },
+ {
+  "image": "pies-cookies-puppy-chow.jpg",
+  "type": "recipe",
+  "name": "Puppy Chow",
+  "recipe": "pies-cookies-puppy-chow",
+  "section": "pies-cookies"
+ },
+ {
+  "image": "pies-cookies-strawberry-pie.jpg",
+  "type": "recipe",
+  "name": "Strawberry Pie",
+  "recipe": "pies-cookies-strawberry-pie",
+  "section": "pies-cookies"
+ },
+ {
+  "image": "pies-cookies-hershey-bar-pie.jpg",
+  "type": "recipe",
+  "name": "Hershey Bar Pie",
+  "recipe": "pies-cookies-hershey-bar-pie",
+  "section": "pies-cookies"
+ },
+ {
+  "image": "pies-cookies-anitas-delight.jpg",
+  "type": "recipe",
+  "name": "Anita's Delight",
+  "recipe": "pies-cookies-anitas-delight",
+  "section": "pies-cookies"
+ },
+ {
+  "image": "pies-cookies-dishpan-cookies.jpg",
+  "type": "recipe",
+  "name": "Dishpan Cookies",
+  "recipe": "pies-cookies-dishpan-cookies",
+  "section": "pies-cookies"
+ },
+ {
+  "image": "pies-cookies-oatmeal-crispers.jpg",
+  "type": "recipe",
+  "name": "Oatmeal Crispers",
+  "recipe": "pies-cookies-oatmeal-crispers",
+  "section": "pies-cookies"
+ },
+ {
+  "image": "pies-cookies-peanut-butter-cookies.jpg",
+  "type": "recipe",
+  "name": "Peanut Butter Cookies",
+  "recipe": "pies-cookies-peanut-butter-cookies",
+  "section": "pies-cookies"
+ },
+ {
+  "image": "pies-cookies-molasses-cookies.jpg",
+  "type": "recipe",
+  "name": "Molasses Cookies",
+  "recipe": "pies-cookies-molasses-cookies",
+  "section": "pies-cookies"
+ },
+ {
+  "image": "pies-cookies-grandmas-sugar-cookies.jpg",
+  "type": "recipe",
+  "name": "Grandma's Sugar Cookies",
+  "recipe": "pies-cookies-grandmas-sugar-cookies",
+  "section": "pies-cookies"
+ },
+ {
+  "image": "pies-cookies-sugar-cookie-cut-outs.jpg",
+  "type": "recipe",
+  "name": "Sugar Cookie Cut-outs",
+  "recipe": "pies-cookies-sugar-cookie-cut-outs",
+  "section": "pies-cookies"
+ },
+ {
+  "image": "miscellaneous-table-of-contents.jpg",
+  "type": "section table of contents",
+  "name": "Table of Contents",
+  "section": "miscellaneous"
+ },
+ {
+  "image": "miscellaneous-cranberry-quick-cookies.jpg",
+  "type": "recipe",
+  "name": "Cranberry Quick Cookies",
+  "recipe": "miscellaneous-cranberry-quick-cookies",
+  "section": "miscellaneous"
+ },
+ {
+  "image": "miscellaneous-cherry-chip-cookies.jpg",
+  "type": "recipe",
+  "name": "Cherry Chip Cookies",
+  "recipe": "miscellaneous-cherry-chip-cookies",
+  "section": "miscellaneous"
+ },
+ {
+  "image": "miscellaneous-cinnamon-stars.jpg",
+  "type": "recipe",
+  "name": "Cinnamon Stars",
+  "recipe": "miscellaneous-cinnamon-stars",
+  "section": "miscellaneous"
+ },
+ {
+  "image": "miscellaneous-cornflake-macaroons.jpg",
+  "type": "recipe",
+  "name": "Cornflake Macaroons",
+  "recipe": "miscellaneous-cornflake-macaroons",
+  "section": "miscellaneous"
+ },
+ {
+  "image": "miscellaneous-apricot-oatmeal-cookies.jpg",
+  "type": "recipe",
+  "name": "Apricot Oatmeal Cookies",
+  "recipe": "miscellaneous-apricot-oatmeal-cookies",
+  "section": "miscellaneous"
+ },
+ {
+  "image": "miscellaneous-caramel-oatmeal-chewies.jpg",
+  "type": "recipe",
+  "name": "Caramel Oatmeal Chewies",
+  "recipe": "miscellaneous-caramel-oatmeal-chewies",
+  "section": "miscellaneous"
+ },
+ {
+  "image": "miscellaneous-snickerdoodles.jpg",
+  "type": "recipe",
+  "name": "Snickerdoodles",
+  "recipe": "miscellaneous-snickerdoodles",
+  "section": "miscellaneous"
+ },
+ {
+  "image": "miscellaneous-polka-dot-cookies.jpg",
+  "type": "recipe",
+  "name": "Polka Dot Cookies",
+  "recipe": "miscellaneous-polka-dot-cookies",
+  "section": "miscellaneous"
+ },
+ {
+  "image": "miscellaneous-ginger-snaps.jpg",
+  "type": "recipe",
+  "name": "Ginger Snaps",
+  "recipe": "miscellaneous-ginger-snaps",
+  "section": "miscellaneous"
+ },
+ {
+  "image": "miscellaneous-asian-slaw.jpg",
+  "type": "recipe",
+  "name": "Asian Slaw",
+  "recipe": "miscellaneous-asian-slaw",
+  "section": "miscellaneous"
+ },
+ {
+  "image": "miscellaneous-peanut-butter-bread.jpg",
+  "type": "recipe",
+  "name": "Peanut Butter Bread",
+  "recipe": "miscellaneous-peanut-butter-bread",
+  "section": "miscellaneous"
+ },
+ {
+  "image": "miscellaneous-chocolate-chip-coconut-macaroons.jpg",
+  "type": "recipe",
+  "name": "Chocolate Chip Coconut Macaroons",
+  "recipe": "miscellaneous-chocolate-chip-coconut-macaroons",
+  "section": "miscellaneous"
+ },
+ {
+  "image": "cookbook-cover-back.jpg",
+  "type": "front matter",
+  "name": "Cookbook Cover Back"
+ }
+]

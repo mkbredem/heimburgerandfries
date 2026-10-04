@@ -1,0 +1,124 @@
+---
+import { Image, getImage } from 'astro:assets';
+import { getCollection, render } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import ShareButton from '../../components/ShareButton.astro';
+import { sectionBySlug } from '../../data/sections';
+import { bookRecipes, recipeUrl, sectionUrl } from '../../lib/recipes';
+
+export async function getStaticPaths() {
+  const recipes = await bookRecipes();
+  return recipes.map((recipe, i) => ({
+    params: { slug: recipe.id },
+    props: { recipe, prev: recipes[i - 1], next: recipes[i + 1] },
+  }));
+}
+
+const { recipe, prev, next } = Astro.props;
+const d = recipe.data;
+const section = sectionBySlug(d.section);
+const { Content } = await render(recipe);
+const hasText = d.transcription_status !== 'pending';
+const full = await getImage({ src: d.scan, format: 'webp', quality: 90 });
+const subs = (await getCollection('submissions'))
+  .filter((s) => s.data.recipe === recipe.id)
+  .sort((a, b) => b.data.submitted_on.valueOf() - a.data.submitted_on.valueOf());
+const mods = subs.filter((s) => s.data.kind === 'modification');
+const photos = subs.filter((s) => s.data.photo);
+const facts = [d.serves && `Makes ${d.serves}`, d.printed_page && `Book page ${d.printed_page}`].filter(Boolean).join(' · ');
+const rendered = await Promise.all(mods.map(async (m) => ({ m, C: (await render(m)).Content })));
+---
+<Base title={d.title} current="recipes" description={`${d.title} from With Love From My Kitchen.`}>
+  <div class="wrap">
+    <nav class="breadcrumb" aria-label="Breadcrumb"><a href="/">Home</a> › <a href={sectionUrl(section.slug)}>{section.name}</a> › {d.title}</nav>
+
+    <div class="recipe-head">
+      <div>
+        <h1>{d.title}</h1>
+        {facts && <p>{facts}</p>}
+      </div>
+      <div class="recipe-actions">
+        {hasText && <button class="btn btn-outline" type="button" data-print>Print recipe</button>}
+        <ShareButton recipe={d.title} />
+      </div>
+    </div>
+
+    <div class="recipe-body">
+      <figure class="scan">
+        <a href={full.src} data-viewer aria-label={`View the original page for ${d.title} at full size`}>
+          <Image src={d.scan} alt={`Original handwritten cookbook page for ${d.title}`} width={800} format="webp" loading="eager" />
+        </a>
+        <figcaption>The original page — tap to view full size</figcaption>
+      </figure>
+
+      <article class="typed panel" data-pagefind-body data-pagefind-meta={`section:${section.name}`}>
+        <h2 class="visually-hidden" data-pagefind-meta="title">{d.title}</h2>
+        {d.transcription_status === 'draft' && <p class="note" data-pagefind-ignore>Draft transcription — compare with the original page and tell us about mistakes</p>}
+        {!hasText && (
+          <div data-pagefind-ignore>
+            <p class="note">Not typed up yet</p>
+            <p>This recipe hasn't been typed up yet, so it can only be read from the original page. Typed recipes can be printed and found by ingredient in search.</p>
+          </div>
+        )}
+        {hasText && (
+          <>
+            <div class="ingredients">
+              {d.ingredients.map((g) => (
+                <section>
+                  <h2>{g.group ?? 'Ingredients'}</h2>
+                  <ul>{g.items.map((i) => <li>{i}</li>)}</ul>
+                </section>
+              ))}
+            </div>
+            <div class="directions">
+              <h2>Directions</h2>
+              <Content />
+            </div>
+          </>
+        )}
+        {d.tags.length > 0 && <p class="visually-hidden">{d.tags.join(', ')}</p>}
+      </article>
+    </div>
+
+    <section class="versions" aria-labelledby="fam-h" data-pagefind-ignore>
+      <div class="section-title"><h2 id="fam-h">Family versions &amp; photos</h2></div>
+      {subs.length === 0 && (
+        <div class="panel-dashed empty">
+          <p>Nobody has shared a version of {d.title} yet. Made a change, or want to show how it turned out? It appears here after a family approver reviews it.</p>
+          <ShareButton recipe={d.title} variant="outline-rose" />
+        </div>
+      )}
+      {rendered.map(({ m, C }) => (
+        <div class="panel version">
+          <div class="version-meta">{m.data.submitted_by} · {m.data.submitted_on.toLocaleDateString('en-US', { month: 'long', year: 'numeric' })}</div>
+          <C />
+        </div>
+      ))}
+      {photos.length > 0 && (
+        <div class="photos">
+          {photos.map((p) => p.data.photo && (
+            <figure style="margin: 0">
+              <Image src={p.data.photo} alt={p.data.photo_alt ?? `${d.title} made by ${p.data.submitted_by}`} width={600} format="webp" />
+              <figcaption class="version-meta">Made by {p.data.submitted_by}</figcaption>
+            </figure>
+          ))}
+        </div>
+      )}
+    </section>
+
+    <nav class="book-nav" aria-label="Book order">
+      {prev ? <a href={recipeUrl(prev.id)}><small>← Previous recipe</small><span>{prev.data.title}</span></a> : <span></span>}
+      {next && <a class="next" href={recipeUrl(next.id)}><small>Next recipe →</small><span>{next.data.title}</span></a>}
+    </nav>
+  </div>
+
+  <dialog class="viewer" aria-label={`Original page for ${d.title}`}>
+    <img src={full.src} alt={`Original handwritten cookbook page for ${d.title}, full size`} />
+    <form method="dialog"><button class="btn btn-rose" type="submit">Close</button></form>
+  </dialog>
+  <script is:inline src="/js/recipe.js" defer></script>
+</Base>
+<style>
+  .empty { display: flex; flex-wrap: wrap; gap: 16px 32px; align-items: center; justify-content: space-between; }
+  .empty p { margin: 0; flex: 1 1 360px; color: var(--ink-soft); }
+</style>

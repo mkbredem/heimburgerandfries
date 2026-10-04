@@ -1,0 +1,50 @@
+---
+import Base from '../../layouts/Base.astro';
+import RecipeCard from '../../components/RecipeCard.astro';
+import { SECTIONS } from '../../data/sections';
+import { bookRecipes, recipeUrl } from '../../lib/recipes';
+
+export async function getStaticPaths() {
+  const recipes = await bookRecipes();
+  return SECTIONS.map((section) => ({
+    params: { slug: section.slug },
+    props: { section, recipes: recipes.filter((r) => r.data.section === section.slug) },
+  }));
+}
+const { section, recipes } = Astro.props;
+---
+<Base title={section.name} current="recipes">
+  <div class="wrap">
+    <nav class="breadcrumb" aria-label="Breadcrumb"><a href="/">Home</a> › <a href="/recipes/">Recipes</a> › {section.name}</nav>
+    <div class="head">
+      <div>
+        <h1>{section.name}</h1>
+        <p>{recipes.length} recipes in this section of the book</p>
+      </div>
+      <div class="filter">
+        <label for="filter">Filter this section</label>
+        <input id="filter" type="search" placeholder="e.g. banana, loaf, jam" data-filter-input />
+      </div>
+    </div>
+    <div class="cards" data-filter-list>
+      {recipes.map((r) => (
+        <div data-filter-text={`${r.data.title} ${r.data.tags.join(' ')} ${r.data.ingredients.flatMap((g) => g.items).join(' ')}`.toLowerCase()}>
+          <RecipeCard href={recipeUrl(r.id)} title={r.data.title} image={r.data.scan} meta={r.data.printed_page ? `Book page ${r.data.printed_page}` : undefined} />
+        </div>
+      ))}
+    </div>
+    <p data-filter-empty hidden>No recipes in this section match that. <a href="/search/">Search the whole book</a>.</p>
+  </div>
+  <script is:inline src="/js/filter.js" defer></script>
+</Base>
+<style>
+  .head { display: flex; flex-wrap: wrap; gap: 16px 32px; align-items: flex-end; justify-content: space-between; margin-bottom: 28px; }
+  .head > div:first-child { flex: 1 1 480px; }
+  h1 { font-size: clamp(32px, 4.5vw, 48px); color: var(--rose); margin-bottom: 6px; }
+  .head p { margin: 0; color: var(--ink-soft); }
+  .filter { flex: 0 1 340px; display: flex; flex-direction: column; gap: 6px; }
+  .filter label { font-size: 15px; font-weight: 600; color: var(--ink-soft); }
+  .filter input { height: 48px; padding: 0 16px; font: inherit; color: var(--ink); background: #fff; border: 2px solid #C9BBA5; border-radius: 24px; }
+  .cards > div { display: flex; }
+  .cards > div > :global(a) { flex: 1; }
+</style>

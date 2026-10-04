@@ -1,0 +1,36 @@
+---
+import { Image } from 'astro:assets';
+import { getCollection, render } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+
+export async function getStaticPaths() {
+  const additions = await getCollection('family-additions');
+  return additions.map((entry) => ({ params: { slug: entry.id }, props: { entry } }));
+}
+const { entry } = Astro.props;
+const d = entry.data;
+const { Content } = await render(entry);
+---
+<Base title={d.title} current="additions">
+  <div class="wrap">
+    <nav class="breadcrumb" aria-label="Breadcrumb"><a href="/">Home</a> › <a href="/family-additions/">Family Additions</a> › {d.title}</nav>
+    <div class="recipe-head">
+      <div>
+        <p class="eyebrow" style="color: var(--blue)">Family Addition · added by {d.submitted_by}</p>
+        <h1 style="color: var(--blue)">{d.title}</h1>
+        {d.serves && <p>Makes {d.serves}</p>}
+      </div>
+      <div class="recipe-actions"><button class="btn btn-outline" type="button" data-print>Print recipe</button></div>
+    </div>
+    <div class="recipe-body">
+      {d.photo && <figure class="scan"><Image src={d.photo} alt={`${d.title}, made by ${d.submitted_by}`} width={800} format="webp" /></figure>}
+      <article class="typed panel" style="background: var(--blue-tint); border-color: transparent" data-pagefind-body data-pagefind-meta="section:Family Additions">
+        <div class="ingredients">
+          {d.ingredients.map((g) => <section><h2>{g.group ?? 'Ingredients'}</h2><ul>{g.items.map((i) => <li>{i}</li>)}</ul></section>)}
+        </div>
+        <div class="directions"><h2>Directions</h2><Content /></div>
+      </article>
+    </div>
+  </div>
+  <script is:inline src="/js/recipe.js" defer></script>
+</Base>

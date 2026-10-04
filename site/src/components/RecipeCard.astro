@@ -1,0 +1,16 @@
+---
+import { Image } from 'astro:assets';
+import type { ImageMetadata } from 'astro';
+
+interface Props { href: string; title: string; image?: ImageMetadata; meta?: string; addition?: boolean }
+const { href, title, image, meta, addition = false } = Astro.props;
+---
+<a class:list={['card', { 'card-addition': addition }]} href={href}>
+  <div class="card-thumb">
+    {image && <Image src={image} alt="" width={400} format="webp" loading="lazy" />}
+  </div>
+  <div class="card-body">
+    <div class="card-title">{title}</div>
+    {meta && <div class="card-meta">{meta}</div>}
+  </div>
+</a>

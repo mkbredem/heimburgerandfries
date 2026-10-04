@@ -1,0 +1,24 @@
+---
+import Base from '../layouts/Base.astro';
+import { shareLink } from '../data/site';
+const link = shareLink();
+---
+<Base title="Share a dish" current="share">
+  <div class="wrap" style="max-width: 760px">
+    <nav class="breadcrumb" aria-label="Breadcrumb"><a href="/">Home</a> › Share a dish</nav>
+    <h1 style="font-size: clamp(32px, 4.5vw, 48px); color: var(--rose); margin-bottom: 16px">Share a dish</h1>
+    <p>There are three things you can share:</p>
+    <ul>
+      <li><strong>A photo</strong> of a recipe from the book that you made.</li>
+      <li><strong>A change</strong> you make to a recipe — "I use butter instead of margarine," "bake 50 minutes in a convection oven."</li>
+      <li><strong>A new recipe</strong> for the Family Additions section.</li>
+    </ul>
+    <p>Everything you send is reviewed by a family approver before it appears on the site. Only your first name is shown.</p>
+    {link ? (
+      <p><a class="btn btn-rose" href={link} target="_blank" rel="noopener">Open the sharing form</a></p>
+    ) : (
+      <p class="panel-dashed">The sharing form is being set up. Check back soon.</p>
+    )}
+    <p style="font-size: 15px; color: var(--muted)">The form is a Google Form. Uploading a photo asks you to sign in with a Google account.</p>
+  </div>
+</Base>

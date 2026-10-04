@@ -1,0 +1,140 @@
+#!/usr/bin/env python3
+"""Import the legacy cookbook scans into the Astro site.
+
+Reads ../docs/phase-1/scan-inventory.csv and the page-turning chain in
+../linux/*.htm, then writes:
+  src/assets/scans/<new-name>.jpg     renamed copies of every scan
+  src/content/recipes/<slug>.md       one file per recipe (existing files are never overwritten)
+  src/data/book.json                  every page in book order, for "Read the book"
+  public/_redirects                   old page and image URLs -> new URLs
+
+Run from the site/ folder:  python3 scripts/import_legacy.py
+"""
+import csv, json, os, re, shutil, urllib.parse
+from pathlib import Path
+
+SITE = Path(__file__).resolve().parent.parent
+REPO = SITE.parent
+LEGACY = REPO / "linux"
+INVENTORY = REPO / "docs" / "phase-1" / "scan-inventory.csv"
+
+SECTION_SLUG = {
+    "Appetizers, Beverages and Party Foods": "appetizers",
+    "Breads, Preserves, Jellies and Pickles": "breads",
+    "Salads, Salad Dressings, Soups and Sandwiches": "salads-soups",
+    "Eggs and Cheese": "eggs-cheese",
+    "Vegetables and Vegetable Snacks": "vegetables",
+    "Pasta and Grains": "pasta-grains",
+    "Poultry, Fish and Seafoods": "poultry-seafood",
+    "Meats, Gravies and Meat Sauces": "meats",
+    "Desserts, Fruits and Ices": "desserts",
+    "Cakes, Frostings and Fillings": "cakes",
+    "Pies, Cookies, Candies and Pastries": "pies-cookies",
+    "Miscellaneous Extras, Secrets and Hints": "miscellaneous",
+}
+
+
+def read_spread(path):
+    """Return ([left_image, right_image], next_page_file) for one legacy spread page.
+
+    Each image is wrapped in a link; the link around the right-hand (last)
+    image points to the next spread."""
+    html = path.read_text(encoding="latin-1")
+    imgs = [urllib.parse.unquote(s)[len("images/"):] for s in re.findall(r'src="(images/[^"]+)"', html)]
+    pairs = re.findall(r'<a href="([^"]+)">\s*<img[^>]*src="(images/[^"]+)"', html)
+    nxt = None
+    if pairs and imgs and urllib.parse.unquote(pairs[-1][1])[len("images/"):] == imgs[-1]:
+        target = urllib.parse.unquote(pairs[-1][0])
+        if target.endswith(".htm"):
+            nxt = target
+    return imgs, nxt
+
+
+def main():
+    rows = {r["current_file"]: r for r in csv.DictReader(INVENTORY.open())}
+    scans_dir = SITE / "src" / "assets" / "scans"
+    recipes_dir = SITE / "src" / "content" / "recipes"
+    data_dir = SITE / "src" / "data"
+    for d in (scans_dir, recipes_dir, data_dir, SITE / "public"):
+        d.mkdir(parents=True, exist_ok=True)
+
+    # 1. Copy every scan except the blank-page images under its new name.
+    for old, r in rows.items():
+        if r["type"] == "blank page":
+            continue
+        dest = scans_dir / r["proposed_file"]
+        if not dest.exists():
+            shutil.copy2(LEGACY / "images" / old, dest)
+
+    # 2. Walk the page-turning chain from the first spread to build book order.
+    order, seen, page_file, spread_of = [], set(), "Page 1 and 2.htm", {}
+    order.append(rows["Cookbook Cover.jpg"])
+    while page_file and page_file not in seen and (LEGACY / page_file).exists():
+        seen.add(page_file)
+        imgs, nxt = read_spread(LEGACY / page_file)
+        for img in imgs:
+            r = rows.get(img)
+            if r and r["type"] != "blank page" and r not in order:
+                order.append(r)
+                spread_of.setdefault(page_file, r)
+        page_file = nxt
+    for r in rows.values():  # index pages and back cover are not in the chain
+        if r["type"] == "book index page" and r not in order:
+            order.append(r)
+    order.append(rows["Cookbook Cover Back.jpg"])
+
+    # 3. Recipe Markdown files, numbered by book position.
+    recipes = [r for r in order if r["type"] == "recipe"]
+    for pos, r in enumerate(recipes, start=1):
+        slug = r["proposed_file"][:-4]
+        md = recipes_dir / f"{slug}.md"
+        if md.exists():
+            continue  # keep transcriptions people have already edited
+        title = r["name"].replace('"', '\\"')
+        md.write_text(
+            "---\n"
+            f'title: "{title}"\n'
+            f"section: {SECTION_SLUG[r['section']]}\n"
+            f"book_order: {pos}\n"
+            f"scan: ../../assets/scans/{r['proposed_file']}\n"
+            "source: book\n"
+            "transcription_status: pending\n"
+            "tags: []\n"
+            "ingredients: []\n"
+            "---\n"
+        )
+
+    book = []
+    for r in order:
+        entry = {"image": r["proposed_file"], "type": r["type"], "name": r["name"]}
+        if r["type"] == "recipe":
+            entry["recipe"] = r["proposed_file"][:-4]
+        if r["section"] in SECTION_SLUG:
+            entry["section"] = SECTION_SLUG[r["section"]]
+        book.append(entry)
+    (data_dir / "book.json").write_text(json.dumps(book, indent=1))
+
+    # 4. Redirects from the old site's URLs. Spaces are percent-encoded.
+    def enc(p):
+        return "/" + urllib.parse.quote(p)
+
+    lines = ["# Generated by scripts/import_legacy.py - old site URLs", "/index.html / 301"]
+    for old, r in rows.items():
+        if r["type"] == "recipe":
+            lines.append(f"{enc('images/' + old)} /recipes/{r['proposed_file'][:-4]}/ 301")
+    for page in sorted(p.name for p in LEGACY.glob("Page *.htm")):
+        imgs, _ = read_spread(LEGACY / page)
+        target = "/book/"
+        for img in imgs:
+            r = rows.get(img)
+            if r and r["type"] == "recipe":
+                target = f"/recipes/{r['proposed_file'][:-4]}/"
+                break
+        lines.append(f"{enc(page)} {target} 301")
+    (SITE / "public" / "_redirects").write_text("\n".join(lines) + "\n")
+
+    print(f"{len(recipes)} recipes, {len(book)} book pages, {len(lines) - 1} redirects")
+
+
+if __name__ == "__main__":
+    main()

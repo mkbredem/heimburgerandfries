@@ -1,0 +1,11 @@
+---
+import Base from '../layouts/Base.astro';
+import SearchForm from '../components/SearchForm.astro';
+---
+<Base title="Page not found">
+  <div class="wrap" style="padding-top: 56px">
+    <h1 style="font-size: 40px; color: var(--rose); margin-bottom: 12px">That page isn't in the book</h1>
+    <p>The page may have moved when the site was updated. Try searching for the recipe:</p>
+    <SearchForm />
+  </div>
+</Base>

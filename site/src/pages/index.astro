@@ -1,0 +1,88 @@
+---
+import { Image } from 'astro:assets';
+import Base from '../layouts/Base.astro';
+import SearchForm from '../components/SearchForm.astro';
+import ShareButton from '../components/ShareButton.astro';
+import { SECTIONS } from '../data/sections';
+import { bookRecipes, recipeUrl, sectionUrl } from '../lib/recipes';
+import cover from '../assets/scans/cookbook-cover.jpg';
+
+const recipes = await bookRecipes();
+const countFor = (slug: string) => recipes.filter((r) => r.data.section === slug).length;
+const popularIds = ['pies-cookies-grandmas-sugar-cookies', 'pies-cookies-puppy-chow', 'breads-lemon-tea-bread', 'pies-cookies-pumpkin-pie'];
+const popular = popularIds.map((id) => recipes.find((r) => r.id === id)).filter((r) => r !== undefined);
+---
+<Base>
+  <section class="wrap hero">
+    <div class="hero-cover">
+      <Image src={cover} alt="Cover of With Love From My Kitchen by Mom, Sue Heimburger Frisby" width={600} format="webp" loading="eager" />
+    </div>
+    <div class="hero-text">
+      <p class="eyebrow">The family cookbook</p>
+      <h1>With Love From<br /><em>My Kitchen</em></h1>
+      <p class="lede">Mom's collection of recipes, hints, secrets and heirloom treasures of good eating — {recipes.length} recipes, every one in her book's own pages.</p>
+      <SearchForm />
+      <div class="popular">
+        <span>Popular:</span>
+        {popular.map((r) => <a class="chip" href={recipeUrl(r.id)}>{r.data.title}</a>)}
+      </div>
+    </div>
+  </section>
+
+  <section class="wrap" aria-labelledby="sections-h" style="padding-top: 24px; padding-bottom: 56px">
+    <div class="section-title"><h2 id="sections-h">Browse the book</h2></div>
+    <div class="tiles">
+      {SECTIONS.map((s) => (
+        <a class="tile" href={sectionUrl(s.slug)}>
+          <span class="tile-name">{s.name}</span>
+          <span class="tile-sub">{s.blurb}</span>
+          <span class="tile-count">{countFor(s.slug)} recipes →</span>
+        </a>
+      ))}
+    </div>
+  </section>
+
+  <section class="band">
+    <div class="wrap band-inner">
+      <div>
+        <h2>Read the book cover to cover</h2>
+        <p>Turn the pages just like the real cookbook — Mom's note, the preface, and every section in order.</p>
+      </div>
+      <a class="btn btn-outline-rose" href="/book/">Open the book</a>
+    </div>
+  </section>
+
+  <section class="wrap duo" style="padding-top: 56px">
+    <div class="panel-dashed">
+      <h2>From the family table</h2>
+      <p>Made something from the book? Share a photo of how it turned out, or the change you make every time. Photos appear on the recipe's page after a family approver reviews them.</p>
+      <ShareButton label="Share your dish" type="Photo of the finished dish" />
+    </div>
+    <div class="panel additions">
+      <p class="eyebrow" style="color: var(--blue)">New to the family</p>
+      <h2>Family Additions</h2>
+      <p>Recipes the family has added since the book was written, kept in their own section so the original pages stay just as Mom wrote them.</p>
+      <a class="btn btn-outline" href="/family-additions/">See Family Additions</a>
+    </div>
+  </section>
+</Base>
+
+<style>
+  .hero { display: flex; flex-wrap: wrap; gap: 48px; align-items: center; padding-top: 56px; padding-bottom: 40px; }
+  .hero-cover { flex: 0 1 300px; margin: 0 auto; }
+  .hero-cover img { display: block; width: 100%; max-width: 300px; border-radius: 4px; box-shadow: 0 1px 2px rgba(46,42,38,.12), 0 12px 32px rgba(46,42,38,.16); transform: rotate(-1.5deg); }
+  .hero-text { flex: 999 1 420px; min-width: 0; }
+  h1 { font-size: clamp(40px, 6vw, 64px); line-height: 1.05; color: var(--rose); margin-bottom: 16px; }
+  h1 em { font-weight: 400; }
+  .lede { margin: 0 0 28px; max-width: 34em; font-size: 20px; color: var(--ink-soft); }
+  .popular { margin-top: 16px; display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 15px; color: var(--muted); }
+  .band { background: var(--sand); border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); }
+  .band-inner { display: flex; flex-wrap: wrap; gap: 24px 32px; align-items: center; justify-content: space-between; padding-top: 48px; padding-bottom: 48px; }
+  .band h2 { font-size: 30px; margin-bottom: 8px; }
+  .band p { margin: 0; color: var(--ink-soft); max-width: 36em; }
+  .duo { display: flex; flex-wrap: wrap; gap: 32px; }
+  .duo > div { flex: 1 1 420px; }
+  .duo h2 { font-size: 26px; margin-bottom: 8px; }
+  .duo p { color: var(--ink-soft); }
+  .additions { background: var(--blue-tint); border-color: transparent; }
+</style>
