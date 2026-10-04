@@ -1,24 +1,19 @@
 ---
 import Base from '../layouts/Base.astro';
-import { shareLink } from '../data/site';
-const link = shareLink();
 ---
 <Base title="Share a dish" current="share">
   <div class="wrap" style="max-width: 760px">
     <nav class="breadcrumb" aria-label="Breadcrumb"><a href="/">Home</a> › Share a dish</nav>
     <h1 style="font-size: clamp(32px, 4.5vw, 48px); color: var(--rose); margin-bottom: 16px">Share a dish</h1>
-    <p>There are three things you can share:</p>
-    <ul>
-      <li><strong>A photo</strong> of a recipe from the book that you made.</li>
-      <li><strong>A change</strong> you make to a recipe — "I use butter instead of margarine," "bake 50 minutes in a convection oven."</li>
-      <li><strong>A new recipe</strong> for the Family Additions section.</li>
-    </ul>
+    <h2 style="font-size: 26px; margin: 8px 0 8px">A photo or a change to a recipe in the book</h2>
+    <ol>
+      <li><a href="/search/">Search</a> for the recipe, or find it under <a href="/recipes/">Recipes</a>, and open its page.</li>
+      <li>Click <strong>Share your version</strong> near the recipe's title.</li>
+      <li>The form opens with the recipe already filled in. Add your first name, a photo, your change, or both, and click <strong>Submit</strong>.</li>
+    </ol>
+    <h2 style="font-size: 26px; margin: 28px 0 8px">A new recipe</h2>
+    <p>Go to <a href="/family-additions/">Family Additions</a> and click <strong>Submit a new recipe</strong>.</p>
     <p>Everything you send is reviewed by a family approver before it appears on the site. Only your first name is shown.</p>
-    {link ? (
-      <p><a class="btn btn-rose" href={link} target="_blank" rel="noopener">Open the sharing form</a></p>
-    ) : (
-      <p class="panel-dashed">The sharing form is being set up. Check back soon.</p>
-    )}
     <p style="font-size: 15px; color: var(--muted)">The form is a Google Form. Uploading a photo asks you to sign in with a Google account.</p>
   </div>
 </Base>

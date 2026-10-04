@@ -3,6 +3,7 @@ import { getCollection } from 'astro:content';
 import Base from '../../layouts/Base.astro';
 import RecipeCard from '../../components/RecipeCard.astro';
 import ShareButton from '../../components/ShareButton.astro';
+import { SHARE_TYPES } from '../../data/site';
 
 const additions = (await getCollection('family-additions')).sort((a, b) => a.data.title.localeCompare(b.data.title));
 ---
@@ -15,7 +16,7 @@ const additions = (await getCollection('family-additions')).sort((a, b) => a.dat
     {additions.length === 0 ? (
       <div class="panel" style="background: var(--blue-tint); border-color: transparent">
         <p style="margin-top: 0">No Family Additions yet. Have a recipe the family should keep?</p>
-        <ShareButton label="Submit a new recipe" type="New recipe" variant="outline" />
+        <ShareButton label="Submit a new recipe" type={SHARE_TYPES.newRecipe} variant="outline" />
       </div>
     ) : (
       <div class="cards">

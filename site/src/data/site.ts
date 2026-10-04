@@ -5,13 +5,18 @@ export const SITE = {
 };
 
 // Google Form for modifications, dish photos and new recipes (phase 5).
-// Leave formUrl empty until the form exists; the buttons then explain that
-// sharing is coming soon instead of linking nowhere.
+// Answers for "What are you sharing?" must match the form's options exactly.
+export const SHARE_TYPES = {
+  change: 'A change to a recipe in the book',
+  photo: 'A photo of a dish from the book',
+  newRecipe: 'A new recipe for Family Additions',
+} as const;
+
 export const SHARE_FORM = {
-  formUrl: '',
+  formUrl: 'https://docs.google.com/forms/d/e/1FAIpQLSeGKWhHIwLQ16H2O1SFpH_sZ9LKc5IOPKTZ_E0P7yDswK_qsg/viewform',
   // Pre-filled field IDs from the form's "Get pre-filled link" option, e.g. 'entry.123456'.
-  recipeField: '',
-  typeField: '',
+  recipeField: 'entry.568378890', // "Which recipe?"
+  typeField: 'entry.14002873', // "What are you sharing?"
 };
 
 export function shareLink(recipeTitle?: string, type?: string): string | null {

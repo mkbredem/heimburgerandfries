@@ -2,7 +2,6 @@
 import { Image } from 'astro:assets';
 import Base from '../layouts/Base.astro';
 import SearchForm from '../components/SearchForm.astro';
-import ShareButton from '../components/ShareButton.astro';
 import { SECTIONS } from '../data/sections';
 import { listedRecipes as bookRecipes, recipeUrl, sectionUrl } from '../lib/recipes';
 import cover from '../assets/scans/cookbook-cover.jpg';
@@ -56,7 +55,7 @@ const popular = popularIds.map((id) => recipes.find((r) => r.id === id)).filter(
     <div class="panel-dashed">
       <h2>From the family table</h2>
       <p>Made something from the book? Share a photo of how it turned out, or the change you make every time. Photos appear on the recipe's page after a family approver reviews them.</p>
-      <ShareButton label="Share your dish" type="Photo of the finished dish" />
+      <a class="btn btn-rose" href="/share/">How to share your dish</a>
     </div>
     <div class="panel additions">
       <p class="eyebrow" style="color: var(--blue)">New to the family</p>
