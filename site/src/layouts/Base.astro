@@ -1,5 +1,7 @@
 ---
 import '../styles/global.css';
+import { Image } from 'astro:assets';
+import logo from '../assets/logo.jpg';
 import { SITE } from '../data/site';
 
 interface Props { title?: string; description?: string; current?: 'recipes' | 'book' | 'additions' | 'share' }
@@ -19,7 +21,7 @@ const nav = [
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="robots" content="noindex, nofollow" />
     <meta name="description" content={description} />
-    <meta name="theme-color" content="#FBF6EC" />
+    <meta name="theme-color" content="#1C1917" />
     <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
     <title>{fullTitle}</title>
   </head>
@@ -27,7 +29,16 @@ const nav = [
     <a class="skip" href="#main">Skip to content</a>
     <header class="site-header">
       <div class="wrap">
-        <a class="brand" href="/">Heimburger <em>&amp;</em> Fries</a>
+        <a class="brand" href="/" aria-label="Heimburger & Fries Family Recipes — home">
+          <Image src={logo} alt="Heimburger & Fries Family Recipes" height={96} densities={[1, 2]} format="webp" loading="eager" />
+        </a>
+        <form class="header-search" role="search" action="/search/" method="get">
+          <label for="site-q" class="visually-hidden">Search all recipes</label>
+          <input id="site-q" name="q" type="search" placeholder="Search recipes or ingredients" autocomplete="off" />
+          <button type="submit" aria-label="Search">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"></circle><path d="m20 20-3.5-3.5"></path></svg>
+          </button>
+        </form>
         <nav class="site-nav" aria-label="Main">
           {nav.map((n) => <a href={n.href} aria-current={current === n.key ? 'page' : undefined}>{n.label}</a>)}
         </nav>
